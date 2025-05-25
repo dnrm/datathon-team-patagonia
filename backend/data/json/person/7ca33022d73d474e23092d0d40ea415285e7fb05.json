@@ -1,0 +1,3058 @@
+[
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-01-03",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-01-04",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 8.51
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-01-08",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 49.27
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-01-09",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-01-15",
+    "comercio": "RAPPI",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 62.11
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-01-20",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 33.5
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-01-23",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 28.85
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-01-23",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 28.85
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-01-26",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 28.85
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-01-28",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-01-30",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-01-31",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-02-01",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 65.15
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-02-05",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-02-07",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 45.05
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-02-18",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 32.29
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-02-24",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 28.85
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-02-26",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-02-28",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-02-28",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 6.64
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-02-28",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-02-28",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-03-01",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 13.74
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-03-02",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 28.85
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-03-03",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-03-05",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-03-06",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 20.58
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-03-06",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.58
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-03-21",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 26.66
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-03-22",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 26.66
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-03-22",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 28.96
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-03-23",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 28.85
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-03-24",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 48.12
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-03-24",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-03-29",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 28.85
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-03-31",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-03-31",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 28.85
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-04-01",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-04-05",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-04-08",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-04-09",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-04-12",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-04-16",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-04-17",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-04-19",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-04-22",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-04-24",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-04-25",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 28.85
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-04-25",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 28.85
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-04-27",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 28.85
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-04-27",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 28.85
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-05-01",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-05-01",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 28.85
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-05-02",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-05-02",
+    "comercio": "APPLE",
+    "giro_comercio": "TIENDA DE DISCOS",
+    "tipo_venta": "fisica",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-05-02",
+    "comercio": "OXXO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-05-02",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-05-03",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-05-03",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-05-04",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-05-04",
+    "comercio": "APPLE",
+    "giro_comercio": "TIENDA DE DISCOS",
+    "tipo_venta": "fisica",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-05-04",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-05-05",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-05-06",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-05-06",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-05-06",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-05-08",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-05-08",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-05-10",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-05-10",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-05-13",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-05-13",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-05-15",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-05-15",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-05-16",
+    "comercio": "SERV AGUA DREN",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 38.73
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-05-17",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-05-17",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-05-17",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 2.42
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-05-17",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-05-17",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-05-17",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-05-18",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-05-18",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-05-19",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-05-19",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-05-20",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-05-23",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-05-24",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-05-25",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 28.85
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-05-25",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 28.85
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-05-30",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-05-30",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-05-30",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-05-31",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-05-31",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-05-31",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 28.85
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-05-31",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 28.85
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-05-31",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-05-31",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-06-01",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-06-02",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-06-03",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-06-03",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-06-04",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-06-05",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-06-05",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-06-05",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-06-05",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-06-05",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-06-05",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-06-05",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-06-12",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-06-12",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 24.25
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-06-12",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 21.95
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-06-13",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 62.28
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-06-16",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.47
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-06-17",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-06-20",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-06-23",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-06-24",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-06-24",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-06-25",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-06-25",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-06-25",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-06-26",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-06-27",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-06-30",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-06-30",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-06-30",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-01",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-01",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-01",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-01",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-02",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-02",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-02",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-03",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-03",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-04",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-04",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-05",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-05",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-05",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-05",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 35.08
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-05",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-06",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-06",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-08",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-08",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-10",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-10",
+    "comercio": "SERV AGUA DREN",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 64.12
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-10",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-12",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-12",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-15",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-15",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-17",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-17",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-17",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-17",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-17",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.47
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-18",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 57.57
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-19",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-19",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 57.57
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-19",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 57.57
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-20",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 57.57
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-20",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-20",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 45.0
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-20",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 45.0
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-21",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-21",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 57.57
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-22",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 57.57
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-23",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-24",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-25",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-30",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-30",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-07-30",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-08-03",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-08-05",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-08-30",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-08-30",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-08-31",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-08-31",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-09-05",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-09-15",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 56.09
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-09-15",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 2.9
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-09-15",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 101.22
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-09-24",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-09-25",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-09-26",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-09-26",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 86.29
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-09-27",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 86.29
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-09-27",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-09-27",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 86.29
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-09-28",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 86.29
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-09-28",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-09-29",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 86.29
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-09-29",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-10-01",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-10-02",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-10-03",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-10-04",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-10-04",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-10-05",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-10-05",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-10-06",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-10-06",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-10-07",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-10-08",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-10-09",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-10-10",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-10-30",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-10-30",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-10-30",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-10-31",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-10-31",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-10-31",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-10-31",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-11-01",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-11-02",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-11-02",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-11-03",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-11-05",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-11-05",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-11-14",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 103.52
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-11-19",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 103.52
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-11-24",
+    "comercio": "PLAYSTATION NETWORK",
+    "giro_comercio": "BIENES DIGITALES JUEGOS",
+    "tipo_venta": "fisica",
+    "monto": 32.98
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-11-24",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 103.52
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-11-24",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-11-26",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 4.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-11-29",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 5.96
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-11-29",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 103.52
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-11-30",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-11-30",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-11-30",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-01",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-01",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-01",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-01",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-02",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-02",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-02",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-02",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-03",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-03",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-03",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-03",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-03",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-03",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 28.85
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-03",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-04",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 103.52
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-05",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-09",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 103.52
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-14",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 103.52
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-19",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 103.52
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-23",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 4.72
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-24",
+    "comercio": "PLAYSTATION NETWORK",
+    "giro_comercio": "BIENES DIGITALES JUEGOS",
+    "tipo_venta": "fisica",
+    "monto": 32.51
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-24",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-25",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-25",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-25",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-25",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-26",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-26",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-26",
+    "comercio": "PLAYSTATION NETWORK",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 32.45
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-26",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 103.52
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-27",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 26.43
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-27",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-28",
+    "comercio": "PLAYSTATION NETWORK",
+    "giro_comercio": "BIENES DIGITALES JUEGOS",
+    "tipo_venta": "fisica",
+    "monto": 32.63
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-28",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 34.71
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-28",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 34.71
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-28",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 34.71
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-28",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 34.71
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-28",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 34.71
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-28",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 34.71
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-29",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 34.71
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-29",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 34.71
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-29",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 34.71
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-29",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 34.71
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-30",
+    "comercio": "PLAYSTATION NETWORK",
+    "giro_comercio": "BIENES DIGITALES JUEGOS",
+    "tipo_venta": "fisica",
+    "monto": 32.63
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-30",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-30",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-30",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-30",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-30",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-30",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-30",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-30",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-30",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-30",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-30",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-30",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-30",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 17.36
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-30",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-30",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 4.72
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-30",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 4.72
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-30",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.72
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-30",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 17.36
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-30",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-30",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-30",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-30",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 4.72
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-30",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.72
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-30",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 4.72
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-30",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.72
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-30",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 17.36
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-30",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-30",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 4.72
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-30",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.72
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-30",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-30",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-31",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-31",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-31",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2022-12-31",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-01",
+    "comercio": "PLAYSTATION NETWORK",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 33.46
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-02",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-05",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-05",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-05",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-05",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-06",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-06",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-06",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-06",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-07",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-07",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-08",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-08",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-09",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-11",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-12",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-12",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-13",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-13",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-15",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 103.52
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-15",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 103.52
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-15",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 103.52
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-15",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 103.52
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-18",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 34.59
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-18",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-18",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.57
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-18",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 2.88
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-18",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 3.57
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-21",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 34.59
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-21",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-21",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 34.59
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-21",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-21",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 34.59
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-21",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-21",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 34.59
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-21",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-21",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 34.59
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-21",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-21",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 11.15
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-21",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.15
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-21",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 11.15
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-24",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 12.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-24",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-24",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-25",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-25",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-25",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-25",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-26",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-26",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-26",
+    "comercio": "PLAYSTATION NETWORK",
+    "giro_comercio": "BIENES DIGITALES JUEGOS",
+    "tipo_venta": "fisica",
+    "monto": 32.56
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-26",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-27",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-27",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-28",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-28",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-28",
+    "comercio": "PLAYSTATION NETWORK",
+    "giro_comercio": "BIENES DIGITALES JUEGOS",
+    "tipo_venta": "fisica",
+    "monto": 33.32
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-28",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-29",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-29",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-30",
+    "comercio": "PLAYSTATION NETWORK",
+    "giro_comercio": "BIENES DIGITALES JUEGOS",
+    "tipo_venta": "fisica",
+    "monto": 33.11
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-30",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-30",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-30",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 15.06
+  },
+  {
+    "id": "7ca33022d73d474e23092d0d40ea415285e7fb05",
+    "fecha": "2023-01-30",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  }
+]

@@ -1,0 +1,3234 @@
+[
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-01-03",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.05
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-01-04",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 25.78
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-01-04",
+    "comercio": "TOTALPLAY",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 80.54
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-01-04",
+    "comercio": "TULOTERO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 28.96
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-01-05",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-01-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 171.11
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-01-06",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 132.55
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-01-07",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 69.02
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-01-07",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 33.86
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-01-08",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 57.57
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-01-08",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 133.05
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-01-09",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 310.31
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-01-10",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 239.08
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-01-10",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 35.68
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-01-10",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 70.86
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-01-10",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 35.68
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-01-10",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-01-12",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 21.88
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-01-12",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 17.76
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-01-13",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 18.11
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-01-14",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 47.13
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-01-15",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 6.61
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-01-17",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 5.3
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-01-19",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 17.26
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-01-20",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 11.82
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-01-20",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 8.25
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-01-20",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-01-20",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 26.66
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-01-22",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.41
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-01-26",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 38.98
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-01-27",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 23.98
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-01-31",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 162.62
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-01-31",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 10.52
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-02-02",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 31.15
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-02-03",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 53.01
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-02-03",
+    "comercio": "TOTALPLAY",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 80.54
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-02-04",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 26.78
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-02-04",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 33.92
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-02-05",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-02-07",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 119.49
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-02-09",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 21.88
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-02-10",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-02-10",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 107.25
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-02-13",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 11.15
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-02-15",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "digital",
+    "monto": 46.42
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-02-17",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 8.4
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-02-20",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-02-22",
+    "comercio": "TULOTERO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 28.96
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-02-22",
+    "comercio": "CARLS JR",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 23.56
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-02-23",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 5.99
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-02-24",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 21.88
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-02-26",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 58.46
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-02-28",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 41.94
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-03-02",
+    "comercio": "CARLS JR",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 5.07
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-03-04",
+    "comercio": "TOTALPLAY",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 80.54
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-03-05",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-03-05",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 19.93
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-03-05",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.78
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-03-07",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 563.05
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-03-09",
+    "comercio": "CARLS JR",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 41.83
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-03-09",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 17.7
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-03-10",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 18.93
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-03-10",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-03-10",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 326.8
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-03-12",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 32.09
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-03-14",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 22.7
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-03-14",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 6.73
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-03-15",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 14.03
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-03-16",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 26.55
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-03-16",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 34.33
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-03-18",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 23.05
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-03-20",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-03-22",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 23.88
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-03-22",
+    "comercio": "TULOTERO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 28.96
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-03-23",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 48.72
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-03-23",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 47.13
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-03-23",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 328.72
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-03-26",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 146.83
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-03-26",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.99
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-03-27",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 8.51
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-03-29",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 14.79
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-03-29",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.13
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-03-29",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 12.42
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-03-31",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 343.17
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-04-02",
+    "comercio": "CARLS JR",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 25.89
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-04-03",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 28.03
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-04-05",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 42.52
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-04-05",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 25.57
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-04-06",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 13.24
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-04-06",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 19.16
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-04-06",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 6.26
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-04-06",
+    "comercio": "TOTALPLAY",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 80.54
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-04-06",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.18
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-04-08",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 23.68
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-04-10",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-04-10",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 3.23
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-04-13",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 360.14
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-04-13",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 3.06
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-04-16",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 1.79
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-04-17",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 19.77
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-04-17",
+    "comercio": "TULOTERO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 28.96
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-04-19",
+    "comercio": "CARLS JR",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 27.79
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-04-20",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-04-23",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 12.53
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-04-25",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 79.17
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-04-25",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 21.95
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-04-26",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-04-26",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 12.9
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-04-27",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.23
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-04-27",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-04-28",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 23.78
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-04-28",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.03
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-04-29",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 8.51
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-04-30",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 92.03
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-05-03",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 35.94
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-05-03",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 14.61
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-05-03",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 13.68
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-05-05",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 42.52
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-05-07",
+    "comercio": "TOTALPLAY",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 80.54
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-05-10",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-05-11",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 24.02
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-05-11",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 44.18
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-05-12",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 45.61
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-05-12",
+    "comercio": "TULOTERO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 28.96
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-05-12",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 3.46
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-05-15",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "digital",
+    "monto": 825.67
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-05-15",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "digital",
+    "monto": 825.67
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-05-15",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "digital",
+    "monto": 825.67
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-05-15",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "digital",
+    "monto": 825.67
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-05-17",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 26.58
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-05-18",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 804.27
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-05-18",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 80.04
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-05-18",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 380.39
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-05-19",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 36.07
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-05-20",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 24.14
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-05-20",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 27.91
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-05-20",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-05-20",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-05-23",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 10.29
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-05-23",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 388.92
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-05-25",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 19.62
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-05-25",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-05-25",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 14.59
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-05-26",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 362.63
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-05-30",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 35.93
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-06-01",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 150.3
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-06-02",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 20.83
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-06-04",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 25.33
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-06-04",
+    "comercio": "CARLS JR",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 24.95
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-06-05",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 42.52
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-06-05",
+    "comercio": "TULOTERO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-06-07",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 35.15
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-06-08",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 53.66
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-06-08",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 45.95
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-06-10",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-06-11",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 4.72
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-06-11",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 1.96
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-06-12",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 155.69
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-06-14",
+    "comercio": "TULOTERO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 34.71
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-06-15",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 20.81
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-06-16",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 27.15
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-06-16",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 146.57
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-06-17",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 13.91
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-06-17",
+    "comercio": "TOTALPLAY",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 86.4
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-06-18",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 173.71
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-06-18",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 21.73
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-06-18",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.95
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-06-19",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 21.38
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-06-20",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 54.12
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-06-20",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-06-20",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 28.64
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-06-26",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 10.7
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-07-02",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 31.66
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-07-03",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 18.75
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-07-03",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-07-04",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 103.52
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-07-04",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 6.67
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-07-05",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 42.52
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-07-05",
+    "comercio": "TOTALPLAY",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 83.99
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-07-05",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 47.11
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-07-05",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "digital",
+    "monto": 44.47
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-07-06",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 2.71
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-07-09",
+    "comercio": "CARLS JR",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 25.89
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-07-10",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 74.68
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-07-10",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-07-10",
+    "comercio": "TULOTERO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 28.96
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-07-11",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 41.21
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-07-11",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 4.72
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-07-12",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 20.35
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-07-12",
+    "comercio": "DISNEY PLUS",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 31.15
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-07-14",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 27.62
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-07-15",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 20.81
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-07-17",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 13.91
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-07-18",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 436.73
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-07-18",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 100.78
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-07-20",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-07-21",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 31.38
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-07-21",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 93.38
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-07-25",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 13.28
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-07-27",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 11.15
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-07-30",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 106.39
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-07-31",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 205.08
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-07-31",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 34.94
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-08-01",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 4.72
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-08-02",
+    "comercio": "TOTALPLAY",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 83.99
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-08-05",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 42.52
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-08-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 244.25
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-08-06",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 55.52
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-08-10",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-08-10",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 25.44
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-08-11",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 43.52
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-08-11",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 41.48
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-08-11",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 34.02
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-08-12",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 20.35
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-08-12",
+    "comercio": "DISNEY PLUS",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-08-15",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 20.81
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-08-15",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 49.3
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-08-16",
+    "comercio": "TULOTERO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-08-17",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 421.24
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-08-20",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-08-21",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 38.04
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-08-24",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 94.56
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-08-24",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 31.38
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-08-24",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 31.38
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-08-25",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 6.56
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-08-27",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 13.91
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-08-31",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 63.65
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-08-31",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.56
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-09-01",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 29.48
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-09-04",
+    "comercio": "TOTALPLAY",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 83.99
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-09-05",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 42.52
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-09-08",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 56.8
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-09-08",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 20.81
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-09-08",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 167.84
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-09-08",
+    "comercio": "TULOTERO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 28.96
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-09-09",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 42.52
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-09-09",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 40.34
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-09-10",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.19
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-09-10",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 40.34
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-09-10",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-09-11",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 18.97
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-09-11",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.33
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-09-12",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 25.29
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-09-12",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 20.35
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-09-12",
+    "comercio": "DISNEY PLUS",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-09-15",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 20.81
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-09-15",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 72.99
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-09-15",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 258.51
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-09-16",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 563.05
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-09-17",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 36.77
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-09-18",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 89.8
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-09-20",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-09-20",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.19
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-09-20",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-09-27",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 47.11
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-09-28",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 42.86
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-09-28",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "fisica",
+    "monto": 22.53
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-09-29",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 12.65
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-09-29",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 11.62
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-09-30",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 174.82
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-10-01",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 30.76
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-10-01",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 55.37
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-10-02",
+    "comercio": "TULOTERO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 28.96
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-10-04",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 6.61
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-10-05",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 42.52
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-10-05",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.32
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-10-05",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.87
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-10-06",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 12.65
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-10-06",
+    "comercio": "CARLS JR",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 41.31
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-10-08",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 20.81
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-10-08",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 4.72
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-10-08",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 20.81
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-10-08",
+    "comercio": "TOTALPLAY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 83.99
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-10-09",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 22.14
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-10-09",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 2.57
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-10-10",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-10-11",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 45.07
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-10-12",
+    "comercio": "DISNEY PLUS",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-10-13",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 11.62
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-10-14",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 54.01
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-10-14",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 46.38
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-10-14",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "fisica",
+    "monto": 115.12
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-10-14",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 304.65
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-10-15",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 20.81
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-10-16",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 43.21
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-10-18",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 46.42
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-10-18",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 13.91
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-10-18",
+    "comercio": "TULOTERO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-10-18",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 56.65
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-10-19",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 26.36
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-10-20",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.11
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-10-20",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-10-20",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 44.53
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-10-23",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 413.7
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-10-25",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 22.67
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-10-25",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 32.29
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-10-25",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 103.52
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-10-27",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 97.78
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-10-28",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 22.67
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-10-30",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 19.54
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-10-31",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 27.12
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-11-01",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 60.57
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-11-01",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.23
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-11-01",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 12.65
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-11-02",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 58.77
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-11-03",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 100.42
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-11-03",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 5.81
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-11-04",
+    "comercio": "TOTALPLAY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 83.99
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-11-05",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 42.52
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-11-06",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 43.67
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-11-10",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-11-10",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-11-11",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.5
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-11-11",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 4.72
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-11-12",
+    "comercio": "DISNEY PLUS",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-11-13",
+    "comercio": "TULOTERO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 28.96
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-11-13",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 137.87
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-11-16",
+    "comercio": "CARLS JR",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 52.05
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-11-17",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 27.62
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-11-17",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 358.05
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-11-17",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 34.02
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-11-18",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 43.78
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-11-19",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 46.08
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-11-20",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-11-22",
+    "comercio": "TULOTERO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 80.66
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-11-22",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 21.72
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-11-23",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 77.44
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-11-25",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 32.29
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-11-26",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 244.13
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-11-28",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 139.96
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-11-29",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-11-30",
+    "comercio": "CARLS JR",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 44.47
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-11-30",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 48.12
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-11-30",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 31.69
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-12-01",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.55
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-12-02",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 21.14
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-12-04",
+    "comercio": "CARLS JR",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 39.07
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-12-05",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 42.52
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-12-06",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 18.62
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-12-06",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 27.4
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-12-07",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 35.93
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-12-08",
+    "comercio": "TOTALPLAY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 83.99
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-12-10",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-12-11",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 26.72
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-12-11",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.76
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-12-11",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 25.51
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-12-11",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.13
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-12-12",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 20.35
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-12-12",
+    "comercio": "DISNEY PLUS",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-12-14",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 19.43
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-12-14",
+    "comercio": "CARLS JR",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 39.07
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-12-15",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 20.81
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-12-16",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 27.15
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-12-17",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 13.91
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-12-18",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 20.89
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-12-20",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-12-21",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 58.89
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-12-21",
+    "comercio": "TULOTERO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-12-21",
+    "comercio": "TULOTERO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-12-22",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 67.68
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-12-24",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 44.37
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-12-24",
+    "comercio": "RAPPI",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 26.17
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-12-24",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 27.04
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-12-25",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 32.29
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-12-26",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 31.38
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-12-26",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 137.39
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-12-26",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 85.25
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-12-26",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 26.55
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-12-30",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.59
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-12-30",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 2.91
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-12-31",
+    "comercio": "RAPPI",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 33.59
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-12-31",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 25.46
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2023-01-02",
+    "comercio": "TOTALPLAY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 83.99
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2023-01-03",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 26.78
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2023-01-04",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 25.97
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2023-01-05",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 45.96
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2023-01-09",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 20.81
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2023-01-10",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2023-01-11",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.81
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2023-01-12",
+    "comercio": "DISNEY PLUS",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2023-01-15",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 20.81
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2023-01-15",
+    "comercio": "TULOTERO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 28.96
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2023-01-17",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 20.35
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2023-01-17",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 28.13
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2023-01-17",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.92
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2023-01-17",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.99
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2023-01-17",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 29.31
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2023-01-18",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.84
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2023-01-19",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 25.27
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2023-01-19",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.94
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2023-01-19",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 20.58
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2023-01-19",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 30.97
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2023-01-20",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2023-01-20",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 50.68
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2023-01-24",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 26.8
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2023-01-24",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 20.08
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2023-01-25",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 32.29
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2023-01-27",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 13.91
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2023-01-28",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 1700.38
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2023-01-30",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 45.73
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2023-01-30",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 24.23
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2023-01-30",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 24.14
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2023-01-30",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 21.44
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2023-01-30",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 42.63
+  }
+]

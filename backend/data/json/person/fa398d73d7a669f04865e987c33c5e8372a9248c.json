@@ -1,0 +1,1722 @@
+[
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-01-10",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-01-21",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 288.85
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-01-28",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 342.45
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-02-09",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-03-01",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 477.48
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-03-01",
+    "comercio": "MERCADOPAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 1873.94
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-03-07",
+    "comercio": "TOTALPLAY",
+    "giro_comercio": "MERCADEO DIRECTO - COMERCIANTES DE TELEMERCADEO",
+    "tipo_venta": "digital",
+    "monto": 75.72
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-03-10",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-03-11",
+    "comercio": "MAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 14.64
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-03-23",
+    "comercio": "MERCADOPAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 1619.02
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-03-24",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 416.02
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-03-29",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 630.05
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-04-09",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-04-10",
+    "comercio": "MAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 14.64
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-04-12",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-04-12",
+    "comercio": "MAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 14.64
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-04-14",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-04-14",
+    "comercio": "MAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 14.64
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-04-16",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-04-17",
+    "comercio": "MAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 14.64
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-04-18",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-04-25",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 500.51
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-04-26",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 487.14
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-04-28",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 16.24
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-05-04",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 264.47
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-05-07",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 371.75
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-05-09",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-05-12",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-05-19",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 473.46
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-05-24",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 272.5
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-05-25",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 1868.06
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-05-25",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 1868.06
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-05-28",
+    "comercio": "MAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.24
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-05-28",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 237.85
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-06-08",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-06-13",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 24.44
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-06-16",
+    "comercio": "RAPPI",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 56.11
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-06-17",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 485.79
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-06-18",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 116.27
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-06-18",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 116.27
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-06-21",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 552.16
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-06-22",
+    "comercio": "TEMU",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 196.44
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-06-27",
+    "comercio": "MAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.24
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-06-28",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 371.61
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-07-06",
+    "comercio": "MERCADOPAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 371.65
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-07-06",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-07-06",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 87.55
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-07-06",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 123.21
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-07-08",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-07-13",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 269.34
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-07-17",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.41
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-07-18",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 365.5
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-07-19",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 57.72
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-07-27",
+    "comercio": "MAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.24
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-08-02",
+    "comercio": "MERCADOPAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 643.4
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-08-02",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 94.56
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-08-07",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 25.4
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-08-15",
+    "comercio": "TELCEL",
+    "giro_comercio": "MERCADEO DIRECTO - COMERCIANTES DE TELEMERCADEO",
+    "tipo_venta": "digital",
+    "monto": 157.75
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-08-24",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 110.41
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-08-26",
+    "comercio": "MAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.24
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-08-29",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-08-30",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 55.91
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-09-06",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 25.4
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-09-06",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 708.2
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-09-09",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 292.48
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-09-12",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 203.47
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-09-12",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.58
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-09-12",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 101.22
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-09-12",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 203.47
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-09-12",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-09-12",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 20.58
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-09-12",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 101.22
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-09-12",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 203.47
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-09-12",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 10.47
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-09-12",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 40.34
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-09-12",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 10.47
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-09-12",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.58
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-09-12",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 40.34
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-09-12",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 20.58
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-09-12",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 40.34
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-09-12",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 20.58
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-09-13",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.19
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-09-13",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 10.47
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-09-13",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 2.19
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-09-13",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 20.58
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-09-13",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 40.34
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-09-13",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 10.47
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-09-14",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.47
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-09-15",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 203.47
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-09-15",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 34.48
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-09-16",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 40.34
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-09-16",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 101.22
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-09-16",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 20.58
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-09-16",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 40.34
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-09-16",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 61.01
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-09-16",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-09-17",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.47
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-09-17",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 101.22
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-09-17",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 101.22
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-09-19",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 162.11
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-09-19",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 162.11
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-09-20",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 172.02
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-09-25",
+    "comercio": "MAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.24
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-09-27",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 1490.12
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-10-05",
+    "comercio": "TOTALPLAY",
+    "giro_comercio": "MERCADEO DIRECTO - COMERCIANTES DE TELEMERCADEO",
+    "tipo_venta": "digital",
+    "monto": 79.17
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-10-05",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 79.17
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-10-10",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-10-25",
+    "comercio": "MAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.24
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-10-31",
+    "comercio": "MERCADOPAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 2251.89
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-10-31",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 2251.89
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-10-31",
+    "comercio": "MERCADOPAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 2251.89
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-10-31",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 1501.65
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-10-31",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 750.49
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-11-05",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-11-10",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 543.91
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-11-20",
+    "comercio": "TEMU",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 35.08
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-11-22",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 116.27
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-11-24",
+    "comercio": "MAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.24
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-11-29",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2022.68
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-11-29",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2022.68
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-11-29",
+    "comercio": "MERCADOPAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 2022.68
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-11-29",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 1451.99
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-12-05",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-12-14",
+    "comercio": "HEB",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 133.09
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-12-14",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 115.12
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-12-16",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 115.12
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-12-17",
+    "comercio": "WALMART",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 29.3
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-12-17",
+    "comercio": "SORIANA",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 14.75
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-12-19",
+    "comercio": "SORIANA",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 78.84
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-12-19",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-12-20",
+    "comercio": "WALMART",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 75.79
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-12-20",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-12-20",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-12-21",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-12-21",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-12-21",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-12-22",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-12-22",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-12-22",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-12-23",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.09
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-12-23",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-12-23",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-12-23",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 17.36
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-12-24",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-12-24",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-12-24",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-12-24",
+    "comercio": "MAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.24
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-12-27",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 30.77
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-12-27",
+    "comercio": "HEB",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 59.19
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-12-27",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-12-27",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-12-28",
+    "comercio": "SERV AGUA DREN",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 189.8
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-12-28",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 649.32
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-12-28",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 631.98
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-12-28",
+    "comercio": "HEB",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 84.94
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-12-28",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 97.32
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-12-28",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-12-28",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-12-28",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-12-29",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 589.23
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-12-29",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-12-29",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-12-30",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-12-31",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-12-31",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2022-12-31",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 392.78
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-02",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 75.49
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-04",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 146.56
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-04",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-07",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 750.54
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-10",
+    "comercio": "GOOGLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 6.37
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-10",
+    "comercio": "GOOGLE",
+    "giro_comercio": "BIENES DIGITALES JUEGOS",
+    "tipo_venta": "fisica",
+    "monto": 10.87
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-10",
+    "comercio": "GOOGLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 10.87
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-10",
+    "comercio": "GOOGLE",
+    "giro_comercio": "SERV PROC DATOS - DISENO Y PROGRAM DE SISTEMAS",
+    "tipo_venta": "fisica",
+    "monto": 10.87
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-10",
+    "comercio": "GOOGLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 41.81
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-10",
+    "comercio": "GOOGLE",
+    "giro_comercio": "BIENES DIGITALES JUEGOS",
+    "tipo_venta": "fisica",
+    "monto": 41.81
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-10",
+    "comercio": "GOOGLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 41.81
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-13",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 255.6
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-14",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 146.78
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-16",
+    "comercio": "TELCEL",
+    "giro_comercio": "MERCADEO DIRECTO - COMERCIANTES DE TELEMERCADEO",
+    "tipo_venta": "digital",
+    "monto": 134.77
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-16",
+    "comercio": "SORIANA",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 11.18
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-18",
+    "comercio": "HEB",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 56.34
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-19",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 31.73
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-19",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 54.62
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-19",
+    "comercio": "WALMART",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 64.45
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-19",
+    "comercio": "GOOGLE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 21.07
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-19",
+    "comercio": "GOOGLE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 6.39
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-19",
+    "comercio": "GOOGLE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 41.95
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-19",
+    "comercio": "GOOGLE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 21.07
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-19",
+    "comercio": "GOOGLE",
+    "giro_comercio": "BIENES DIGITALES JUEGOS",
+    "tipo_venta": "fisica",
+    "monto": 41.95
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-19",
+    "comercio": "GOOGLE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 6.39
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-20",
+    "comercio": "TOTALPLAY",
+    "giro_comercio": "MERCADEO DIRECTO - COMERCIANTES DE TELEMERCADEO",
+    "tipo_venta": "digital",
+    "monto": 91.57
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-21",
+    "comercio": "GOOGLE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 41.8
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-21",
+    "comercio": "GOOGLE",
+    "giro_comercio": "SERV PROC DATOS - DISENO Y PROGRAM DE SISTEMAS",
+    "tipo_venta": "fisica",
+    "monto": 10.87
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-21",
+    "comercio": "GOOGLE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 10.87
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-22",
+    "comercio": "SORIANA",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 21.32
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-23",
+    "comercio": "SORIANA",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 27.63
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-23",
+    "comercio": "MAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.24
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-24",
+    "comercio": "GOOGLE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 4.06
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-24",
+    "comercio": "GOOGLE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 20.67
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-24",
+    "comercio": "GOOGLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 20.67
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-24",
+    "comercio": "GOOGLE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 20.67
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-25",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 102.53
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-26",
+    "comercio": "GOOGLE",
+    "giro_comercio": "SERV PROC DATOS - DISENO Y PROGRAM DE SISTEMAS",
+    "tipo_venta": "fisica",
+    "monto": 10.7
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-26",
+    "comercio": "GOOGLE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 41.15
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-26",
+    "comercio": "GOOGLE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 41.15
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-26",
+    "comercio": "GOOGLE",
+    "giro_comercio": "SERV PROC DATOS - DISENO Y PROGRAM DE SISTEMAS",
+    "tipo_venta": "fisica",
+    "monto": 41.15
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-26",
+    "comercio": "MERCADOPAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 656.9
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-27",
+    "comercio": "SORIANA",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 16.53
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-28",
+    "comercio": "GOOGLE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 21.17
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-28",
+    "comercio": "GOOGLE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 21.17
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-28",
+    "comercio": "GOOGLE",
+    "giro_comercio": "BIENES DIGITALES JUEGOS",
+    "tipo_venta": "fisica",
+    "monto": 21.17
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-28",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 183.42
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-30",
+    "comercio": "MERCADOPAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 2194.12
+  },
+  {
+    "id": "fa398d73d7a669f04865e987c33c5e8372a9248c",
+    "fecha": "2023-01-30",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 2194.12
+  }
+]

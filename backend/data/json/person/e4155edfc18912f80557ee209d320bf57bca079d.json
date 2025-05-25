@@ -1,0 +1,2474 @@
+[
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-01-01",
+    "comercio": "GOOGLE",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 32.5
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-01-01",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 82.13
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-01-02",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 78.98
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-01-04",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 42.5
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-01-05",
+    "comercio": "ALLIANZ MEXICO",
+    "giro_comercio": "ASEGURADORAS - VENTAS DE SEGUROS, POLIZAS",
+    "tipo_venta": "digital",
+    "monto": 513.4
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-01-05",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 329.93
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-01-10",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 54.83
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-01-10",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.75
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-01-10",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 11.87
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-01-15",
+    "comercio": "ROTOPLAS",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 38.04
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-01-16",
+    "comercio": "PARCO",
+    "giro_comercio": "ESTACIONAMIENTOS/PENSIONES",
+    "tipo_venta": "digital",
+    "monto": 6.04
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-01-16",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 37.35
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-01-24",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-01-24",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 41.6
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-01-24",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 77.52
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-01-27",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 216.94
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-01-30",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-01-30",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 55.6
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-02-01",
+    "comercio": "GOOGLE",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 32.5
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-02-01",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 19.77
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-02-02",
+    "comercio": "ALLIANZ MEXICO",
+    "giro_comercio": "ASEGURADORAS - VENTAS DE SEGUROS, POLIZAS",
+    "tipo_venta": "digital",
+    "monto": 537.43
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-02-02",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 65.44
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-02-06",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 32.06
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-02-06",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 329.93
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-02-07",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 17.92
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-02-07",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-02-09",
+    "comercio": "GOOGLE",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 10.47
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-02-09",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 71.37
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-02-10",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 21.44
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-02-10",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 120.18
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-02-10",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-02-10",
+    "comercio": "PARCO",
+    "giro_comercio": "ESTACIONAMIENTOS/PENSIONES",
+    "tipo_venta": "digital",
+    "monto": 3.52
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-02-11",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 87.46
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-02-11",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 12.76
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-02-13",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.82
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-02-14",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "PRODUCCION Y DISTRIBUCION DE PELICULAS Y VIDEOS",
+    "tipo_venta": "fisica",
+    "monto": 16.21
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-02-15",
+    "comercio": "ROTOPLAS",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 38.04
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-02-15",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 24.94
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-02-16",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 103.52
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-02-17",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-02-18",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 22.2
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-02-21",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-02-23",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 34.07
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-02-23",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 10.69
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-02-23",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 40.5
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-02-24",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-02-26",
+    "comercio": "GOOGLE",
+    "giro_comercio": "SERVICIOS PUBLICITARIOS",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-02-27",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 20.37
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-02-28",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 20.23
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-02-28",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-03-01",
+    "comercio": "GOOGLE",
+    "giro_comercio": "SERV PROC DATOS - DISENO Y PROGRAM DE SISTEMAS",
+    "tipo_venta": "digital",
+    "monto": 32.5
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-03-01",
+    "comercio": "GOOGLE",
+    "giro_comercio": "SERVICIOS PUBLICITARIOS",
+    "tipo_venta": "digital",
+    "monto": 11.68
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-03-01",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 19.77
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-03-03",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 34.07
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-03-03",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 127.53
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-03-03",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 30.0
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-03-05",
+    "comercio": "ALLIANZ MEXICO",
+    "giro_comercio": "ASEGURADORAS - VENTAS DE SEGUROS, POLIZAS",
+    "tipo_venta": "digital",
+    "monto": 537.43
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-03-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-03-07",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 33.55
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-03-08",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 16.04
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-03-09",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 18.75
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-03-09",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 14.61
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-03-09",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 52.97
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-03-09",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 22.25
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-03-14",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "PRODUCCION Y DISTRIBUCION DE PELICULAS Y VIDEOS",
+    "tipo_venta": "fisica",
+    "monto": 16.21
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-03-15",
+    "comercio": "ROTOPLAS",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 38.04
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-03-17",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 29.46
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-03-24",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-03-24",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 34.07
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-03-27",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 40.34
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-03-29",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 18.85
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-03-30",
+    "comercio": "PARCO",
+    "giro_comercio": "ESTACIONAMIENTOS/PENSIONES",
+    "tipo_venta": "digital",
+    "monto": 8.57
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-04-01",
+    "comercio": "GOOGLE",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 32.5
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-04-02",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 19.77
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-04-05",
+    "comercio": "ALLIANZ MEXICO",
+    "giro_comercio": "ASEGURADORAS - VENTAS DE SEGUROS, POLIZAS",
+    "tipo_venta": "digital",
+    "monto": 537.43
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-04-07",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 87.46
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-04-08",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 18.75
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-04-08",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 329.93
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-04-10",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.75
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-04-10",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 12.55
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-04-14",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "PRODUCCION Y DISTRIBUCION DE PELICULAS Y VIDEOS",
+    "tipo_venta": "fisica",
+    "monto": 16.21
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-04-14",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 29.19
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-04-15",
+    "comercio": "ROTOPLAS",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 38.04
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-04-19",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-04-19",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-04-19",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 17.92
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-04-21",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-04-24",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 22.2
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-04-27",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-05-01",
+    "comercio": "GOOGLE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 59.16
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-05-01",
+    "comercio": "GOOGLE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 37.07
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-05-01",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 19.77
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-05-02",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 59.8
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-05-03",
+    "comercio": "ALLIANZ MEXICO",
+    "giro_comercio": "ASEGURADORAS - VENTAS DE SEGUROS, POLIZAS",
+    "tipo_venta": "digital",
+    "monto": 537.43
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-05-04",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-05-07",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 412.26
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-05-08",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 8.85
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-05-10",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 12.55
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-05-14",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "PRODUCCION Y DISTRIBUCION DE PELICULAS Y VIDEOS",
+    "tipo_venta": "fisica",
+    "monto": 16.21
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-05-15",
+    "comercio": "ROTOPLAS",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 38.04
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-05-16",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 21.06
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-05-16",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 7.82
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-05-19",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-05-20",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 30.82
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-05-25",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-05-26",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 25.4
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-05-29",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 13.91
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-05-30",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 13.92
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-05-31",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 19.77
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-06-01",
+    "comercio": "GOOGLE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "digital",
+    "monto": 40.56
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-06-02",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.67
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-06-03",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-06-05",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.4
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-06-05",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.38
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-06-06",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.42
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-06-06",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 39.1
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-06-06",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.1
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-06-06",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 329.93
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-06-10",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 12.34
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-06-11",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 15.06
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-06-11",
+    "comercio": "PARCO",
+    "giro_comercio": "ESTACIONAMIENTOS/PENSIONES",
+    "tipo_venta": "digital",
+    "monto": 9.83
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-06-12",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 46.43
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-06-13",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 43.4
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-06-14",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "PRODUCCION Y DISTRIBUCION DE PELICULAS Y VIDEOS",
+    "tipo_venta": "fisica",
+    "monto": 16.21
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-06-14",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 17.47
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-06-15",
+    "comercio": "ROTOPLAS",
+    "giro_comercio": "EQUIPO - PLOMERIA Y CALEFACCION",
+    "tipo_venta": "digital",
+    "monto": 38.04
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-06-15",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 36.77
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-06-17",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 16.78
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-06-18",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 26.55
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-06-19",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 11.51
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-06-19",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-06-20",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 6.5
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-06-21",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 9.78
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-06-22",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 45.23
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-06-22",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 6.9
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-06-24",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 30.91
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-06-25",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-06-25",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 74.8
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-06-25",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-07-01",
+    "comercio": "GOOGLE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 40.56
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-07-01",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 19.77
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-07-02",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 33.44
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-07-03",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-07-04",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 12.45
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-07-05",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-07-06",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 33.23
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-07-06",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 30.76
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-07-08",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 329.93
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-07-08",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 329.93
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-07-08",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 329.93
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-07-08",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 329.93
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-07-09",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 82.57
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-07-11",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 15.06
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-07-12",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 11.51
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-07-13",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 40.8
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-07-14",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "PRODUCCION Y DISTRIBUCION DE PELICULAS Y VIDEOS",
+    "tipo_venta": "fisica",
+    "monto": 16.21
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-07-15",
+    "comercio": "ROTOPLAS",
+    "giro_comercio": "EQUIPO - PLOMERIA Y CALEFACCION",
+    "tipo_venta": "digital",
+    "monto": 38.04
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-07-16",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 30.48
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-07-19",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-07-20",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 14.79
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-07-20",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 6.5
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-07-25",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-07-25",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 21.72
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-07-25",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-07-26",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-07-26",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 18.51
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-07-27",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-07-29",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 12.66
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-08-01",
+    "comercio": "GOOGLE",
+    "giro_comercio": "SERVICIOS PUBLICITARIOS",
+    "tipo_venta": "fisica",
+    "monto": 40.56
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-08-01",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.77
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-08-02",
+    "comercio": "PARCO",
+    "giro_comercio": "ESTACIONAMIENTOS/PENSIONES",
+    "tipo_venta": "digital",
+    "monto": 3.52
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-08-03",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-08-03",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.72
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-08-04",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 19.31
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-08-07",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 11.51
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-08-10",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 10.48
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-08-10",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 24.54
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-08-10",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 13.21
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-08-11",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 15.06
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-08-13",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 12.3
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-08-13",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 43.97
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-08-14",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "PRODUCCION Y DISTRIBUCION DE PELICULAS Y VIDEOS",
+    "tipo_venta": "fisica",
+    "monto": 16.21
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-08-15",
+    "comercio": "ROTOPLAS",
+    "giro_comercio": "EQUIPO - PLOMERIA Y CALEFACCION",
+    "tipo_venta": "digital",
+    "monto": 38.04
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-08-15",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 48.26
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-08-17",
+    "comercio": "PARCO",
+    "giro_comercio": "ESTACIONAMIENTOS/PENSIONES",
+    "tipo_venta": "digital",
+    "monto": 3.52
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-08-18",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.93
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-08-19",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-08-20",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 14.89
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-08-20",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 6.5
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-08-25",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-08-25",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-08-25",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 47.71
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-08-25",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 30.58
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-08-25",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-08-26",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.11
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-08-26",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 57.08
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-08-31",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 31.03
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-09-01",
+    "comercio": "GOOGLE",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 40.56
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-09-01",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.77
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-09-01",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 71.38
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-09-02",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 34.96
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-09-02",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 39.19
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-09-03",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-09-09",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 10.92
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-09-09",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 47.51
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-09-09",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.95
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-09-10",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 46.71
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-09-11",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.18
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-09-11",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 15.06
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-09-11",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.04
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-09-13",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 45.25
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-09-13",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.74
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-09-14",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "PRODUCCION Y DISTRIBUCION DE PELICULAS Y VIDEOS",
+    "tipo_venta": "fisica",
+    "monto": 16.21
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-09-15",
+    "comercio": "ROTOPLAS",
+    "giro_comercio": "EQUIPO - PLOMERIA Y CALEFACCION",
+    "tipo_venta": "digital",
+    "monto": 38.04
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-09-17",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.19
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-09-17",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 20.12
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-09-19",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-09-19",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 19.89
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-09-19",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 21.67
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-09-20",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 12.76
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-09-22",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-09-24",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 31.15
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-09-25",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-09-25",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 36.09
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-09-25",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-09-26",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 10.58
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-10-01",
+    "comercio": "GOOGLE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 40.56
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-10-01",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 19.77
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-10-02",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 67.56
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-10-03",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-10-04",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 31.41
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-10-04",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 6.56
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-10-05",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 12.65
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-10-09",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 82.54
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-10-09",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 12.55
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-10-13",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-10-13",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 44.81
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-10-13",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.66
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-10-14",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "RENTA DE VIDEOS  (VIDEOS),",
+    "tipo_venta": "fisica",
+    "monto": 16.21
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-10-14",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 57.07
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-10-15",
+    "comercio": "ROTOPLAS",
+    "giro_comercio": "EQUIPO - PLOMERIA Y CALEFACCION",
+    "tipo_venta": "digital",
+    "monto": 38.04
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-10-19",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-10-21",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 24.25
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-10-22",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 14.03
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-10-23",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 28.73
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-10-23",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 10.24
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-10-24",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 44.93
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-10-25",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-10-25",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.75
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-10-25",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-11-01",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 19.77
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-11-01",
+    "comercio": "GOOGLE",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 40.56
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-11-03",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-11-03",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-11-03",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 43.81
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-11-03",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 27.83
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-11-04",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 62.32
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-11-08",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.03
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-11-09",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 12.55
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-11-09",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 24.54
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-11-12",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 37.81
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-11-13",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.5
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-11-14",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "MEDIOS DE COMUNICACION DIGITAL LIBROS PELICULAS MU",
+    "tipo_venta": "fisica",
+    "monto": 16.21
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-11-15",
+    "comercio": "ROTOPLAS",
+    "giro_comercio": "EQUIPO - PLOMERIA Y CALEFACCION",
+    "tipo_venta": "digital",
+    "monto": 38.04
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-11-15",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-11-19",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-11-19",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 14.14
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-11-19",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 6.5
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-11-22",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 22.01
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-11-25",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-11-26",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.66
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-11-30",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.47
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-12-01",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.45
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-12-01",
+    "comercio": "GOOGLE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 40.56
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-12-01",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 57.45
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-12-02",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 19.77
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-12-03",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-12-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 12.55
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-12-06",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 11.51
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-12-08",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-12-11",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 147.52
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-12-12",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 33.73
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-12-13",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-12-13",
+    "comercio": "PARCO",
+    "giro_comercio": "ESTACIONAMIENTOS/PENSIONES",
+    "tipo_venta": "digital",
+    "monto": 3.52
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-12-13",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.57
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-12-14",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 16.21
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-12-14",
+    "comercio": "PARCO",
+    "giro_comercio": "ESTACIONAMIENTOS/PENSIONES",
+    "tipo_venta": "digital",
+    "monto": 3.52
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-12-15",
+    "comercio": "ROTOPLAS",
+    "giro_comercio": "EQUIPO - PLOMERIA Y CALEFACCION",
+    "tipo_venta": "digital",
+    "monto": 38.04
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-12-19",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-12-19",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 6.5
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-12-20",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.55
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-12-20",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.53
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-12-25",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-12-26",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-12-27",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 12.92
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2023-01-01",
+    "comercio": "GOOGLE",
+    "giro_comercio": "SERVICIOS PUBLICITARIOS",
+    "tipo_venta": "fisica",
+    "monto": 40.56
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2023-01-01",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 28.85
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2023-01-01",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2023-01-02",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 19.77
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2023-01-03",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2023-01-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 16.1
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2023-01-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 10.89
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2023-01-14",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "MEDIOS DE COMUNICACION DIGITAL LIBROS PELICULAS MU",
+    "tipo_venta": "fisica",
+    "monto": 16.21
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2023-01-15",
+    "comercio": "ROTOPLAS",
+    "giro_comercio": "EQUIPO - PLOMERIA Y CALEFACCION",
+    "tipo_venta": "digital",
+    "monto": 38.04
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2023-01-18",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.75
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2023-01-19",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 12.76
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2023-01-20",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2023-01-25",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2023-01-26",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  }
+]

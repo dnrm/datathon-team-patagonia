@@ -1,0 +1,994 @@
+[
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-01-03",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "digital",
+    "monto": 300.24
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-01-09",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "digital",
+    "monto": 81.86
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-01-12",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 9.76
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-01-14",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-01-16",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "digital",
+    "monto": 207.83
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-01-19",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-01-27",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-02-04",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 62.28
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-02-07",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.32
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-02-09",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 19.92
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-02-18",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-02-19",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 2.42
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-02-23",
+    "comercio": "METROBUS",
+    "giro_comercio": "TRANSPORTE LOCAL URBANO Y SUBURB DE PASAJEROS",
+    "tipo_venta": "fisica",
+    "monto": 3.69
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-02-25",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.07
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-02-27",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-03-03",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.59
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-03-03",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 1.45
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-03-04",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 31.32
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-03-04",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 57.18
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-03-11",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 203.41
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-03-16",
+    "comercio": "METROBUS",
+    "giro_comercio": "TRANSPORTE LOCAL URBANO Y SUBURB DE PASAJEROS",
+    "tipo_venta": "fisica",
+    "monto": 3.69
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-03-19",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-03-23",
+    "comercio": "METROBUS",
+    "giro_comercio": "TRANSPORTE LOCAL URBANO Y SUBURB DE PASAJEROS",
+    "tipo_venta": "fisica",
+    "monto": 7.13
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-03-23",
+    "comercio": "METROBUS",
+    "giro_comercio": "TRANSPORTE LOCAL URBANO Y SUBURB DE PASAJEROS",
+    "tipo_venta": "fisica",
+    "monto": 3.69
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-03-27",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-03-27",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 27.8
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-03-27",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 243.91
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-03-29",
+    "comercio": "METROBUS",
+    "giro_comercio": "TRANSPORTE LOCAL URBANO Y SUBURB DE PASAJEROS",
+    "tipo_venta": "fisica",
+    "monto": 3.69
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-03-29",
+    "comercio": "METROBUS",
+    "giro_comercio": "TRANSPORTE LOCAL URBANO Y SUBURB DE PASAJEROS",
+    "tipo_venta": "fisica",
+    "monto": 3.69
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-04-01",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 284.93
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-04-02",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.69
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-04-05",
+    "comercio": "METROBUS",
+    "giro_comercio": "TRANSPORTE LOCAL URBANO Y SUBURB DE PASAJEROS",
+    "tipo_venta": "fisica",
+    "monto": 7.13
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-04-16",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-04-17",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 53.67
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-04-17",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 70.2
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-04-17",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 70.2
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-04-17",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 53.67
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-04-17",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 53.67
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-04-17",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 70.2
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-04-17",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 70.2
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-04-18",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-04-20",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 117.88
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-04-27",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-04-29",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 230.24
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-04-30",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 34.59
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-05-14",
+    "comercio": "METROBUS",
+    "giro_comercio": "TRANSPORTE LOCAL URBANO Y SUBURB DE PASAJEROS",
+    "tipo_venta": "fisica",
+    "monto": 11.73
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-05-14",
+    "comercio": "METROBUS",
+    "giro_comercio": "TRANSPORTE LOCAL URBANO Y SUBURB DE PASAJEROS",
+    "tipo_venta": "fisica",
+    "monto": 3.69
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-05-14",
+    "comercio": "METROBUS",
+    "giro_comercio": "TRANSPORTE LOCAL URBANO Y SUBURB DE PASAJEROS",
+    "tipo_venta": "fisica",
+    "monto": 11.73
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-05-18",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 33.56
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-05-18",
+    "comercio": "MELIMAS",
+    "giro_comercio": "MERCADEO DIRECTO - COMERCIANTES DE TELEMERCADEO",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-05-27",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-06-04",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 155.22
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-06-10",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 40.22
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-06-15",
+    "comercio": "METROBUS",
+    "giro_comercio": "TRANSPORTE LOCAL URBANO Y SUBURB DE PASAJEROS",
+    "tipo_venta": "fisica",
+    "monto": 11.73
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-06-17",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-06-17",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 160.38
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-06-25",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 18.7
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-06-27",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-07-08",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "digital",
+    "monto": 243.77
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-07-10",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 2.25
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-07-17",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-07-22",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 2.19
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-07-22",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 49.41
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-07-22",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "digital",
+    "monto": 71.02
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-07-27",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-07-30",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 3.46
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-08-13",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 28.39
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-08-13",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 46.94
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-08-16",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-08-23",
+    "comercio": "METROBUS",
+    "giro_comercio": "TRANSPORTE LOCAL URBANO Y SUBURB DE PASAJEROS",
+    "tipo_venta": "fisica",
+    "monto": 7.13
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-08-27",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-09-01",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 22.86
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-09-01",
+    "comercio": "PARCO",
+    "giro_comercio": "CUOTA - PUENTES",
+    "tipo_venta": "digital",
+    "monto": 13.97
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-09-04",
+    "comercio": "PARCO",
+    "giro_comercio": "CUOTA - PUENTES",
+    "tipo_venta": "digital",
+    "monto": 6.67
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-09-06",
+    "comercio": "METROBUS",
+    "giro_comercio": "TRANSPORTE LOCAL URBANO Y SUBURB DE PASAJEROS",
+    "tipo_venta": "fisica",
+    "monto": 11.73
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-09-15",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-09-21",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 44.93
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-09-27",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-09-27",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.57
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-09-27",
+    "comercio": "METROBUS",
+    "giro_comercio": "TRANSPORTE LOCAL URBANO Y SUBURB DE PASAJEROS",
+    "tipo_venta": "fisica",
+    "monto": 7.13
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-10-05",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 83.42
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-10-10",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 98.92
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-10-10",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 75.83
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-10-12",
+    "comercio": "PARCO",
+    "giro_comercio": "CUOTA - PUENTES",
+    "tipo_venta": "digital",
+    "monto": 8.19
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-10-15",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.98
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-10-15",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.24
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-10-15",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-10-19",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.87
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-10-21",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 131.0
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-10-24",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 116.42
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-10-26",
+    "comercio": "PARCO",
+    "giro_comercio": "CUOTA - PUENTES",
+    "tipo_venta": "digital",
+    "monto": 9.83
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-10-27",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-10-27",
+    "comercio": "PARCO",
+    "giro_comercio": "CUOTA - PUENTES",
+    "tipo_venta": "digital",
+    "monto": 5.03
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-10-27",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.34
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-11-09",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 6.51
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-11-09",
+    "comercio": "PARCO",
+    "giro_comercio": "CUOTA - PUENTES",
+    "tipo_venta": "digital",
+    "monto": 6.67
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-11-10",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 3.35
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-11-10",
+    "comercio": "PARCO",
+    "giro_comercio": "CUOTA - PUENTES",
+    "tipo_venta": "digital",
+    "monto": 9.83
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-11-14",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-11-16",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.76
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-11-21",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 118.57
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-11-21",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 24.94
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-11-26",
+    "comercio": "PARCO",
+    "giro_comercio": "CUOTA - PUENTES",
+    "tipo_venta": "digital",
+    "monto": 10.47
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-11-27",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-11-29",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 18.11
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-11-29",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.84
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-12-05",
+    "comercio": "METROBUS",
+    "giro_comercio": "TRANSPORTE LOCAL URBANO Y SUBURB DE PASAJEROS",
+    "tipo_venta": "fisica",
+    "monto": 11.73
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-12-06",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.82
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-12-10",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 39.12
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-12-11",
+    "comercio": "GOOGLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-12-14",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-12-14",
+    "comercio": "WALMART",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 35.92
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-12-23",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "digital",
+    "monto": 12.99
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-12-23",
+    "comercio": "SORIANA",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 3.45
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-12-24",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 50.14
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-12-26",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 10.47
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-12-26",
+    "comercio": "PARCO",
+    "giro_comercio": "CUOTA - PUENTES",
+    "tipo_venta": "digital",
+    "monto": 2.25
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2022-12-27",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2023-01-08",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2023-01-16",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 51.06
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2023-01-23",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 49.67
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2023-01-25",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 71.01
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2023-01-27",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "1011e03592e1268075e99ab982c66f9d03a61443",
+    "fecha": "2023-01-29",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.02
+  }
+]

@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-01-09",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 52.97
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-01-09",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 92.18
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-01-10",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 12.55
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-01-10",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 103.63
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-01-11",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 16.68
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-01-12",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 61.39
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-01-26",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 5.3
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-01-27",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 24.91
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-01-28",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 101.51
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-01-28",
+    "comercio": "COPPEL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 95.25
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-01-28",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 23.13
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-01-29",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 54.14
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-01-31",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 52.86
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-02-02",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 378.78
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-02-04",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "RESTAURANTES",
+    "tipo_venta": "fisica",
+    "monto": 19.08
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-02-04",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.68
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-02-04",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "fisica",
+    "monto": 33.67
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-02-08",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 7.3
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-02-11",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 4.12
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-02-12",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 122.34
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-02-12",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 503.48
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-02-15",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 18.54
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-02-21",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 135.9
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-02-22",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 10.81
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-02-25",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 687.41
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-02-25",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 71.11
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-02-28",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 95.4
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-03-02",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 13.34
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-03-03",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 7.3
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-03-03",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 32.06
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-03-03",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 24.25
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-03-03",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "fisica",
+    "monto": 10.58
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-03-04",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 107.88
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-03-05",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 52.86
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-03-08",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 58.64
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-03-08",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 51.74
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-03-12",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 18.85
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-03-20",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 160.63
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-03-23",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 7.3
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-03-23",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 159.37
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-03-23",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 20.81
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-03-24",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 98.93
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-03-25",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 377.17
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-04-02",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 52.86
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-04-04",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 200.78
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-04-06",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 85.09
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-04-07",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 167.55
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-04-14",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.88
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-04-16",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 11.1
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-04-18",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 7.3
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-04-19",
+    "comercio": "DIDI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 16.67
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-04-22",
+    "comercio": "CARLS JR",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 51.25
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-04-26",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 162.8
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-04-30",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 45.84
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-04-30",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 3.77
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-05-01",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 52.97
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-05-04",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 57.57
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-05-07",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 23.76
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-05-10",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 199.58
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-05-12",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 5.3
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-05-13",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 34.71
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-05-15",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 28.94
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-05-15",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 220.72
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-05-23",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 35.85
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-05-26",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 7.3
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-05-26",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 97.41
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-05-26",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-05-28",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 39.49
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-06-01",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 52.86
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-06-02",
+    "comercio": "CARLS JR",
+    "giro_comercio": "RESTAURANTES",
+    "tipo_venta": "fisica",
+    "monto": 46.42
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-06-03",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 60.55
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-06-05",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 7.3
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-06-05",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 79.93
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-06-07",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 12.82
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-06-08",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 13.57
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-06-10",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 115.12
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-06-10",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 557.93
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-06-11",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 92.94
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-06-22",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 7.3
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-06-23",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 30.69
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-06-24",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 45.62
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-06-24",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 41.5
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-06-24",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 329.84
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-06-24",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 41.5
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-06-24",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 30.69
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-06-25",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 41.5
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-06-25",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 41.5
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-06-25",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 41.5
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-06-25",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 41.5
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-06-25",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 30.69
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-06-26",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 81.24
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-06-29",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 64.35
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-07-01",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 149.8
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-07-08",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 78.32
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-07-09",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 9.68
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-07-09",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 54.26
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-07-10",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-07-13",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 187.45
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-07-13",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 7.3
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-07-16",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 110.17
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-07-17",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 28.85
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-07-17",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 238.85
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-07-17",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 86.4
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-07-21",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 55.27
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-07-26",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 21.74
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-07-27",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 102.7
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-07-27",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "digital",
+    "monto": 87.44
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-07-27",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 92.95
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-07-31",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 5.15
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-07-31",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 24.54
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-07-31",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 64.35
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-08-03",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 3.67
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-08-03",
+    "comercio": "DIDI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.67
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-08-03",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 31.26
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-08-04",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 81.69
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-08-04",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 58.49
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-08-04",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 10.82
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-08-04",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 126.61
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-08-04",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-08-07",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 31.15
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-08-10",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 64.65
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-08-11",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 51.94
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-08-11",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-08-11",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 10.58
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-08-15",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 110.37
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-08-17",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 17.75
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-08-17",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-08-23",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.46
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-08-24",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 36.2
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-08-25",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 3.92
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-08-26",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 22.16
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-08-29",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 46.54
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-08-29",
+    "comercio": "OXXO",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 16.63
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-09-01",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.9
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-09-04",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "digital",
+    "monto": 40.45
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-09-07",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 7.29
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-09-08",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 78.98
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-09-08",
+    "comercio": "DIDI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 29.54
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-09-08",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 2.08
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-09-09",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 40.39
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-09-09",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 15.58
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-09-09",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 1.62
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-09-09",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.73
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-09-09",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 20.46
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-09-09",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.97
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-09-10",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.81
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-09-10",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.78
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-09-10",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 18.53
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-09-10",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.19
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-09-10",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 14.14
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-09-11",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 6.33
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-09-11",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 14.14
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-09-11",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.44
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-09-12",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 48.38
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-09-12",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.41
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-09-14",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 40.61
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-09-14",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 19.65
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-09-21",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 122.22
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-09-28",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 51.82
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-09-28",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 152.79
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-09-28",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 12.2
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-10-04",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 61.8
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-10-05",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 49.96
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-10-10",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 74.55
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-10-11",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 64.35
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-10-11",
+    "comercio": "TELCEL",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-10-12",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 792.99
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-10-12",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.23
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-10-18",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 125.03
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-10-19",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 53.76
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-10-19",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 53.76
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-10-19",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 152.79
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-10-19",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 64.69
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-10-22",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 19.37
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-10-23",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 214.74
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-10-25",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 132.24
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-10-27",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 39.97
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-10-30",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 10.81
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-10-30",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.1
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-10-31",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 51.82
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-10-31",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "4121",
+    "tipo_venta": "digital",
+    "monto": 69.28
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-11-02",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 37.73
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-11-04",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 144.15
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-11-04",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 604.47
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-11-09",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 438.4
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-11-11",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 31.43
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-11-15",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 166.71
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-11-16",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 7.08
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-11-17",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 31.26
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-11-21",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 104.03
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-11-25",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "4121",
+    "tipo_venta": "digital",
+    "monto": 44.54
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-11-26",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 47.66
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-11-28",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 51.82
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-11-30",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 32.16
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-11-30",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 140.28
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-11-30",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 155.74
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-12-01",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 570.39
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-12-04",
+    "comercio": "TEMU",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 137.62
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-12-08",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 4.26
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-12-10",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "4121",
+    "tipo_venta": "digital",
+    "monto": 31.15
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-12-12",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 41.48
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-12-14",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 8.47
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-12-14",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 72.02
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-12-17",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 48.17
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-12-18",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-12-18",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 46.22
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-12-20",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "4121",
+    "tipo_venta": "digital",
+    "monto": 99.46
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-12-21",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 31.86
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-12-23",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "4121",
+    "tipo_venta": "digital",
+    "monto": 62.35
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-12-28",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 48.89
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-12-29",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "4121",
+    "tipo_venta": "digital",
+    "monto": 87.97
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-12-31",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 51.82
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-12-31",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 114.1
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-12-31",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 245.4
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2023-01-03",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "4121",
+    "tipo_venta": "digital",
+    "monto": 128.21
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2023-01-04",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "4121",
+    "tipo_venta": "digital",
+    "monto": 80.16
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2023-01-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 382.83
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2023-01-09",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "4121",
+    "tipo_venta": "digital",
+    "monto": 78.21
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2023-01-14",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 111.91
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2023-01-19",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.57
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2023-01-19",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "4121",
+    "tipo_venta": "digital",
+    "monto": 61.08
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2023-01-20",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "4121",
+    "tipo_venta": "digital",
+    "monto": 65.04
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2023-01-23",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 588.67
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2023-01-24",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "4121",
+    "tipo_venta": "digital",
+    "monto": 68.4
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2023-01-28",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 33.33
+  }
+]

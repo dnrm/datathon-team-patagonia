@@ -1,0 +1,5970 @@
+[
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-08",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.51
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-08",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.17
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-08",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.73
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-09",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.29
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-10",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.48
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-11",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.74
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-11",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.2
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-11",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.14
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-12",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.38
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-12",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.72
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-12",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.3
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-12",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.11
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-13",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.25
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-13",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.11
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-13",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.4
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-13",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.24
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-14",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.43
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-15",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.41
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-15",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.8
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-15",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.31
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-16",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.51
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-16",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.12
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-16",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.27
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-16",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.33
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-16",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.71
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-16",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.92
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-17",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.5
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-17",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 25.97
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-17",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.11
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-17",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-17",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-18",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.49
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-19",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.96
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-19",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.34
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-19",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.97
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-19",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-20",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.44
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-20",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-20",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.72
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-20",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 434.08
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-20",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.47
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-20",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.6
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-21",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.56
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-21",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.6
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-21",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 11.72
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-22",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.42
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-23",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 143.93
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-24",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 11.12
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-24",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.27
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-25",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-25",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 95.91
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-26",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-27",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.12
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-27",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.11
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-27",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 10.98
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-27",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 62.74
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-27",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.27
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-28",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.42
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-28",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-28",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.58
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-29",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-29",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.16
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-29",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.57
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-30",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 6.62
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-30",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 52.61
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-31",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-31",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.4
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-31",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-31",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.58
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-31",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.27
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-01-31",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.27
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-01",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.49
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-01",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.82
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-01",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.18
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-01",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.42
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-02",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.46
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-02",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-02",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 78.87
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-03",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 18.62
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-06",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 6.73
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-06",
+    "comercio": "SUPERAMA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 16.55
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-07",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.33
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-07",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.54
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-08",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.44
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-08",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.52
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-10",
+    "comercio": "SUPERAMA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 6.9
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-10",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 46.83
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-12",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 5.57
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-12",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 12.51
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-14",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.06
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-14",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.69
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-14",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.32
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-14",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.31
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-15",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "SERVICIOS PUBLICITARIOS",
+    "tipo_venta": "fisica",
+    "monto": 2.54
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-15",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.79
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-15",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.48
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-16",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 25.97
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-16",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 86.15
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-17",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-17",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.97
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-17",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.43
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-17",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.85
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-18",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.03
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-18",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.8
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-18",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.18
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-18",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.22
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-19",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 12.12
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-19",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 12.26
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-19",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 15.17
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-19",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 19.81
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-20",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.42
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-20",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-21",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-22",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.19
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-22",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.39
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-22",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 12.87
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-22",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 14.18
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-23",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 12.88
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-23",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 13.96
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-23",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 14.13
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-23",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.27
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-26",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-26",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 64.24
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-27",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-27",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.12
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-27",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.42
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-28",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 11.72
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-28",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.98
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-28",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.07
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-28",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-28",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.04
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-28",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 4.26
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-02-28",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.57
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-01",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.12
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-02",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-02",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-04",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-05",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.27
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-05",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 4.26
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-05",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-06",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.27
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-06",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 20.23
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-07",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.58
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-07",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 20.91
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-07",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 21.24
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-07",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "SERVICIOS PUBLICITARIOS",
+    "tipo_venta": "fisica",
+    "monto": 7.36
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-08",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 14.02
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-08",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-08",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.58
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-08",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-08",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "SERVICIOS PUBLICITARIOS",
+    "tipo_venta": "fisica",
+    "monto": 7.36
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-09",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "SERVICIOS PUBLICITARIOS",
+    "tipo_venta": "fisica",
+    "monto": 7.36
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-10",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 19.76
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-10",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "SERVICIOS PUBLICITARIOS",
+    "tipo_venta": "fisica",
+    "monto": 8.08
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-11",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "SERVICIOS PUBLICITARIOS",
+    "tipo_venta": "fisica",
+    "monto": 8.86
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-11",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-12",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 86.63
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-12",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-13",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.17
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-13",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.42
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-13",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 9.89
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-13",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "fisica",
+    "monto": 32.41
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-14",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-14",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-14",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "SERVICIOS PUBLICITARIOS",
+    "tipo_venta": "fisica",
+    "monto": 9.43
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-14",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 32.87
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-14",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 166.13
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-15",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 39.63
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-15",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "SERVICIOS PUBLICITARIOS",
+    "tipo_venta": "fisica",
+    "monto": 5.6
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-15",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "SERVICIOS PUBLICITARIOS",
+    "tipo_venta": "fisica",
+    "monto": 10.35
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-15",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-15",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.58
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-16",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.12
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-16",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-16",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "SERVICIOS PUBLICITARIOS",
+    "tipo_venta": "fisica",
+    "monto": 11.36
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-16",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.77
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-16",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-18",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-18",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.12
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-19",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.27
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-20",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.42
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-20",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.58
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-20",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.64
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-21",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.16
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-21",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.18
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-24",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 25.97
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-25",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 22.58
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-25",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.57
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-25",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.25
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-25",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.57
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-25",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 11.09
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-26",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "SERVICIOS PUBLICITARIOS",
+    "tipo_venta": "fisica",
+    "monto": 12.47
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-26",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-26",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-28",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-29",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 12.87
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-29",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-30",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 12.87
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-31",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.72
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-31",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 16.32
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-03-31",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 15.52
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-04-02",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-04-02",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 15.75
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-04-02",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 27.93
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-04-03",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-04-04",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.58
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-04-05",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.42
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-04-05",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 14.08
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-04-06",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 14.03
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-04-06",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-04-08",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-04-09",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 35.09
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-04-09",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 14.22
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-04-10",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-04-10",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 62.97
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-04-11",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 10.12
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-04-13",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.98
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-04-14",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 138.45
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-04-14",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.09
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-04-15",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "SERVICIOS PUBLICITARIOS",
+    "tipo_venta": "fisica",
+    "monto": 10.3
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-04-16",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-04-16",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-04-16",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-04-19",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.57
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-04-20",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.15
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-04-20",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-04-20",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 12.1
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-04-21",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-04-21",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 14.03
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-04-23",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.32
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-04-23",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 25.97
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-04-23",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-04-24",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-04-26",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 4.38
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-04-26",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 82.1
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-04-26",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 11.72
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-04-26",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 11.72
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-04-27",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.07
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-04-27",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.15
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-04-27",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.07
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-04-27",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 4.26
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-04-27",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 4.26
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-04-30",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.42
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-05-02",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-05-02",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.27
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-05-03",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 17.35
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-05-03",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 57.22
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-05-03",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 15.74
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-05-03",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-05-03",
+    "comercio": "GOOGLE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 69.06
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-05-04",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.12
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-05-07",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 31.2
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-05-07",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 24.14
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-05-09",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-05-09",
+    "comercio": "SUPERAMA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 16.64
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-05-09",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.1
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-05-09",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 65.26
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-05-09",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-05-12",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-05-12",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.12
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-05-12",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.17
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-05-13",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-05-14",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.37
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-05-14",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-05-16",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 23.21
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-05-16",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-05-16",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 28.95
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-05-17",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-05-17",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-05-21",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "SERVICIOS PUBLICITARIOS",
+    "tipo_venta": "fisica",
+    "monto": 13.7
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-05-21",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-05-22",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.91
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-05-23",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 23.91
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-05-23",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 23.91
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-05-23",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.42
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-05-24",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-05-25",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-05-25",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "SERVICIOS PUBLICITARIOS",
+    "tipo_venta": "fisica",
+    "monto": 13.69
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-05-25",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 25.97
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-05-28",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.14
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-05-29",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-05-29",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.55
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-05-30",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-05-31",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.15
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-06-01",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-06-02",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-06-02",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 14.02
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-06-02",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 14.05
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-06-03",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.42
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-06-03",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 65.26
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-06-06",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.58
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-06-07",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.59
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-06-09",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.32
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-06-10",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "SERVICIOS PUBLICITARIOS",
+    "tipo_venta": "fisica",
+    "monto": 15.7
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-06-10",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.46
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-06-10",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.62
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-06-12",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.99
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-06-14",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.0
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-06-15",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.14
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-06-16",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.09
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-06-16",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-06-18",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.42
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-06-19",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.27
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-06-19",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-06-19",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.09
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-06-20",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.42
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-06-20",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.17
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-06-20",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.71
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-06-22",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-06-22",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 25.97
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-06-22",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 25.97
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-06-22",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.58
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-06-22",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-06-23",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.93
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-06-23",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.21
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-06-24",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-06-24",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.08
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-06-24",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.5
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-06-25",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.98
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-06-25",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.12
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-06-25",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.07
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-06-26",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.98
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-06-26",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.13
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-06-27",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.91
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-06-28",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.51
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-06-28",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.98
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-06-30",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 94.84
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-01",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-01",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.57
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-01",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.98
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-01",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.98
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-01",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-02",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-02",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.79
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-03",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.86
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-03",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.8
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-03",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.42
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-05",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.42
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-08",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.07
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-08",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-08",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 20.67
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-09",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 35.85
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-09",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.12
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-09",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-10",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 11.72
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-11",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.49
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-11",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-11",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.74
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-12",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.83
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-12",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.83
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-12",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.24
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-12",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 27.47
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-12",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.85
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-12",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-12",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 52.29
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-13",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.01
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-13",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.15
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-13",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.27
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-13",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.45
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-14",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 21.81
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-15",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-15",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-15",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-16",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 17.68
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-16",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.75
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-16",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.12
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-16",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-17",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 12.71
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-17",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.32
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-17",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.12
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-18",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 31.6
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-19",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 11.83
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-19",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.02
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-19",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-20",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.3
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-20",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 65.26
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-21",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.27
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-22",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.91
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-22",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.85
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-23",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.24
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-23",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 23.6
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-23",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.12
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-23",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.24
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-23",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.59
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-23",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 38.4
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-24",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.36
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-24",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.13
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-24",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.65
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-24",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 10.7
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-24",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.72
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-24",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 25.97
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-25",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.78
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-26",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.2
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-27",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 45.27
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-28",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.34
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-28",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.03
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-28",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.86
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-29",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 14.54
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-30",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.7
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-31",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.83
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-07-31",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.61
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-01",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.79
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-01",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.74
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-02",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 16.42
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-02",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-02",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.36
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-03",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.78
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-03",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.07
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-04",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-04",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.85
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-04",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.37
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-04",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 7.59
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-04",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 4.83
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-04",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.83
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-05",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.87
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-06",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.35
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-06",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 6.56
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-06",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.97
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-06",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.57
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-06",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.81
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-07",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.74
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-11",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.6
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-12",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.65
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-12",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.35
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-12",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.15
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-12",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.82
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-12",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.88
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-13",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.23
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-13",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.09
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-13",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.49
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-14",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.01
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-15",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.88
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-15",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.08
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-17",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 10.47
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-18",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.14
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-18",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.4
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-18",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 6.79
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-18",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.83
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-18",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-18",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-19",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.42
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-20",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.42
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-20",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 42.29
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-20",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 65.26
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-20",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-21",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-23",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.38
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-23",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.23
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-24",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 25.97
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-25",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 15.87
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-25",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 10.58
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-26",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 33.75
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-26",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 29.17
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-27",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 6.1
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-28",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 26.66
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-29",
+    "comercio": "CARLS JR",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 31.15
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-08-30",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.55
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-03",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.7
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-03",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.97
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-03",
+    "comercio": "SUPERAMA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 24.55
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-04",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 73.76
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-04",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 68.01
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-04",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 74.91
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-04",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.58
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-05",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.42
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-06",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.57
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-06",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.42
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-07",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.3
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-07",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-08",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-08",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 10.35
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-08",
+    "comercio": "SUPERAMA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 48.15
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-08",
+    "comercio": "SUPERAMA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 2.63
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-10",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-10",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.63
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-11",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.42
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-11",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.6
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-11",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 11.21
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-11",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-11",
+    "comercio": "SUPERAMA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 40.51
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-11",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.57
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-12",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.88
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-12",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 76.34
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-13",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-15",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-17",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.72
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-17",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.82
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-17",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.58
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-17",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.98
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-18",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.82
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-18",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-19",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.98
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-19",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 6.49
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-19",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-20",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.07
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-20",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.1
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-21",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.07
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-22",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-22",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 25.97
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-22",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 65.26
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-23",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.07
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-23",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.07
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-23",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.35
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-23",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.42
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-23",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 12.75
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-24",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.22
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-26",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 6.44
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-26",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.98
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-27",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-27",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.69
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-27",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.07
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-27",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.87
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-28",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-28",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.47
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-28",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-29",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.12
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-30",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.65
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-30",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-30",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-09-30",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.58
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-01",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 39.82
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-02",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.17
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-02",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.62
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-03",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.99
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-03",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.3
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-04",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-04",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.56
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-05",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-05",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.28
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-05",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.72
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-05",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.27
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-06",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.27
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-06",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-07",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-07",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-08",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 30.1
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-10",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 14.02
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-10",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.87
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-10",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 118.16
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-11",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.98
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-11",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 14.68
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-12",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-12",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 14.02
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-12",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.16
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-12",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.85
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-12",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 50.44
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-13",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 14.02
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-13",
+    "comercio": "SUPERAMA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 16.38
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-13",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 11.04
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-13",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-14",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-14",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.12
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-14",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.22
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-15",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.21
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-15",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.48
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-15",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.68
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-15",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.43
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-15",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.43
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-16",
+    "comercio": "SUPERAMA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 3.69
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-16",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.43
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-17",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 10.47
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-17",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 25.97
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-18",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 27.81
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-19",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.33
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-19",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 20.1
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-20",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.12
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-20",
+    "comercio": "CARLS JR",
+    "giro_comercio": "RESTAURANTES",
+    "tipo_venta": "fisica",
+    "monto": 24.25
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-21",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.18
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-21",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.88
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-21",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.67
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-22",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.27
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-22",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.89
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-23",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.87
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-28",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.26
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-29",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.33
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-29",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.36
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-30",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.58
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-30",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.57
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-10-30",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 14.16
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-01",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.85
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-01",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.95
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-01",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 54.47
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-02",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.95
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-02",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 13.01
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-02",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.67
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-02",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.0
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-03",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.61
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-04",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.69
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-05",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.37
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-05",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 170.82
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-05",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.57
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-07",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.67
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-07",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 45.36
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-07",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 35.85
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-07",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 13.26
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-08",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.11
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-08",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 16.1
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-09",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 18.22
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-09",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.79
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-09",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 14.91
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-09",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 67.56
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-11",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.3
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-11",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.94
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-12",
+    "comercio": "GOOGLE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-12",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 13.23
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-12",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.01
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-12",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.19
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-12",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.77
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-12",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.84
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-12",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.72
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-13",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.26
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-14",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.53
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-15",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.03
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-15",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.04
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-15",
+    "comercio": "CALIENTE",
+    "giro_comercio": "CASINOS CASAS DE JUEGO (APUESTAS INCLUYE BILLETES)",
+    "tipo_venta": "digital",
+    "monto": 115.12
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-16",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.68
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-17",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 15.09
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-17",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.31
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-17",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.37
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-18",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.56
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-19",
+    "comercio": "GOOGLE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-19",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.28
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-20",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 14.98
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-20",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 65.26
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-20",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.59
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-21",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.2
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-21",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.7
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-22",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.14
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-22",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.28
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-24",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.14
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-24",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.15
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-25",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.13
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-25",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 25.97
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-25",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.57
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-26",
+    "comercio": "GOOGLE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-26",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.63
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-26",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.78
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-26",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.47
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-27",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.35
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-27",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 17.23
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-29",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 15.06
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-29",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.72
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-29",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 104.88
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-30",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.85
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-30",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.05
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-30",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 41.71
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-11-30",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 14.42
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-02",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.48
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-05",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 10.58
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-05",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.17
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-06",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.41
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-07",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.8
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-08",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.51
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-09",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.83
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-09",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.68
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-10",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.59
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-10",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 14.03
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-10",
+    "comercio": "GOOGLE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-11",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.09
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-12",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.15
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-12",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.11
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-12",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.47
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-12",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 11.1
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-13",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 2.19
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-13",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.49
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-14",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.45
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-14",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.43
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-14",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.55
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-15",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.51
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-16",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.59
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-17",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.8
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-17",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.87
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-17",
+    "comercio": "GOOGLE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-18",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.74
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-18",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.09
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-19",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.6
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-19",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 12.39
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-19",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 13.1
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-19",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 13.52
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-21",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.18
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-21",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.02
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-21",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 11.04
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-21",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.77
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-22",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.91
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-22",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.16
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-22",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.22
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-22",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.01
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-24",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.13
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-24",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.53
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-24",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 219.95
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-24",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.76
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-24",
+    "comercio": "GOOGLE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-25",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 25.97
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-28",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.56
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-29",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 15.06
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-29",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.21
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-30",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.46
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-30",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 17.52
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-31",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.84
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-31",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.46
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2022-12-31",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 14.44
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2023-01-01",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 26.16
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2023-01-01",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 27.55
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2023-01-01",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 35.58
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2023-01-01",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 43.35
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2023-01-01",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 47.22
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2023-01-01",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 46.68
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2023-01-03",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.8
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2023-01-04",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 16.13
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2023-01-05",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.19
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2023-01-05",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.31
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2023-01-06",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.2
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2023-01-07",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.69
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2023-01-08",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 17.31
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2023-01-09",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.67
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2023-01-10",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.81
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2023-01-10",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.39
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2023-01-10",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 14.69
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2023-01-11",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 14.46
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2023-01-11",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.18
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2023-01-11",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.51
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2023-01-12",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 13.79
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2023-01-12",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.18
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2023-01-13",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 2.19
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2023-01-13",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.74
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2023-01-14",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.91
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2023-01-14",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.48
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2023-01-15",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 25.97
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2023-01-15",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.77
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2023-01-16",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.56
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2023-01-18",
+    "comercio": "WALMART",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 42.38
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2023-01-20",
+    "comercio": "WALMART",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 26.95
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2023-01-20",
+    "comercio": "WALMART",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 97.89
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2023-01-21",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 65.26
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2023-01-22",
+    "comercio": "WALMART",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 41.69
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2023-01-24",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.9
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2023-01-25",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.98
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2023-01-25",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 13.9
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2023-01-25",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 29.74
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2023-01-26",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 13.54
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2023-01-26",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 13.85
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2023-01-27",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.53
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2023-01-28",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.4
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2023-01-28",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2023-01-28",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.43
+  },
+  {
+    "id": "90714f3b4cf4653254a264ef375d68885be49282",
+    "fecha": "2023-01-29",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 15.06
+  }
+]

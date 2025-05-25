@@ -1,0 +1,1186 @@
+[
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-01-07",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 381.52
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-01-08",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 28.85
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-01-09",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 440.53
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-01-09",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 240.39
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-01-15",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-01-17",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 51.12
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-01-18",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 77.36
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-01-21",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-01-30",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 71.0
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-01-31",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 69.16
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-01-31",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 27.7
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-02-01",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 56.33
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-02-02",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 123.88
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-02-06",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 22.87
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-02-06",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 74.8
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-02-08",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 39.05
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-02-12",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 478.7
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-02-19",
+    "comercio": "KUESKI PAY",
+    "giro_comercio": "AUTOFINANCIAMIENTOS - SERVICIOS FINANCIEROS",
+    "tipo_venta": "digital",
+    "monto": 122.36
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-02-20",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 8.17
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-02-21",
+    "comercio": "SUPERAMA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 20.19
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-02-23",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-02-26",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 262.76
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-02-26",
+    "comercio": "SUPERAMA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 10.47
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-02-28",
+    "comercio": "SUPERAMA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 24.37
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-02-28",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 9.89
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-03-01",
+    "comercio": "KUESKI PAY",
+    "giro_comercio": "AUTOFINANCIAMIENTOS - SERVICIOS FINANCIEROS",
+    "tipo_venta": "digital",
+    "monto": 114.11
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-03-01",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-03-11",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 1139.64
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-03-11",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 407.18
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-03-14",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 18.39
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-03-16",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 73.3
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-03-16",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 39.87
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-03-17",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 12.76
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-03-19",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 37.01
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-03-22",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-03-24",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 71.52
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-03-24",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-03-27",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 134.26
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-04-01",
+    "comercio": "KUESKI PAY",
+    "giro_comercio": "AUTOFINANCIAMIENTOS - SERVICIOS FINANCIEROS",
+    "tipo_venta": "digital",
+    "monto": 103.52
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-04-01",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-04-04",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 21.15
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-04-05",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 79.01
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-04-05",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 11.22
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-04-05",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 3.1
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-04-06",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-04-18",
+    "comercio": "KUESKI PAY",
+    "giro_comercio": "AUTOFINANCIAMIENTOS - SERVICIOS FINANCIEROS",
+    "tipo_venta": "digital",
+    "monto": 110.18
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-04-20",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-04-22",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 28.73
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-04-24",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-04-24",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 48.54
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-04-26",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 126.51
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-04-26",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 18.05
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-04-26",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 88.42
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-04-26",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 30.69
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-04-27",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-04-28",
+    "comercio": "TEMU",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 42.77
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-05-01",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-05-04",
+    "comercio": "RAPPI",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 50.44
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-05-04",
+    "comercio": "PARCO",
+    "giro_comercio": "ESTACIONAMIENTOS/PENSIONES",
+    "tipo_venta": "digital",
+    "monto": 13.63
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-05-06",
+    "comercio": "PARCO",
+    "giro_comercio": "ESTACIONAMIENTOS/PENSIONES",
+    "tipo_venta": "digital",
+    "monto": 5.41
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-05-07",
+    "comercio": "TELCEL",
+    "giro_comercio": "COMPUTADORAS EQUIPO PERIF DE COMPUTADORAS SOFTWARE",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-05-20",
+    "comercio": "PARCO",
+    "giro_comercio": "ESTACIONAMIENTOS/PENSIONES",
+    "tipo_venta": "digital",
+    "monto": 5.41
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-05-21",
+    "comercio": "PARCO",
+    "giro_comercio": "ESTACIONAMIENTOS/PENSIONES",
+    "tipo_venta": "digital",
+    "monto": 5.41
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-05-21",
+    "comercio": "PARCO",
+    "giro_comercio": "ESTACIONAMIENTOS/PENSIONES",
+    "tipo_venta": "digital",
+    "monto": 5.41
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-05-21",
+    "comercio": "PARCO",
+    "giro_comercio": "ESTACIONAMIENTOS/PENSIONES",
+    "tipo_venta": "digital",
+    "monto": 5.41
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-05-22",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-05-22",
+    "comercio": "PARCO",
+    "giro_comercio": "ESTACIONAMIENTOS/PENSIONES",
+    "tipo_venta": "digital",
+    "monto": 5.41
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-05-24",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-05-27",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-06-01",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-06-02",
+    "comercio": "KUESKI PAY",
+    "giro_comercio": "AUTOFINANCIAMIENTOS - SERVICIOS FINANCIEROS",
+    "tipo_venta": "digital",
+    "monto": 92.61
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-06-03",
+    "comercio": "KUESKI PAY",
+    "giro_comercio": "AUTOFINANCIAMIENTOS - SERVICIOS FINANCIEROS",
+    "tipo_venta": "digital",
+    "monto": 92.61
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-06-07",
+    "comercio": "PARCO",
+    "giro_comercio": "ESTACIONAMIENTOS/PENSIONES",
+    "tipo_venta": "digital",
+    "monto": 5.41
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-06-11",
+    "comercio": "PARCO",
+    "giro_comercio": "ESTACIONAMIENTOS/PENSIONES",
+    "tipo_venta": "digital",
+    "monto": 3.52
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-06-18",
+    "comercio": "KUESKI PAY",
+    "giro_comercio": "AUTOFINANCIAMIENTOS - SERVICIOS FINANCIEROS",
+    "tipo_venta": "digital",
+    "monto": 91.92
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-06-22",
+    "comercio": "ITUNES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-06-24",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-06-27",
+    "comercio": "PARCO",
+    "giro_comercio": "ESTACIONAMIENTOS/PENSIONES",
+    "tipo_venta": "digital",
+    "monto": 5.41
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-06-27",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-06-28",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 72.86
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-07-01",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-07-06",
+    "comercio": "PARCO",
+    "giro_comercio": "ESTACIONAMIENTOS/PENSIONES",
+    "tipo_venta": "digital",
+    "monto": 6.67
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-07-06",
+    "comercio": "PARCO",
+    "giro_comercio": "CUOTA - PUENTES",
+    "tipo_venta": "digital",
+    "monto": 6.67
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-07-08",
+    "comercio": "PARCO",
+    "giro_comercio": "ESTACIONAMIENTOS/PENSIONES",
+    "tipo_venta": "digital",
+    "monto": 5.41
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-07-09",
+    "comercio": "PARCO",
+    "giro_comercio": "ESTACIONAMIENTOS/PENSIONES",
+    "tipo_venta": "digital",
+    "monto": 5.41
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-07-09",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 63.64
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-07-12",
+    "comercio": "PARCO",
+    "giro_comercio": "ESTACIONAMIENTOS/PENSIONES",
+    "tipo_venta": "digital",
+    "monto": 5.41
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-07-24",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-07-27",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-07-29",
+    "comercio": "KUESKI PAY",
+    "giro_comercio": "AUTOFINANCIAMIENTOS - SERVICIOS FINANCIEROS",
+    "tipo_venta": "digital",
+    "monto": 82.04
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-08-01",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-08-01",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-08-02",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-08-02",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-08-02",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-08-02",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-08-04",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-08-04",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-08-06",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-08-08",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-08-17",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 63.64
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-08-27",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-08-28",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-08-31",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 78.31
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-09-05",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-09-07",
+    "comercio": "PARCO",
+    "giro_comercio": "ESTACIONAMIENTOS/PENSIONES",
+    "tipo_venta": "digital",
+    "monto": 3.52
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-09-07",
+    "comercio": "PARCO",
+    "giro_comercio": "CUOTA - PUENTES",
+    "tipo_venta": "digital",
+    "monto": 3.52
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-09-11",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-09-14",
+    "comercio": "PARCO",
+    "giro_comercio": "ESTACIONAMIENTOS/PENSIONES",
+    "tipo_venta": "digital",
+    "monto": 6.8
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-09-24",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-09-27",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-10-05",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-10-05",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-10-06",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 21.81
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-10-08",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 40.8
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-10-09",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 25.52
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-10-14",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 27.46
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-10-14",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 28.09
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-10-18",
+    "comercio": "TEMU",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 37.95
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-10-18",
+    "comercio": "TEMU",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.0
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-10-24",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-10-27",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-10-27",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 20.82
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-10-28",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 30.1
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-11-01",
+    "comercio": "TEMU",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 66.57
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-11-05",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-11-06",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-11-22",
+    "comercio": "PARCO",
+    "giro_comercio": "ESTACIONAMIENTOS/PENSIONES",
+    "tipo_venta": "digital",
+    "monto": 2.88
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-11-22",
+    "comercio": "PARCO",
+    "giro_comercio": "CUOTA - PUENTES",
+    "tipo_venta": "digital",
+    "monto": 2.88
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-11-23",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-11-23",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-11-24",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-11-26",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 20.81
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-12-03",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 24.62
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-12-05",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-12-13",
+    "comercio": "PARCO",
+    "giro_comercio": "ESTACIONAMIENTOS/PENSIONES",
+    "tipo_venta": "digital",
+    "monto": 5.41
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-12-16",
+    "comercio": "PARCO",
+    "giro_comercio": "ESTACIONAMIENTOS/PENSIONES",
+    "tipo_venta": "digital",
+    "monto": 5.41
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-12-24",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2022-12-26",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 20.81
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2023-01-05",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2023-01-06",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2023-01-06",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2023-01-08",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2023-01-24",
+    "comercio": "PARCO",
+    "giro_comercio": "ESTACIONAMIENTOS/PENSIONES",
+    "tipo_venta": "digital",
+    "monto": 5.41
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2023-01-24",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2023-01-26",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 20.81
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2023-01-30",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.59
+  },
+  {
+    "id": "37c63d6e78f54e563cd128b18a20ff3902ee58b3",
+    "fecha": "2023-01-30",
+    "comercio": "PARCO",
+    "giro_comercio": "ESTACIONAMIENTOS/PENSIONES",
+    "tipo_venta": "digital",
+    "monto": 2.88
+  }
+]

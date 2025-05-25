@@ -1,0 +1,6562 @@
+[
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-01",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.05
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-01",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 12.87
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-02",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 12.87
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-04",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.22
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-04",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.79
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-04",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 13.57
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-05",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 13.57
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-05",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-06",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 16.32
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-06",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 13.22
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-07",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 13.22
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-07",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.66
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-08",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 12.19
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-08",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 4.49
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-08",
+    "comercio": "SERV AGUA DREN",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 35.85
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-09",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 11.5
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-11",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.02
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-11",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.49
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-11",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.28
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-12",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 4.71
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-12",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.51
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-13",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 11.75
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-13",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-14",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 18.72
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-14",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.44
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-14",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.09
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-15",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-15",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 4.03
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-16",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.42
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-16",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.03
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-17",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-18",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 4.31
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-18",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 4.95
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-18",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.3
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-19",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.98
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-19",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 11.98
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-19",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-20",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 4.83
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-20",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 13.64
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-20",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 30.11
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-20",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-21",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-21",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.74
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-21",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.42
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-21",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.27
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-22",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.51
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-22",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.92
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-22",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 14.03
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-22",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 21.66
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-22",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-24",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 13.53
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-25",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 4.85
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-26",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 15.09
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-26",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 11.38
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-27",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 14.17
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-27",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 16.27
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-27",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 19.05
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-29",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.32
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-29",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.32
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-29",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 11.15
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-29",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.41
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-29",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.12
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-30",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-30",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-30",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-31",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.98
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-31",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.41
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-01-31",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-01",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-01",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.05
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-01",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 4.84
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-02",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-03",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 11.72
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-03",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 12.87
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-03",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 14.02
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-03",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 12.53
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-03",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-03",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 18.62
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-04",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.12
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-05",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.61
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-05",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.59
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-05",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.61
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-05",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.61
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-05",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 43.51
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-06",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-06",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.97
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-06",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.07
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-07",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 3.34
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-07",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.61
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-08",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.64
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-08",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.58
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-09",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 19.3
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-09",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.02
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-10",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.77
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-10",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 12.74
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-10",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 15.26
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-11",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 19.08
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-12",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.89
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-12",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 4.84
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-13",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-14",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.78
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-14",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.59
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-15",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.68
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-15",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.68
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-15",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.87
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-16",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.93
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-17",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 13.11
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-17",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 12.36
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-17",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.32
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-18",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.82
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-19",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.27
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-19",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.38
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-19",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.12
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-20",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.34
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-20",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.74
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-20",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-21",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 12.19
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-22",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.47
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-23",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.12
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-23",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 11.04
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-23",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.58
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-24",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 15.17
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-24",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 18.62
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-24",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 19.77
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-24",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 19.77
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-24",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 19.77
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-24",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 19.77
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-24",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 4.31
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-24",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 19.08
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-24",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 13.4
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-25",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.17
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-25",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 22.18
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-26",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.05
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-26",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.12
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-26",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.48
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-27",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.48
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-02-27",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.23
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-01",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 12.88
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-01",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.7
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-01",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.63
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-02",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.63
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-02",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 13.29
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-04",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.89
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-04",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.3
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-05",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-05",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.95
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-06",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 4.39
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-06",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.63
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-06",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.89
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-07",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.95
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-07",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.25
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-07",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.82
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-08",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.25
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-08",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.94
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-08",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.82
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-08",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.82
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-09",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.67
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-09",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.34
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-09",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.24
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-11",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.95
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-12",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.93
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-12",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 11.15
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-12",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-13",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.62
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-13",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.01
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-13",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-14",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.51
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-14",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-15",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 14.02
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-15",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 13.09
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-15",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 13.09
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-15",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.47
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-16",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 16.78
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-16",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-17",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.97
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-18",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.96
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-19",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.15
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-19",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 38.31
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-19",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 38.31
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-19",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.12
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-20",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.99
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-21",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-22",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 11.58
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-22",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 14.95
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-23",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 11.72
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-23",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 13.85
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-25",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.53
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-30",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.53
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-03-31",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.24
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-01",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.84
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-01",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.84
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-02",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.05
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-02",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.48
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-03",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.65
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-04",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-05",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-05",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-05",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.27
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-05",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.89
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-06",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.58
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-06",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.58
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-06",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.58
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-06",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.58
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-06",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 18.22
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-06",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.67
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-06",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.67
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-07",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.26
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-07",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-07",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.55
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-07",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 10.52
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-07",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.02
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-08",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-08",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-09",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-10",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.53
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-10",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-11",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.03
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-12",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.06
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-13",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.73
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-13",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 11.75
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-13",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.36
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-13",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 19.01
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-13",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 18.98
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-13",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 19.2
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-14",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 20.72
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-14",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 6.79
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-15",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.89
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-15",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-15",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-15",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 153.17
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-16",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-16",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.71
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-16",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-17",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.42
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-17",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.12
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-18",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.12
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-18",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 32.06
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-19",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.39
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-20",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 11.03
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-20",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-20",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.59
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-20",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 22.07
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-20",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 22.07
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-21",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.71
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-24",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.12
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-25",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.79
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-25",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-26",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.94
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-27",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.44
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-27",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 12.07
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-27",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.82
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-28",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 19.77
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-29",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.12
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-30",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.52
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-30",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.15
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-30",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.68
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-04-30",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.68
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-02",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.25
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-02",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.81
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-03",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.74
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-03",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.78
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-04",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.18
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-04",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 12.13
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-04",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.67
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-06",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-06",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-07",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.05
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-07",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.7
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-07",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-08",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.26
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-08",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-09",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.04
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-09",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.99
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-09",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.74
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-10",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.92
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-10",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 15.64
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-10",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 15.64
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-11",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 12.65
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-11",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 12.15
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-11",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 11.75
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-11",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.51
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-13",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.95
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-13",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 13.8
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-14",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.86
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-14",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.71
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-15",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.22
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-15",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.82
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-16",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.96
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-16",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.05
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-16",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.99
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-16",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 18.65
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-16",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 17.22
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-16",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 22.53
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-16",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 22.89
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-17",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.44
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-18",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 11.72
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-18",
+    "comercio": "URBANI",
+    "giro_comercio": "BOUTIQUES ROPA - NIOS Y BEBES",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-18",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 13.51
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-18",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 14.03
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-19",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 20.52
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-19",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 20.52
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-20",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.6
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-20",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.6
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-20",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 11.27
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-20",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.9
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-21",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.14
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-21",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.24
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-21",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 11.15
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-21",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-21",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.63
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-22",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.26
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-23",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.75
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-23",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.12
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-24",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.62
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-25",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.4
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-25",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.95
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-25",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.62
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-25",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 15.02
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-27",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.05
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-28",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.01
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-28",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.28
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-29",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.96
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-29",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.59
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-30",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 14.71
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-05-30",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.27
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-01",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 11.26
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-01",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 19.77
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-01",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 18.16
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-03",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.7
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-04",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 13.13
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-04",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.46
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-05",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.77
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-05",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.12
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-06",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-06",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.58
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-07",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.87
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-08",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 14.95
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-08",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.55
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-08",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.64
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-08",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.64
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-10",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.59
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-11",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.12
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-11",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-13",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.21
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-13",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.22
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-13",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.58
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-14",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.41
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-15",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 14.03
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-15",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 14.03
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-15",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 16.57
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-16",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "TIENDA DE DISCOS",
+    "tipo_venta": "fisica",
+    "monto": 4.84
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-17",
+    "comercio": "DIDI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 16.57
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-17",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 16.57
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-17",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.51
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-18",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.98
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-18",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.45
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-18",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.45
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-22",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-23",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.87
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-23",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.17
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-23",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.92
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-24",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.12
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-25",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.49
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-26",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.11
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-26",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.27
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-27",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.83
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-27",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.59
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-27",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.51
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-28",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.18
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-28",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.19
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-28",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.19
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-29",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 15.17
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-29",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.72
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-29",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-29",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.51
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-30",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 12.87
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-30",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 18.87
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-06-30",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 18.87
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-01",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.87
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-01",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.87
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-01",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.87
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-01",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 12.88
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-01",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 14.14
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-02",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 25.52
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-02",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.89
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-03",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.71
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-05",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.93
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-06",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-06",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 13.68
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-06",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 25.51
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-06",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 24.36
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-07",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.88
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-07",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 14.02
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-08",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.3
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-10",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.01
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-10",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.64
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-11",
+    "comercio": "SERV AGUA DREN",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 32.52
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-11",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.01
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-13",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 14.02
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-13",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.96
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-13",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 22.18
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-13",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 22.18
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-14",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.79
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-14",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.42
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-14",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.42
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-16",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.57
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-16",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.57
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-16",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.0
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-16",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.2
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-16",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.56
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-17",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.01
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-17",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.56
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-18",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.66
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-18",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.66
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-18",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.71
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-19",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 11.5
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-20",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.58
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-20",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.57
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-21",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-21",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-22",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.48
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-22",
+    "comercio": "URBANI",
+    "giro_comercio": "BOUTIQUES ROPA - NIOS Y BEBES",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-23",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.42
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-23",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.86
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-23",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.7
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-24",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.56
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-25",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.56
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-27",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-27",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.58
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-27",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.42
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-28",
+    "comercio": "URBANI",
+    "giro_comercio": "BOUTIQUES ROPA - NIOS Y BEBES",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-29",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.41
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-30",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.56
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-07-31",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-08-01",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.2
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-08-03",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.88
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-08-03",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-08-04",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.72
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-08-05",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.2
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-08-06",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-08-06",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-08-06",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.2
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-08-07",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.42
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-08-07",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-08-08",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-08-09",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 12.53
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-08-10",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.72
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-08-10",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.72
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-08-10",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.72
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-08-10",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 13.11
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-08-10",
+    "comercio": "URBANI",
+    "giro_comercio": "SERVICIOS DE TRANSPORTE -NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 3.46
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-08-10",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 38.12
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-08-10",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.48
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-08-11",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.58
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-08-15",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.12
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-08-15",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.12
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-08-15",
+    "comercio": "URBANI",
+    "giro_comercio": "SERVICIOS DE TRANSPORTE -NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-08-17",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.72
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-08-19",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-08-20",
+    "comercio": "URBANI",
+    "giro_comercio": "SERVICIOS DE TRANSPORTE -NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 2.42
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-08-20",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-08-21",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.48
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-08-21",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-08-22",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.43
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-08-22",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.48
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-08-22",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.64
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-08-22",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-08-23",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-08-24",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.87
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-08-24",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.87
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-08-24",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.27
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-08-24",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.72
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-08-25",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.58
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-08-27",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-08-28",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.56
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-08-29",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-08-30",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.55
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-08-30",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 2.42
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-08-30",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.55
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-08-30",
+    "comercio": "URBANI",
+    "giro_comercio": "SERVICIOS DE TRANSPORTE -NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-08-31",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.72
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-01",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.53
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-01",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.93
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-02",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.55
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-06",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-06",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-06",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-07",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.26
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-07",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.64
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-08",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.07
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-08",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 7.8
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-08",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.4
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-09",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.42
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-09",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.87
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-10",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.42
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-10",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.44
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-11",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-11",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.44
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-12",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.42
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-13",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 3.29
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-14",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.58
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-14",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.42
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-14",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-15",
+    "comercio": "URBANI",
+    "giro_comercio": "BOUTIQUES ROPA - NIOS Y BEBES",
+    "tipo_venta": "digital",
+    "monto": 15.18
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-15",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.78
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-16",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 17.01
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-16",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 19.08
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-16",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-19",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.05
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-19",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-20",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.86
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-21",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.58
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-21",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 12.88
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-21",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.76
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-21",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 11.5
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-22",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 31.25
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-22",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.87
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-22",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.58
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-22",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.6
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-22",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.6
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-22",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.57
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-22",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.32
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-23",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-23",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-23",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.1
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-24",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.22
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-25",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.42
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-25",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.46
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-25",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.22
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-26",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.55
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-26",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.55
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-27",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-27",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.89
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-27",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.44
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-27",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-28",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.57
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-28",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.31
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-28",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.55
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-28",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.55
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-28",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.55
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-09-29",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-03",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-03",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.32
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-03",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-04",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.42
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-04",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.87
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-05",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.0
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-05",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 28.8
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-05",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 2.43
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-05",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 26.65
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-05",
+    "comercio": "URBANI",
+    "giro_comercio": "SERVICIOS DE TRANSPORTE -NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-06",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-06",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.13
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-06",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.25
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-06",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 53.87
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-06",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.86
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-07",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.79
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-07",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.12
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-08",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.42
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-08",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.95
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-09",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.12
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-09",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.53
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-10",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.32
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-10",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.32
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-11",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.07
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-11",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.07
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-12",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.86
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-12",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 11.5
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-12",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.74
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-12",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.81
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-12",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 15.41
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-14",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.22
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-15",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.63
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-15",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.22
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-16",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.42
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-17",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.57
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-18",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.63
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-19",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-19",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.4
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-19",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-21",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.89
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-21",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.12
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-21",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.3
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-21",
+    "comercio": "URBANI",
+    "giro_comercio": "SERVICIOS DE TRANSPORTE -NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-22",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 26.26
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-22",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.63
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-22",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.33
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-22",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-23",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.51
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-24",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.51
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-24",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.72
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-25",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.97
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-25",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.25
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-25",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.25
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-25",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-25",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 43.89
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-26",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 12.87
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-28",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-28",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.63
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-29",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.63
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-29",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-29",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.98
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-30",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.43
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-30",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.98
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-31",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.04
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-31",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.63
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-31",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 43.25
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-31",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 4.14
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-10-31",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 15.75
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-01",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.74
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-01",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 24.41
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-01",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 35.56
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-02",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.58
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-02",
+    "comercio": "URBANI",
+    "giro_comercio": "SERVICIOS DE TRANSPORTE -NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-02",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.17
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-02",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-02",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.36
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-03",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 18.61
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-03",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 28.96
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-04",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.72
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-04",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.72
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-04",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.48
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-05",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.09
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-05",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-06",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-06",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.51
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-06",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.12
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-07",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.51
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-07",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 34.2
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-08",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.78
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-08",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 12.65
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-08",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 67.89
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-09",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.7
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-10",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 53.24
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-10",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 51.04
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-10",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-11",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.42
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-11",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.57
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-11",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.57
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-12",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-15",
+    "comercio": "SHEIN",
+    "giro_comercio": "SERVICIOS RELACIONES PUBLICAS (SERVICIOS CONSULTOR",
+    "tipo_venta": "digital",
+    "monto": 83.26
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-15",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 15.98
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-16",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.57
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-16",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.58
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-16",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.57
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-16",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.7
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-16",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-16",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 26.66
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-16",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.86
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-16",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.0
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-16",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.83
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-16",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.17
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-16",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-17",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 65.49
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-17",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 65.49
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-18",
+    "comercio": "URBANI",
+    "giro_comercio": "SERVICIOS DE TRANSPORTE -NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-18",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.96
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-18",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.94
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-18",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 26.66
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-18",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 24.71
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-19",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.4
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-19",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 13.22
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-19",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "BIENES DIGITALES JUEGOS",
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-20",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.63
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-20",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-21",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.63
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-21",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-21",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-21",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.53
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-22",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.97
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-23",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.58
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-23",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.63
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-24",
+    "comercio": "URBANI",
+    "giro_comercio": "SERVICIOS DE TRANSPORTE -NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-24",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-25",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.28
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-25",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.29
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-27",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-27",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.3
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-28",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-28",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.63
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-28",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.57
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-28",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.12
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-29",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-29",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-29",
+    "comercio": "URBANI",
+    "giro_comercio": "SERVICIOS DE TRANSPORTE -NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-29",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 26.87
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-29",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-30",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-30",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-30",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 60.96
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-30",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.31
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-30",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.17
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-11-30",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-02",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-03",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.79
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-03",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.97
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-03",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.18
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-04",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.05
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-04",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 20.21
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-04",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 11.5
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-04",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 1.74
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-04",
+    "comercio": "GOOGLE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 11.62
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-05",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.51
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-05",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-06",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-06",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.58
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-06",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-07",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 17.46
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-07",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-07",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.55
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-08",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.42
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-08",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.72
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-09",
+    "comercio": "URBANI",
+    "giro_comercio": "SERVICIOS DE TRANSPORTE -NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 4.84
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-09",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.76
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-09",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.08
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-09",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.52
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-10",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.87
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-10",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.91
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-10",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.17
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-10",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.33
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-12",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-12",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 34.25
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-13",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.58
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-13",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.55
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-13",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.32
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-14",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 13.34
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-14",
+    "comercio": "URBANI",
+    "giro_comercio": "SERVICIOS DE TRANSPORTE -NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-14",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.81
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-14",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.94
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-14",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 30.22
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-15",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.22
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-15",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-15",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 4.61
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-15",
+    "comercio": "TEMU",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 57.75
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-15",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.02
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-15",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 17.46
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-15",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 17.46
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-15",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 13.91
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-16",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.88
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-16",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-16",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 78.26
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-16",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 11.38
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-17",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 13.11
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-19",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 55.16
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-19",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.58
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-19",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "BIENES DIGITALES JUEGOS",
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-21",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 13.68
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-22",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 13.68
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-24",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.21
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-25",
+    "comercio": "URBANI",
+    "giro_comercio": "SERVICIOS DE TRANSPORTE -NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-25",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.87
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-26",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-26",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.51
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-27",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "BIENES DIGITALES JUEGOS",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-28",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "BIENES DIGITALES JUEGOS",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-28",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "BIENES DIGITALES JUEGOS",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-29",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.38
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-29",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.72
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-29",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.78
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-30",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.57
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-30",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 51.45
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2022-12-30",
+    "comercio": "URBANI",
+    "giro_comercio": "SERVICIOS DE TRANSPORTE -NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-01",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-01",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 34.03
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-01",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 27.8
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-01",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 27.81
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-01",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 27.81
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-02",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.24
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-03",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.04
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-03",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 19.51
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-04",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.58
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-04",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 13.68
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-04",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.12
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-06",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-06",
+    "comercio": "URBANI",
+    "giro_comercio": "SERVICIOS DE TRANSPORTE -NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-06",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 11.15
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-07",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.05
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-08",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.77
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-09",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.27
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-09",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.94
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-10",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.03
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-10",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.03
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-11",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.03
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-11",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-12",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 22.41
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-12",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 23.56
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-13",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.69
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-14",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.56
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-15",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-15",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.92
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-15",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.29
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-16",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.41
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-16",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 19.12
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-16",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.69
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-17",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.26
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-17",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.92
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-17",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 26.59
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-17",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 27.0
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-18",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 15.17
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-18",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.55
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-18",
+    "comercio": "URBANI",
+    "giro_comercio": "SERVICIOS DE TRANSPORTE -NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-18",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.96
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-19",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-19",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.62
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-19",
+    "comercio": "CARLS JR",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 36.31
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-19",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.78
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-19",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-20",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.78
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-20",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.27
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-20",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "BIENES DIGITALES JUEGOS",
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-23",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.33
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-24",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.42
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-24",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.84
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-24",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.88
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-24",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.07
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-25",
+    "comercio": "URBANI",
+    "giro_comercio": "SERVICIOS DE TRANSPORTE -NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 3.11
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-25",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.07
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-25",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.67
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-27",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "53c5d5991983d7d0e74c81a03849520a99c251de",
+    "fecha": "2023-01-27",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.01
+  }
+]

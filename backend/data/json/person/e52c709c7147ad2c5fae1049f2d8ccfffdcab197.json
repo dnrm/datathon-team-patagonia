@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-01-01",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 3.69
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-01-05",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 100.17
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-01-05",
+    "comercio": "MERCADOPAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 28.67
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-01-05",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 29.35
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-01-14",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 25.01
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-01-15",
+    "comercio": "MERCADOPAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 61.22
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-01-18",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 19.31
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-01-19",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 126.61
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-01-19",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-01-24",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 3.69
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-01-26",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 45.87
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-01-31",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-01-31",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 3.69
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-02-02",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 100.17
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-02-09",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 3.69
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-02-09",
+    "comercio": "MERCADOPAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 75.37
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-02-10",
+    "comercio": "MERCADOPAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 40.49
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-02-15",
+    "comercio": "MERCADOPAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 70.02
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-02-16",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 89.5
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-02-17",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 3.69
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-02-24",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 56.65
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-03-02",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-03-03",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 18.62
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-03-03",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 130.73
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-03-05",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 3.69
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-03-08",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 75.37
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-03-14",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 39.04
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-03-15",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 103.64
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-03-16",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.59
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-03-20",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 3.69
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-03-22",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-03-24",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 115.12
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-03-30",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 3.69
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-04-01",
+    "comercio": "MERCADOPAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 75.37
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-04-03",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-04-05",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 6.22
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-04-06",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 126.02
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-04-13",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 101.45
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-04-15",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 34.71
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-04-15",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 3.69
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-04-20",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 57.68
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-04-22",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 3.69
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-04-27",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-04-28",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 100.17
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-05-03",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 113.54
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-05-04",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 3.69
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-05-10",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 11.73
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-05-11",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 3.69
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-05-11",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 42.36
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-05-13",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-05-17",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 85.28
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-05-19",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 3.69
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-05-19",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 3.69
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-05-19",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 3.69
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-05-25",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.66
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-05-27",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-05-27",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 3.69
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-05-31",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-05-31",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 11.73
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-06-07",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 100.17
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-06-11",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 3.69
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-06-11",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 3.69
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-06-16",
+    "comercio": "MERCADOPAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 48.48
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-06-17",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 22.57
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-06-29",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-06-29",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 227.36
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-07-06",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 100.17
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-07-12",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 90.88
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-07-12",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 31.2
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-07-12",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-07-14",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 42.36
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-07-15",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-07-26",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 84.64
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-08-02",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 100.17
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-08-03",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-08-10",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 4.43
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-08-12",
+    "comercio": "MERCADOPAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 53.52
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-08-14",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 3.69
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-08-16",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-08-20",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.86
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-08-21",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 3.69
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-08-24",
+    "comercio": "COPPEL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 27.47
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-08-31",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 100.17
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-09-02",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-09-09",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 78.13
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-09-12",
+    "comercio": "MERCADOPAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 53.52
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-09-12",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 53.52
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-09-13",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 66.95
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-09-20",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-09-26",
+    "comercio": "SHEIN",
+    "giro_comercio": "BOUTIQUES ROPA - PARA TODA LA FAMILIA",
+    "tipo_venta": "digital",
+    "monto": 68.94
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-09-28",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 100.17
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-10-10",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-10-10",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-10-12",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 78.18
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-10-12",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 137.11
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-10-14",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-10-16",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-10-20",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-10-20",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-10-20",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-10-20",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-10-20",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-10-27",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 7.02
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-10-27",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 100.17
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-10-30",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-10-30",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-11-02",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.95
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-11-14",
+    "comercio": "MERCADOPAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 72.49
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-11-15",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-11-18",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 6.5
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-11-20",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-11-21",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 6.5
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-11-23",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-11-24",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-11-24",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 6.5
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-11-25",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 2.19
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-11-26",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-11-29",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-11-29",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 100.17
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-12-01",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 7.08
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-12-01",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 7.08
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-12-02",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-12-02",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.95
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-12-05",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-12-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.95
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-12-08",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-12-08",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.95
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-12-11",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-12-11",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.95
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-12-13",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 72.49
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-12-13",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 128.37
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-12-14",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.95
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-12-16",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-12-16",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-12-18",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 2.19
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-12-18",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-12-18",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 6.5
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-12-20",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-12-21",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 6.5
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-12-22",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 79.09
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-12-23",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-12-27",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 100.17
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-12-31",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2022-12-31",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2023-01-02",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.95
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2023-01-03",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2023-01-03",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 54.12
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2023-01-03",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.32
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2023-01-03",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2023-01-04",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 54.12
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2023-01-04",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 54.12
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2023-01-06",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2023-01-09",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2023-01-12",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 118.07
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2023-01-12",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2023-01-15",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2023-01-17",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 55.37
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2023-01-18",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 2.19
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2023-01-18",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 12.76
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2023-01-18",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2023-01-20",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2023-01-21",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 12.76
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2023-01-21",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2023-01-23",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2023-01-24",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 12.76
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2023-01-26",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2023-01-26",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 100.17
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2023-01-27",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 12.76
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2023-01-29",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "e52c709c7147ad2c5fae1049f2d8ccfffdcab197",
+    "fecha": "2023-01-30",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 12.76
+  }
+]

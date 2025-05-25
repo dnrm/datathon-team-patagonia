@@ -1,0 +1,5706 @@
+[
+  {
+    "id": "2da57c64924a452d44912549aaf5049a3bc1078c",
+    "fecha": "2022-04-21",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 149.06
+  },
+  {
+    "id": "50f4ad84e793535b162be0c9d2bd7f23b154085a",
+    "fecha": "2022-05-01",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 23.22
+  },
+  {
+    "id": "3e86f3f66a96699fe2a84164892b66138b87c333",
+    "fecha": "2022-01-19",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 73.27
+  },
+  {
+    "id": "3e86f3f66a96699fe2a84164892b66138b87c333",
+    "fecha": "2022-01-27",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 87.05
+  },
+  {
+    "id": "3e86f3f66a96699fe2a84164892b66138b87c333",
+    "fecha": "2022-02-16",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 76.93
+  },
+  {
+    "id": "3e86f3f66a96699fe2a84164892b66138b87c333",
+    "fecha": "2022-02-23",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 102.49
+  },
+  {
+    "id": "3e86f3f66a96699fe2a84164892b66138b87c333",
+    "fecha": "2022-04-19",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 77.41
+  },
+  {
+    "id": "3e86f3f66a96699fe2a84164892b66138b87c333",
+    "fecha": "2022-04-29",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 78.1
+  },
+  {
+    "id": "3e86f3f66a96699fe2a84164892b66138b87c333",
+    "fecha": "2022-05-05",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 78.44
+  },
+  {
+    "id": "3e86f3f66a96699fe2a84164892b66138b87c333",
+    "fecha": "2022-05-24",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 77.41
+  },
+  {
+    "id": "3e86f3f66a96699fe2a84164892b66138b87c333",
+    "fecha": "2022-06-18",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 51.23
+  },
+  {
+    "id": "3e86f3f66a96699fe2a84164892b66138b87c333",
+    "fecha": "2022-07-05",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 79.48
+  },
+  {
+    "id": "3e86f3f66a96699fe2a84164892b66138b87c333",
+    "fecha": "2022-07-19",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 79.48
+  },
+  {
+    "id": "3e86f3f66a96699fe2a84164892b66138b87c333",
+    "fecha": "2022-08-09",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 79.48
+  },
+  {
+    "id": "3e86f3f66a96699fe2a84164892b66138b87c333",
+    "fecha": "2022-08-25",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.16
+  },
+  {
+    "id": "3e86f3f66a96699fe2a84164892b66138b87c333",
+    "fecha": "2022-08-31",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 79.48
+  },
+  {
+    "id": "3e86f3f66a96699fe2a84164892b66138b87c333",
+    "fecha": "2022-09-04",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 53.06
+  },
+  {
+    "id": "3e86f3f66a96699fe2a84164892b66138b87c333",
+    "fecha": "2022-09-13",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 92.28
+  },
+  {
+    "id": "3e86f3f66a96699fe2a84164892b66138b87c333",
+    "fecha": "2022-09-25",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "3e86f3f66a96699fe2a84164892b66138b87c333",
+    "fecha": "2022-09-27",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 76.58
+  },
+  {
+    "id": "3e86f3f66a96699fe2a84164892b66138b87c333",
+    "fecha": "2022-10-22",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 52.84
+  },
+  {
+    "id": "3e86f3f66a96699fe2a84164892b66138b87c333",
+    "fecha": "2022-10-28",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 52.84
+  },
+  {
+    "id": "3e86f3f66a96699fe2a84164892b66138b87c333",
+    "fecha": "2022-11-22",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 79.82
+  },
+  {
+    "id": "3e86f3f66a96699fe2a84164892b66138b87c333",
+    "fecha": "2022-12-03",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.16
+  },
+  {
+    "id": "3e86f3f66a96699fe2a84164892b66138b87c333",
+    "fecha": "2022-12-06",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 66.84
+  },
+  {
+    "id": "3e86f3f66a96699fe2a84164892b66138b87c333",
+    "fecha": "2023-01-05",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.51
+  },
+  {
+    "id": "3e86f3f66a96699fe2a84164892b66138b87c333",
+    "fecha": "2023-01-25",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 55.36
+  },
+  {
+    "id": "5fa9eb49fd77f4a1fc71dff6ab89eefd137e5618",
+    "fecha": "2022-12-18",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 154.57
+  },
+  {
+    "id": "74b7963125f580c9cdc54f0e90d570edd3a3d6d9",
+    "fecha": "2022-12-29",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 111.4
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-02-08",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 103.64
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-02-10",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 92.15
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-02-17",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.43
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-02-23",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 51.94
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-02-24",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 109.38
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-04-10",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-04-18",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 103.64
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-04-19",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 115.12
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-04-26",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 44.7
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-05-01",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 109.38
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-05-05",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 138.1
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-05-14",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 109.38
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-05-26",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 79.51
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-05-31",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 138.1
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-06-02",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 109.38
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-06-09",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 86.4
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-06-10",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-06-22",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 71.47
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-06-23",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 64.58
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-06-30",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 74.91
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-07-06",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-07-13",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 115.12
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-07-15",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-07-20",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.43
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-07-26",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.43
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-08-02",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 115.12
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-08-02",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 138.1
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-08-14",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 103.64
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-08-21",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-08-26",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 115.12
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-09-02",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 115.12
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-09-09",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-09-13",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 109.38
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-09-21",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 109.38
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-09-22",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 97.89
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-09-27",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-09-28",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-10-05",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 74.91
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-10-19",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 92.15
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-10-26",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-11-01",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 76.06
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-11-09",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 115.12
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-11-16",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 115.12
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-11-17",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 126.61
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-11-27",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 97.89
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-12-02",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 92.15
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-12-09",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 115.12
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-12-12",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 149.59
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-12-15",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 92.15
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-12-20",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 95.59
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-12-26",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 51.94
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2022-12-31",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 103.64
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2023-01-03",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2023-01-05",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2023-01-14",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 115.12
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2023-01-22",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 92.15
+  },
+  {
+    "id": "16f22bd5adee3d4b0ae41ae241fce1b66c4e9fe9",
+    "fecha": "2023-01-25",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 115.12
+  },
+  {
+    "id": "56e8fe4162363467c910e0adb281201068886b5f",
+    "fecha": "2022-03-23",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "56e8fe4162363467c910e0adb281201068886b5f",
+    "fecha": "2022-09-15",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 97.89
+  },
+  {
+    "id": "56e8fe4162363467c910e0adb281201068886b5f",
+    "fecha": "2022-10-26",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 126.61
+  },
+  {
+    "id": "0d7e9d7ce47c82714b00162dc2aecb532461a373",
+    "fecha": "2022-12-27",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-01-26",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-11-21",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "4582b824657edfc5d98afeed18cec862eb7529a7",
+    "fecha": "2022-01-21",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 151.82
+  },
+  {
+    "id": "4582b824657edfc5d98afeed18cec862eb7529a7",
+    "fecha": "2022-02-06",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 153.2
+  },
+  {
+    "id": "4582b824657edfc5d98afeed18cec862eb7529a7",
+    "fecha": "2022-02-23",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 156.64
+  },
+  {
+    "id": "4582b824657edfc5d98afeed18cec862eb7529a7",
+    "fecha": "2022-03-03",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 155.26
+  },
+  {
+    "id": "4582b824657edfc5d98afeed18cec862eb7529a7",
+    "fecha": "2022-03-29",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 159.12
+  },
+  {
+    "id": "4582b824657edfc5d98afeed18cec862eb7529a7",
+    "fecha": "2022-04-27",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 160.09
+  },
+  {
+    "id": "4582b824657edfc5d98afeed18cec862eb7529a7",
+    "fecha": "2022-05-18",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 158.71
+  },
+  {
+    "id": "4582b824657edfc5d98afeed18cec862eb7529a7",
+    "fecha": "2022-06-20",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 160.09
+  },
+  {
+    "id": "4582b824657edfc5d98afeed18cec862eb7529a7",
+    "fecha": "2022-07-20",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 164.22
+  },
+  {
+    "id": "4582b824657edfc5d98afeed18cec862eb7529a7",
+    "fecha": "2022-08-05",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 160.78
+  },
+  {
+    "id": "4582b824657edfc5d98afeed18cec862eb7529a7",
+    "fecha": "2022-08-23",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 160.09
+  },
+  {
+    "id": "4582b824657edfc5d98afeed18cec862eb7529a7",
+    "fecha": "2022-09-13",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 158.71
+  },
+  {
+    "id": "4582b824657edfc5d98afeed18cec862eb7529a7",
+    "fecha": "2022-09-21",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 154.99
+  },
+  {
+    "id": "4582b824657edfc5d98afeed18cec862eb7529a7",
+    "fecha": "2022-10-13",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 161.47
+  },
+  {
+    "id": "4582b824657edfc5d98afeed18cec862eb7529a7",
+    "fecha": "2022-11-06",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 158.71
+  },
+  {
+    "id": "4582b824657edfc5d98afeed18cec862eb7529a7",
+    "fecha": "2022-11-22",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 159.81
+  },
+  {
+    "id": "4582b824657edfc5d98afeed18cec862eb7529a7",
+    "fecha": "2022-12-14",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 160.09
+  },
+  {
+    "id": "4582b824657edfc5d98afeed18cec862eb7529a7",
+    "fecha": "2023-01-16",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 165.6
+  },
+  {
+    "id": "4582b824657edfc5d98afeed18cec862eb7529a7",
+    "fecha": "2023-01-23",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 165.6
+  },
+  {
+    "id": "289d2b963afabda42dc982496ade21528d9f65e4",
+    "fecha": "2023-01-30",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 138.1
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-01-10",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-01-19",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-01-22",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-01-29",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-02-05",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 114.16
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-02-12",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 112.78
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-02-19",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 34.71
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-02-23",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 34.71
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-03-11",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-03-20",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-03-30",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-04-03",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-04-09",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-04-12",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 34.71
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-04-17",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 46.19
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-04-20",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 40.45
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-05-03",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 40.45
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-05-08",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-05-11",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-05-18",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-05-27",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-06-03",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-06-12",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-06-28",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-07-05",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-07-10",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-07-19",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-07-26",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-07-31",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-08-05",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 92.15
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-08-12",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-08-21",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-09-11",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 112.32
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-09-20",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-09-25",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-09-27",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-10-02",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-10-09",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 92.15
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-10-19",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-10-25",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-10-30",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 46.19
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-11-05",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 28.96
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-11-08",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-11-09",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-11-21",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-11-24",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 46.19
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-11-29",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 34.71
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-12-04",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-12-13",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 84.99
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2022-12-21",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2023-01-07",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 34.71
+  },
+  {
+    "id": "7742592c6ee28cabab6c9b8ff29ca370acbbee75",
+    "fecha": "2023-01-27",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "721fce1964f28c360910dc10b8a96ec596c229bd",
+    "fecha": "2022-03-08",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 115.12
+  },
+  {
+    "id": "721fce1964f28c360910dc10b8a96ec596c229bd",
+    "fecha": "2022-03-10",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 92.15
+  },
+  {
+    "id": "721fce1964f28c360910dc10b8a96ec596c229bd",
+    "fecha": "2022-04-27",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 92.15
+  },
+  {
+    "id": "721fce1964f28c360910dc10b8a96ec596c229bd",
+    "fecha": "2022-05-04",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 115.12
+  },
+  {
+    "id": "721fce1964f28c360910dc10b8a96ec596c229bd",
+    "fecha": "2023-01-20",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 115.12
+  },
+  {
+    "id": "6faa300dc4aa9bdbf9c078c4fb1070a2c8650064",
+    "fecha": "2022-01-27",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 50.77
+  },
+  {
+    "id": "6faa300dc4aa9bdbf9c078c4fb1070a2c8650064",
+    "fecha": "2022-01-27",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 50.77
+  },
+  {
+    "id": "6faa300dc4aa9bdbf9c078c4fb1070a2c8650064",
+    "fecha": "2022-03-29",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 56.05
+  },
+  {
+    "id": "e5fe4afa9f64bab77fc22542854c2f62884eff2d",
+    "fecha": "2022-01-11",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 23.22
+  },
+  {
+    "id": "e5fe4afa9f64bab77fc22542854c2f62884eff2d",
+    "fecha": "2022-06-28",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 34.71
+  },
+  {
+    "id": "e5fe4afa9f64bab77fc22542854c2f62884eff2d",
+    "fecha": "2022-08-25",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 28.96
+  },
+  {
+    "id": "e5fe4afa9f64bab77fc22542854c2f62884eff2d",
+    "fecha": "2022-11-03",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "e5fe4afa9f64bab77fc22542854c2f62884eff2d",
+    "fecha": "2022-11-10",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 23.22
+  },
+  {
+    "id": "e5fe4afa9f64bab77fc22542854c2f62884eff2d",
+    "fecha": "2022-12-15",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.16
+  },
+  {
+    "id": "e5fe4afa9f64bab77fc22542854c2f62884eff2d",
+    "fecha": "2022-12-26",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "e5fe4afa9f64bab77fc22542854c2f62884eff2d",
+    "fecha": "2023-01-09",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 68.57
+  },
+  {
+    "id": "e5fe4afa9f64bab77fc22542854c2f62884eff2d",
+    "fecha": "2023-01-24",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "d04a6f50792e6f3b35cefa853015bafbf66ba2e4",
+    "fecha": "2022-11-14",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 54.12
+  },
+  {
+    "id": "d04a6f50792e6f3b35cefa853015bafbf66ba2e4",
+    "fecha": "2022-11-23",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 104.32
+  },
+  {
+    "id": "d04a6f50792e6f3b35cefa853015bafbf66ba2e4",
+    "fecha": "2022-12-12",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 91.31
+  },
+  {
+    "id": "d04a6f50792e6f3b35cefa853015bafbf66ba2e4",
+    "fecha": "2022-12-28",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 91.31
+  },
+  {
+    "id": "92f77a4cb7a1547772bd562830a62aabd903b96d",
+    "fecha": "2022-01-26",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 103.64
+  },
+  {
+    "id": "92f77a4cb7a1547772bd562830a62aabd903b96d",
+    "fecha": "2022-02-20",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 93.3
+  },
+  {
+    "id": "92f77a4cb7a1547772bd562830a62aabd903b96d",
+    "fecha": "2022-02-28",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 34.71
+  },
+  {
+    "id": "92f77a4cb7a1547772bd562830a62aabd903b96d",
+    "fecha": "2022-03-01",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 126.61
+  },
+  {
+    "id": "92f77a4cb7a1547772bd562830a62aabd903b96d",
+    "fecha": "2022-03-06",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 92.15
+  },
+  {
+    "id": "92f77a4cb7a1547772bd562830a62aabd903b96d",
+    "fecha": "2022-03-11",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 47.92
+  },
+  {
+    "id": "92f77a4cb7a1547772bd562830a62aabd903b96d",
+    "fecha": "2022-03-26",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 55.38
+  },
+  {
+    "id": "92f77a4cb7a1547772bd562830a62aabd903b96d",
+    "fecha": "2022-04-01",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 92.15
+  },
+  {
+    "id": "92f77a4cb7a1547772bd562830a62aabd903b96d",
+    "fecha": "2022-04-10",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 92.15
+  },
+  {
+    "id": "92f77a4cb7a1547772bd562830a62aabd903b96d",
+    "fecha": "2022-04-16",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 138.1
+  },
+  {
+    "id": "92f77a4cb7a1547772bd562830a62aabd903b96d",
+    "fecha": "2022-04-23",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "92f77a4cb7a1547772bd562830a62aabd903b96d",
+    "fecha": "2022-04-29",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "92f77a4cb7a1547772bd562830a62aabd903b96d",
+    "fecha": "2022-05-03",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "92f77a4cb7a1547772bd562830a62aabd903b96d",
+    "fecha": "2022-05-08",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 92.15
+  },
+  {
+    "id": "92f77a4cb7a1547772bd562830a62aabd903b96d",
+    "fecha": "2022-05-16",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 92.15
+  },
+  {
+    "id": "92f77a4cb7a1547772bd562830a62aabd903b96d",
+    "fecha": "2022-05-22",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 103.64
+  },
+  {
+    "id": "92f77a4cb7a1547772bd562830a62aabd903b96d",
+    "fecha": "2022-06-06",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "92f77a4cb7a1547772bd562830a62aabd903b96d",
+    "fecha": "2022-06-12",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 92.15
+  },
+  {
+    "id": "92f77a4cb7a1547772bd562830a62aabd903b96d",
+    "fecha": "2022-06-18",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "92f77a4cb7a1547772bd562830a62aabd903b96d",
+    "fecha": "2022-06-27",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 115.12
+  },
+  {
+    "id": "92f77a4cb7a1547772bd562830a62aabd903b96d",
+    "fecha": "2022-07-07",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 92.15
+  },
+  {
+    "id": "92f77a4cb7a1547772bd562830a62aabd903b96d",
+    "fecha": "2022-07-07",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 92.15
+  },
+  {
+    "id": "92f77a4cb7a1547772bd562830a62aabd903b96d",
+    "fecha": "2022-07-17",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 92.15
+  },
+  {
+    "id": "92f77a4cb7a1547772bd562830a62aabd903b96d",
+    "fecha": "2022-08-15",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 92.15
+  },
+  {
+    "id": "92f77a4cb7a1547772bd562830a62aabd903b96d",
+    "fecha": "2022-08-21",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 86.4
+  },
+  {
+    "id": "92f77a4cb7a1547772bd562830a62aabd903b96d",
+    "fecha": "2022-08-28",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 70.32
+  },
+  {
+    "id": "92f77a4cb7a1547772bd562830a62aabd903b96d",
+    "fecha": "2022-08-28",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "92f77a4cb7a1547772bd562830a62aabd903b96d",
+    "fecha": "2022-08-28",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 70.32
+  },
+  {
+    "id": "92f77a4cb7a1547772bd562830a62aabd903b96d",
+    "fecha": "2022-09-05",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 115.12
+  },
+  {
+    "id": "92f77a4cb7a1547772bd562830a62aabd903b96d",
+    "fecha": "2022-09-13",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 92.15
+  },
+  {
+    "id": "92f77a4cb7a1547772bd562830a62aabd903b96d",
+    "fecha": "2022-09-23",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 92.15
+  },
+  {
+    "id": "92f77a4cb7a1547772bd562830a62aabd903b96d",
+    "fecha": "2022-09-30",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 91.0
+  },
+  {
+    "id": "92f77a4cb7a1547772bd562830a62aabd903b96d",
+    "fecha": "2022-10-06",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 103.64
+  },
+  {
+    "id": "92f77a4cb7a1547772bd562830a62aabd903b96d",
+    "fecha": "2022-10-11",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "92f77a4cb7a1547772bd562830a62aabd903b96d",
+    "fecha": "2022-10-16",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "92f77a4cb7a1547772bd562830a62aabd903b96d",
+    "fecha": "2022-10-24",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 92.15
+  },
+  {
+    "id": "92f77a4cb7a1547772bd562830a62aabd903b96d",
+    "fecha": "2022-10-30",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 92.15
+  },
+  {
+    "id": "92f77a4cb7a1547772bd562830a62aabd903b96d",
+    "fecha": "2022-11-12",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "92f77a4cb7a1547772bd562830a62aabd903b96d",
+    "fecha": "2022-11-17",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 115.12
+  },
+  {
+    "id": "92f77a4cb7a1547772bd562830a62aabd903b96d",
+    "fecha": "2022-11-21",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "92f77a4cb7a1547772bd562830a62aabd903b96d",
+    "fecha": "2022-11-27",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 92.15
+  },
+  {
+    "id": "92f77a4cb7a1547772bd562830a62aabd903b96d",
+    "fecha": "2022-11-28",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 92.15
+  },
+  {
+    "id": "92f77a4cb7a1547772bd562830a62aabd903b96d",
+    "fecha": "2022-12-03",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 92.15
+  },
+  {
+    "id": "92f77a4cb7a1547772bd562830a62aabd903b96d",
+    "fecha": "2022-12-19",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 93.08
+  },
+  {
+    "id": "92f77a4cb7a1547772bd562830a62aabd903b96d",
+    "fecha": "2022-12-19",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 34.71
+  },
+  {
+    "id": "92f77a4cb7a1547772bd562830a62aabd903b96d",
+    "fecha": "2023-01-15",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 127.76
+  },
+  {
+    "id": "92f77a4cb7a1547772bd562830a62aabd903b96d",
+    "fecha": "2023-01-29",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "2e805f79e201c922dab7aa73675e897968bda688",
+    "fecha": "2022-12-13",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 104.51
+  },
+  {
+    "id": "68f7ac03a9f1641336b2e8a0b9308691c11b10a9",
+    "fecha": "2022-01-06",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 73.27
+  },
+  {
+    "id": "68f7ac03a9f1641336b2e8a0b9308691c11b10a9",
+    "fecha": "2022-01-13",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "68f7ac03a9f1641336b2e8a0b9308691c11b10a9",
+    "fecha": "2022-02-01",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 115.12
+  },
+  {
+    "id": "68f7ac03a9f1641336b2e8a0b9308691c11b10a9",
+    "fecha": "2022-02-13",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "94e58c5ab22628af017b1e627546f0c96eb390e5",
+    "fecha": "2022-08-25",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "2303c8a4a887bdd51802cefa99536766bf3de584",
+    "fecha": "2022-04-27",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 87.75
+  },
+  {
+    "id": "1ba596b3179a3d78e58850f5e3bb8fb7957dee11",
+    "fecha": "2022-01-12",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 61.39
+  },
+  {
+    "id": "08c5a16957f74f2168ac2dc0af5623b621dd375e",
+    "fecha": "2022-01-07",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 50.31
+  },
+  {
+    "id": "08c5a16957f74f2168ac2dc0af5623b621dd375e",
+    "fecha": "2022-01-15",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 38.48
+  },
+  {
+    "id": "08c5a16957f74f2168ac2dc0af5623b621dd375e",
+    "fecha": "2022-03-01",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 67.71
+  },
+  {
+    "id": "08c5a16957f74f2168ac2dc0af5623b621dd375e",
+    "fecha": "2022-03-10",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 81.89
+  },
+  {
+    "id": "08c5a16957f74f2168ac2dc0af5623b621dd375e",
+    "fecha": "2022-03-17",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.31
+  },
+  {
+    "id": "08c5a16957f74f2168ac2dc0af5623b621dd375e",
+    "fecha": "2022-04-13",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 95.9
+  },
+  {
+    "id": "08c5a16957f74f2168ac2dc0af5623b621dd375e",
+    "fecha": "2022-05-06",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 96.7
+  },
+  {
+    "id": "08c5a16957f74f2168ac2dc0af5623b621dd375e",
+    "fecha": "2022-05-15",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 85.33
+  },
+  {
+    "id": "08c5a16957f74f2168ac2dc0af5623b621dd375e",
+    "fecha": "2022-05-31",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 108.64
+  },
+  {
+    "id": "08c5a16957f74f2168ac2dc0af5623b621dd375e",
+    "fecha": "2022-06-05",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 53.98
+  },
+  {
+    "id": "08c5a16957f74f2168ac2dc0af5623b621dd375e",
+    "fecha": "2022-06-18",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 54.44
+  },
+  {
+    "id": "08c5a16957f74f2168ac2dc0af5623b621dd375e",
+    "fecha": "2022-06-23",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 82.92
+  },
+  {
+    "id": "08c5a16957f74f2168ac2dc0af5623b621dd375e",
+    "fecha": "2022-06-27",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 82.92
+  },
+  {
+    "id": "08c5a16957f74f2168ac2dc0af5623b621dd375e",
+    "fecha": "2022-07-20",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 96.7
+  },
+  {
+    "id": "08c5a16957f74f2168ac2dc0af5623b621dd375e",
+    "fecha": "2022-07-29",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 103.14
+  },
+  {
+    "id": "08c5a16957f74f2168ac2dc0af5623b621dd375e",
+    "fecha": "2022-08-06",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.14
+  },
+  {
+    "id": "08c5a16957f74f2168ac2dc0af5623b621dd375e",
+    "fecha": "2022-08-11",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.14
+  },
+  {
+    "id": "08c5a16957f74f2168ac2dc0af5623b621dd375e",
+    "fecha": "2022-08-18",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 87.4
+  },
+  {
+    "id": "08c5a16957f74f2168ac2dc0af5623b621dd375e",
+    "fecha": "2022-08-23",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 82.58
+  },
+  {
+    "id": "08c5a16957f74f2168ac2dc0af5623b621dd375e",
+    "fecha": "2022-08-30",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 81.54
+  },
+  {
+    "id": "08c5a16957f74f2168ac2dc0af5623b621dd375e",
+    "fecha": "2022-09-08",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 81.2
+  },
+  {
+    "id": "08c5a16957f74f2168ac2dc0af5623b621dd375e",
+    "fecha": "2022-09-20",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 91.07
+  },
+  {
+    "id": "08c5a16957f74f2168ac2dc0af5623b621dd375e",
+    "fecha": "2022-09-29",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 78.79
+  },
+  {
+    "id": "08c5a16957f74f2168ac2dc0af5623b621dd375e",
+    "fecha": "2022-10-18",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 81.89
+  },
+  {
+    "id": "08c5a16957f74f2168ac2dc0af5623b621dd375e",
+    "fecha": "2022-10-26",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 95.5
+  },
+  {
+    "id": "08c5a16957f74f2168ac2dc0af5623b621dd375e",
+    "fecha": "2022-11-03",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 81.54
+  },
+  {
+    "id": "08c5a16957f74f2168ac2dc0af5623b621dd375e",
+    "fecha": "2022-11-09",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 81.54
+  },
+  {
+    "id": "08c5a16957f74f2168ac2dc0af5623b621dd375e",
+    "fecha": "2022-11-24",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 94.69
+  },
+  {
+    "id": "08c5a16957f74f2168ac2dc0af5623b621dd375e",
+    "fecha": "2022-12-01",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 94.69
+  },
+  {
+    "id": "08c5a16957f74f2168ac2dc0af5623b621dd375e",
+    "fecha": "2022-12-07",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.85
+  },
+  {
+    "id": "08c5a16957f74f2168ac2dc0af5623b621dd375e",
+    "fecha": "2022-12-10",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 67.42
+  },
+  {
+    "id": "08c5a16957f74f2168ac2dc0af5623b621dd375e",
+    "fecha": "2022-12-21",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.85
+  },
+  {
+    "id": "08c5a16957f74f2168ac2dc0af5623b621dd375e",
+    "fecha": "2023-01-02",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 109.1
+  },
+  {
+    "id": "08c5a16957f74f2168ac2dc0af5623b621dd375e",
+    "fecha": "2023-01-12",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 96.7
+  },
+  {
+    "id": "08c5a16957f74f2168ac2dc0af5623b621dd375e",
+    "fecha": "2023-01-18",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 83.61
+  },
+  {
+    "id": "193df2d347c800efa8441c7b2403271da9ad437a",
+    "fecha": "2022-01-06",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 151.13
+  },
+  {
+    "id": "193df2d347c800efa8441c7b2403271da9ad437a",
+    "fecha": "2022-01-26",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 97.89
+  },
+  {
+    "id": "193df2d347c800efa8441c7b2403271da9ad437a",
+    "fecha": "2022-03-20",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 92.15
+  },
+  {
+    "id": "193df2d347c800efa8441c7b2403271da9ad437a",
+    "fecha": "2022-05-20",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 157.33
+  },
+  {
+    "id": "193df2d347c800efa8441c7b2403271da9ad437a",
+    "fecha": "2022-09-15",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 92.15
+  },
+  {
+    "id": "193df2d347c800efa8441c7b2403271da9ad437a",
+    "fecha": "2022-10-10",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 92.15
+  },
+  {
+    "id": "193df2d347c800efa8441c7b2403271da9ad437a",
+    "fecha": "2022-10-23",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 103.64
+  },
+  {
+    "id": "193df2d347c800efa8441c7b2403271da9ad437a",
+    "fecha": "2022-12-10",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 97.89
+  },
+  {
+    "id": "3f8cbe371ceb2e4c37ce75bc04da6f47a7919c1b",
+    "fecha": "2022-10-13",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 79.13
+  },
+  {
+    "id": "3f8cbe371ceb2e4c37ce75bc04da6f47a7919c1b",
+    "fecha": "2022-12-12",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 94.13
+  },
+  {
+    "id": "3f8cbe371ceb2e4c37ce75bc04da6f47a7919c1b",
+    "fecha": "2023-01-19",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.43
+  },
+  {
+    "id": "59d1d22e6f56b6054b043217a7269cf44444d32b",
+    "fecha": "2022-12-18",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 109.38
+  },
+  {
+    "id": "59d1d22e6f56b6054b043217a7269cf44444d32b",
+    "fecha": "2022-12-28",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 117.33
+  },
+  {
+    "id": "59d1d22e6f56b6054b043217a7269cf44444d32b",
+    "fecha": "2023-01-05",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 34.71
+  },
+  {
+    "id": "59d1d22e6f56b6054b043217a7269cf44444d32b",
+    "fecha": "2023-01-10",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 103.64
+  },
+  {
+    "id": "59d1d22e6f56b6054b043217a7269cf44444d32b",
+    "fecha": "2023-01-24",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 130.72
+  },
+  {
+    "id": "fa694d3ccb36d1fcc4aede6919e91d9b223af224",
+    "fecha": "2022-02-04",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "766f221e0a6e75ff3f1d0d18423d4da5b0e7d8eb",
+    "fecha": "2022-08-20",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 56.51
+  },
+  {
+    "id": "9387a7f682cb111ecab07ea34594d897375e46a0",
+    "fecha": "2022-05-18",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 90.91
+  },
+  {
+    "id": "9387a7f682cb111ecab07ea34594d897375e46a0",
+    "fecha": "2022-05-18",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 5.42
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-01-05",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.43
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-01-10",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.43
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-01-15",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-01-19",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.43
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-01-23",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-01-26",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.43
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-01-31",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.43
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-02-04",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.43
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-02-08",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.43
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-02-12",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.43
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-02-15",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.43
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-02-20",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-02-23",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.43
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-02-27",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.43
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-03-01",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.43
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-03-06",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.43
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-03-09",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.43
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-03-13",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.43
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-03-17",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-03-22",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-03-27",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-04-03",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.43
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-04-08",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-04-12",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-04-16",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 74.91
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-04-22",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.43
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-04-24",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-04-27",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 34.71
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-04-29",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 34.71
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-05-03",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-05-07",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-05-11",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-05-16",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-05-20",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-05-23",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-05-27",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-05-31",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-06-05",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.43
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-06-10",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 74.91
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-06-14",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.43
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-06-19",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 74.91
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-06-24",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.43
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-06-27",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.43
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-07-05",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 78.36
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-07-10",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-07-15",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 74.91
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-07-19",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 46.19
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-07-23",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 74.91
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-07-27",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 74.91
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-08-01",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 74.91
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-08-06",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 74.91
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-08-12",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 74.91
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-08-12",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 74.91
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-08-17",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 74.91
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-08-22",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 74.91
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-08-27",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-09-02",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 74.91
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-09-05",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-09-10",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-09-14",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 74.91
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-09-19",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 74.91
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-09-25",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 74.91
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-09-30",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 74.91
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-10-06",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 74.91
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-10-10",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 74.91
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-10-16",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 74.91
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-10-20",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 77.21
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-10-24",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 34.71
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-10-29",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 74.91
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-11-03",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-11-08",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 74.91
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-11-13",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-11-13",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-11-17",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-11-22",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 74.91
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-11-26",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 74.91
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-12-01",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-12-06",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 74.91
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-12-13",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-12-18",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2022-12-24",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2023-01-02",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 78.36
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2023-01-07",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 77.21
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2023-01-13",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 77.21
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2023-01-19",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 74.91
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2023-01-23",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 74.91
+  },
+  {
+    "id": "e124107d427c7e1008a4801058040e2d220b48c5",
+    "fecha": "2023-01-29",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 74.91
+  },
+  {
+    "id": "3596b650a387497b3a18abac53151060e29bc4e8",
+    "fecha": "2022-05-12",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "3596b650a387497b3a18abac53151060e29bc4e8",
+    "fecha": "2022-06-02",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "3596b650a387497b3a18abac53151060e29bc4e8",
+    "fecha": "2022-06-14",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "3596b650a387497b3a18abac53151060e29bc4e8",
+    "fecha": "2022-09-03",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "3596b650a387497b3a18abac53151060e29bc4e8",
+    "fecha": "2022-09-21",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "3596b650a387497b3a18abac53151060e29bc4e8",
+    "fecha": "2022-11-09",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "3596b650a387497b3a18abac53151060e29bc4e8",
+    "fecha": "2022-11-27",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "3596b650a387497b3a18abac53151060e29bc4e8",
+    "fecha": "2022-12-12",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "3596b650a387497b3a18abac53151060e29bc4e8",
+    "fecha": "2023-01-16",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "7edfcd56ba7608723a0c97ab03a2756b1d40e6d2",
+    "fecha": "2022-02-05",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "7edfcd56ba7608723a0c97ab03a2756b1d40e6d2",
+    "fecha": "2022-03-04",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.43
+  },
+  {
+    "id": "7edfcd56ba7608723a0c97ab03a2756b1d40e6d2",
+    "fecha": "2022-12-21",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "f37e0ab4a7baade0d75ac48b2ec375ced9349f8e",
+    "fecha": "2022-01-15",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 151.82
+  },
+  {
+    "id": "f37e0ab4a7baade0d75ac48b2ec375ced9349f8e",
+    "fecha": "2022-01-23",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 152.92
+  },
+  {
+    "id": "f37e0ab4a7baade0d75ac48b2ec375ced9349f8e",
+    "fecha": "2022-03-03",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 164.22
+  },
+  {
+    "id": "f37e0ab4a7baade0d75ac48b2ec375ced9349f8e",
+    "fecha": "2022-03-18",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 164.91
+  },
+  {
+    "id": "f37e0ab4a7baade0d75ac48b2ec375ced9349f8e",
+    "fecha": "2022-04-10",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 111.86
+  },
+  {
+    "id": "f37e0ab4a7baade0d75ac48b2ec375ced9349f8e",
+    "fecha": "2022-06-04",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 105.43
+  },
+  {
+    "id": "f37e0ab4a7baade0d75ac48b2ec375ced9349f8e",
+    "fecha": "2022-06-20",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 161.88
+  },
+  {
+    "id": "f37e0ab4a7baade0d75ac48b2ec375ced9349f8e",
+    "fecha": "2022-07-12",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 114.16
+  },
+  {
+    "id": "f37e0ab4a7baade0d75ac48b2ec375ced9349f8e",
+    "fecha": "2022-08-01",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 220.35
+  },
+  {
+    "id": "f37e0ab4a7baade0d75ac48b2ec375ced9349f8e",
+    "fecha": "2022-12-16",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 165.6
+  },
+  {
+    "id": "f37e0ab4a7baade0d75ac48b2ec375ced9349f8e",
+    "fecha": "2023-01-27",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 115.08
+  },
+  {
+    "id": "73979cd3b881080e416ca160e1e7ea947202f06f",
+    "fecha": "2022-06-02",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 76.03
+  },
+  {
+    "id": "eb5e5e38953fc2c50f2ad8238bbe27293f42e22d",
+    "fecha": "2022-10-15",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 138.1
+  },
+  {
+    "id": "eb5e5e38953fc2c50f2ad8238bbe27293f42e22d",
+    "fecha": "2022-10-17",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 34.71
+  },
+  {
+    "id": "eb5e5e38953fc2c50f2ad8238bbe27293f42e22d",
+    "fecha": "2022-10-20",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 34.71
+  },
+  {
+    "id": "eb5e5e38953fc2c50f2ad8238bbe27293f42e22d",
+    "fecha": "2022-10-22",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 34.71
+  },
+  {
+    "id": "eb5e5e38953fc2c50f2ad8238bbe27293f42e22d",
+    "fecha": "2022-10-27",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 34.71
+  },
+  {
+    "id": "eb5e5e38953fc2c50f2ad8238bbe27293f42e22d",
+    "fecha": "2022-10-29",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 34.71
+  },
+  {
+    "id": "eb5e5e38953fc2c50f2ad8238bbe27293f42e22d",
+    "fecha": "2022-11-03",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 34.71
+  },
+  {
+    "id": "eb5e5e38953fc2c50f2ad8238bbe27293f42e22d",
+    "fecha": "2022-11-08",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 138.1
+  },
+  {
+    "id": "eb5e5e38953fc2c50f2ad8238bbe27293f42e22d",
+    "fecha": "2022-11-11",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 115.12
+  },
+  {
+    "id": "eb5e5e38953fc2c50f2ad8238bbe27293f42e22d",
+    "fecha": "2022-11-12",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "eb5e5e38953fc2c50f2ad8238bbe27293f42e22d",
+    "fecha": "2022-11-14",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 34.71
+  },
+  {
+    "id": "eb5e5e38953fc2c50f2ad8238bbe27293f42e22d",
+    "fecha": "2022-11-16",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 34.71
+  },
+  {
+    "id": "eb5e5e38953fc2c50f2ad8238bbe27293f42e22d",
+    "fecha": "2022-11-16",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 11.73
+  },
+  {
+    "id": "eb5e5e38953fc2c50f2ad8238bbe27293f42e22d",
+    "fecha": "2022-11-18",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 34.71
+  },
+  {
+    "id": "eb5e5e38953fc2c50f2ad8238bbe27293f42e22d",
+    "fecha": "2022-11-19",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 138.1
+  },
+  {
+    "id": "eb5e5e38953fc2c50f2ad8238bbe27293f42e22d",
+    "fecha": "2022-11-21",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 34.71
+  },
+  {
+    "id": "eb5e5e38953fc2c50f2ad8238bbe27293f42e22d",
+    "fecha": "2022-11-21",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 5.99
+  },
+  {
+    "id": "eb5e5e38953fc2c50f2ad8238bbe27293f42e22d",
+    "fecha": "2022-11-24",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 34.71
+  },
+  {
+    "id": "eb5e5e38953fc2c50f2ad8238bbe27293f42e22d",
+    "fecha": "2022-11-28",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 46.19
+  },
+  {
+    "id": "eb5e5e38953fc2c50f2ad8238bbe27293f42e22d",
+    "fecha": "2022-12-03",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 138.1
+  },
+  {
+    "id": "eb5e5e38953fc2c50f2ad8238bbe27293f42e22d",
+    "fecha": "2022-12-05",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "eb5e5e38953fc2c50f2ad8238bbe27293f42e22d",
+    "fecha": "2022-12-09",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "eb5e5e38953fc2c50f2ad8238bbe27293f42e22d",
+    "fecha": "2022-12-09",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 23.22
+  },
+  {
+    "id": "eb5e5e38953fc2c50f2ad8238bbe27293f42e22d",
+    "fecha": "2022-12-15",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "eb5e5e38953fc2c50f2ad8238bbe27293f42e22d",
+    "fecha": "2023-01-02",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 40.45
+  },
+  {
+    "id": "eb5e5e38953fc2c50f2ad8238bbe27293f42e22d",
+    "fecha": "2023-01-08",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 161.08
+  },
+  {
+    "id": "eb5e5e38953fc2c50f2ad8238bbe27293f42e22d",
+    "fecha": "2023-01-12",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 51.94
+  },
+  {
+    "id": "eb5e5e38953fc2c50f2ad8238bbe27293f42e22d",
+    "fecha": "2023-01-20",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 160.09
+  },
+  {
+    "id": "eb5e5e38953fc2c50f2ad8238bbe27293f42e22d",
+    "fecha": "2023-01-25",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 103.64
+  },
+  {
+    "id": "e96f434db883f00393a0b09c7f65058893204da2",
+    "fecha": "2022-05-27",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 126.61
+  },
+  {
+    "id": "974232ce089a22d800638ad09c445dfcc0970d6d",
+    "fecha": "2022-01-08",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "974232ce089a22d800638ad09c445dfcc0970d6d",
+    "fecha": "2022-01-21",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "974232ce089a22d800638ad09c445dfcc0970d6d",
+    "fecha": "2022-01-29",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "974232ce089a22d800638ad09c445dfcc0970d6d",
+    "fecha": "2022-02-08",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "974232ce089a22d800638ad09c445dfcc0970d6d",
+    "fecha": "2022-02-18",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.43
+  },
+  {
+    "id": "974232ce089a22d800638ad09c445dfcc0970d6d",
+    "fecha": "2022-02-25",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "974232ce089a22d800638ad09c445dfcc0970d6d",
+    "fecha": "2022-03-03",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "974232ce089a22d800638ad09c445dfcc0970d6d",
+    "fecha": "2022-03-10",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "974232ce089a22d800638ad09c445dfcc0970d6d",
+    "fecha": "2022-03-15",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "974232ce089a22d800638ad09c445dfcc0970d6d",
+    "fecha": "2022-03-20",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "974232ce089a22d800638ad09c445dfcc0970d6d",
+    "fecha": "2022-04-07",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 46.19
+  },
+  {
+    "id": "974232ce089a22d800638ad09c445dfcc0970d6d",
+    "fecha": "2022-04-19",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "974232ce089a22d800638ad09c445dfcc0970d6d",
+    "fecha": "2022-04-24",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "974232ce089a22d800638ad09c445dfcc0970d6d",
+    "fecha": "2022-05-01",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "974232ce089a22d800638ad09c445dfcc0970d6d",
+    "fecha": "2022-05-11",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.43
+  },
+  {
+    "id": "974232ce089a22d800638ad09c445dfcc0970d6d",
+    "fecha": "2022-05-30",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "974232ce089a22d800638ad09c445dfcc0970d6d",
+    "fecha": "2022-06-05",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.43
+  },
+  {
+    "id": "974232ce089a22d800638ad09c445dfcc0970d6d",
+    "fecha": "2022-06-12",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.43
+  },
+  {
+    "id": "974232ce089a22d800638ad09c445dfcc0970d6d",
+    "fecha": "2022-06-16",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.43
+  },
+  {
+    "id": "974232ce089a22d800638ad09c445dfcc0970d6d",
+    "fecha": "2022-07-03",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "974232ce089a22d800638ad09c445dfcc0970d6d",
+    "fecha": "2022-07-09",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.43
+  },
+  {
+    "id": "974232ce089a22d800638ad09c445dfcc0970d6d",
+    "fecha": "2022-07-14",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.43
+  },
+  {
+    "id": "974232ce089a22d800638ad09c445dfcc0970d6d",
+    "fecha": "2022-07-20",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "974232ce089a22d800638ad09c445dfcc0970d6d",
+    "fecha": "2022-07-26",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.43
+  },
+  {
+    "id": "974232ce089a22d800638ad09c445dfcc0970d6d",
+    "fecha": "2022-08-03",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.43
+  },
+  {
+    "id": "974232ce089a22d800638ad09c445dfcc0970d6d",
+    "fecha": "2022-08-11",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "974232ce089a22d800638ad09c445dfcc0970d6d",
+    "fecha": "2022-08-18",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.43
+  },
+  {
+    "id": "974232ce089a22d800638ad09c445dfcc0970d6d",
+    "fecha": "2022-08-25",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.43
+  },
+  {
+    "id": "974232ce089a22d800638ad09c445dfcc0970d6d",
+    "fecha": "2022-08-31",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.43
+  },
+  {
+    "id": "974232ce089a22d800638ad09c445dfcc0970d6d",
+    "fecha": "2022-09-04",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "974232ce089a22d800638ad09c445dfcc0970d6d",
+    "fecha": "2022-09-12",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "974232ce089a22d800638ad09c445dfcc0970d6d",
+    "fecha": "2022-09-20",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "974232ce089a22d800638ad09c445dfcc0970d6d",
+    "fecha": "2022-09-26",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "974232ce089a22d800638ad09c445dfcc0970d6d",
+    "fecha": "2022-10-07",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "974232ce089a22d800638ad09c445dfcc0970d6d",
+    "fecha": "2022-10-14",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "974232ce089a22d800638ad09c445dfcc0970d6d",
+    "fecha": "2022-10-24",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "974232ce089a22d800638ad09c445dfcc0970d6d",
+    "fecha": "2022-10-30",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "974232ce089a22d800638ad09c445dfcc0970d6d",
+    "fecha": "2022-11-03",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "974232ce089a22d800638ad09c445dfcc0970d6d",
+    "fecha": "2022-11-13",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "974232ce089a22d800638ad09c445dfcc0970d6d",
+    "fecha": "2022-11-25",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "974232ce089a22d800638ad09c445dfcc0970d6d",
+    "fecha": "2022-12-05",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "974232ce089a22d800638ad09c445dfcc0970d6d",
+    "fecha": "2022-12-17",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "974232ce089a22d800638ad09c445dfcc0970d6d",
+    "fecha": "2023-01-11",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.43
+  },
+  {
+    "id": "974232ce089a22d800638ad09c445dfcc0970d6d",
+    "fecha": "2023-01-22",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.43
+  },
+  {
+    "id": "19a32480aa51eea09847e67f017a90e20df740d1",
+    "fecha": "2022-01-19",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.08
+  },
+  {
+    "id": "486da6137f763fe25d2e1f0a6c350643beca4749",
+    "fecha": "2022-09-21",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 104.97
+  },
+  {
+    "id": "60398bc53e92ce190ecfe6907e0e910f6585a21f",
+    "fecha": "2022-03-28",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 167.67
+  },
+  {
+    "id": "60398bc53e92ce190ecfe6907e0e910f6585a21f",
+    "fecha": "2022-04-05",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 110.94
+  },
+  {
+    "id": "60398bc53e92ce190ecfe6907e0e910f6585a21f",
+    "fecha": "2022-04-14",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 111.4
+  },
+  {
+    "id": "f39b1b650f61b74be55bc74529b5445545a76e0f",
+    "fecha": "2022-01-04",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.11
+  },
+  {
+    "id": "f39b1b650f61b74be55bc74529b5445545a76e0f",
+    "fecha": "2022-01-12",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 93.71
+  },
+  {
+    "id": "f39b1b650f61b74be55bc74529b5445545a76e0f",
+    "fecha": "2022-01-19",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 96.24
+  },
+  {
+    "id": "f39b1b650f61b74be55bc74529b5445545a76e0f",
+    "fecha": "2022-01-27",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 99.56
+  },
+  {
+    "id": "f39b1b650f61b74be55bc74529b5445545a76e0f",
+    "fecha": "2022-02-03",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 103.25
+  },
+  {
+    "id": "f39b1b650f61b74be55bc74529b5445545a76e0f",
+    "fecha": "2022-02-17",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 102.8
+  },
+  {
+    "id": "f39b1b650f61b74be55bc74529b5445545a76e0f",
+    "fecha": "2022-03-02",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 99.93
+  },
+  {
+    "id": "f39b1b650f61b74be55bc74529b5445545a76e0f",
+    "fecha": "2022-03-13",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 89.06
+  },
+  {
+    "id": "f39b1b650f61b74be55bc74529b5445545a76e0f",
+    "fecha": "2022-03-25",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "f39b1b650f61b74be55bc74529b5445545a76e0f",
+    "fecha": "2022-03-29",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 96.69
+  },
+  {
+    "id": "f39b1b650f61b74be55bc74529b5445545a76e0f",
+    "fecha": "2022-04-06",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 91.88
+  },
+  {
+    "id": "f39b1b650f61b74be55bc74529b5445545a76e0f",
+    "fecha": "2022-04-12",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 84.02
+  },
+  {
+    "id": "f39b1b650f61b74be55bc74529b5445545a76e0f",
+    "fecha": "2022-04-28",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 99.73
+  },
+  {
+    "id": "f39b1b650f61b74be55bc74529b5445545a76e0f",
+    "fecha": "2022-04-28",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 99.73
+  },
+  {
+    "id": "f39b1b650f61b74be55bc74529b5445545a76e0f",
+    "fecha": "2022-05-12",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 92.43
+  },
+  {
+    "id": "f39b1b650f61b74be55bc74529b5445545a76e0f",
+    "fecha": "2022-05-12",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 94.99
+  },
+  {
+    "id": "f39b1b650f61b74be55bc74529b5445545a76e0f",
+    "fecha": "2022-06-09",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 99.73
+  },
+  {
+    "id": "f39b1b650f61b74be55bc74529b5445545a76e0f",
+    "fecha": "2022-06-23",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 112.58
+  },
+  {
+    "id": "f39b1b650f61b74be55bc74529b5445545a76e0f",
+    "fecha": "2022-07-07",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 114.16
+  },
+  {
+    "id": "f39b1b650f61b74be55bc74529b5445545a76e0f",
+    "fecha": "2022-08-17",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 105.93
+  },
+  {
+    "id": "f39b1b650f61b74be55bc74529b5445545a76e0f",
+    "fecha": "2022-09-08",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 115.51
+  },
+  {
+    "id": "f39b1b650f61b74be55bc74529b5445545a76e0f",
+    "fecha": "2022-09-24",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 110.69
+  },
+  {
+    "id": "f39b1b650f61b74be55bc74529b5445545a76e0f",
+    "fecha": "2022-12-07",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 132.53
+  },
+  {
+    "id": "f39b1b650f61b74be55bc74529b5445545a76e0f",
+    "fecha": "2022-12-19",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 118.26
+  },
+  {
+    "id": "f39b1b650f61b74be55bc74529b5445545a76e0f",
+    "fecha": "2022-12-30",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 119.24
+  },
+  {
+    "id": "f39b1b650f61b74be55bc74529b5445545a76e0f",
+    "fecha": "2023-01-05",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 122.01
+  },
+  {
+    "id": "51730a5cc96915dada5206855d2cfa91e2bb823a",
+    "fecha": "2022-02-07",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 156.37
+  },
+  {
+    "id": "51730a5cc96915dada5206855d2cfa91e2bb823a",
+    "fecha": "2022-03-07",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 163.53
+  },
+  {
+    "id": "51730a5cc96915dada5206855d2cfa91e2bb823a",
+    "fecha": "2022-04-11",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 166.29
+  },
+  {
+    "id": "51730a5cc96915dada5206855d2cfa91e2bb823a",
+    "fecha": "2022-05-23",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 160.09
+  },
+  {
+    "id": "51730a5cc96915dada5206855d2cfa91e2bb823a",
+    "fecha": "2022-05-31",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 160.09
+  },
+  {
+    "id": "51730a5cc96915dada5206855d2cfa91e2bb823a",
+    "fecha": "2022-08-19",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 169.74
+  },
+  {
+    "id": "51730a5cc96915dada5206855d2cfa91e2bb823a",
+    "fecha": "2022-09-10",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 165.6
+  },
+  {
+    "id": "51730a5cc96915dada5206855d2cfa91e2bb823a",
+    "fecha": "2022-09-20",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 164.22
+  },
+  {
+    "id": "51730a5cc96915dada5206855d2cfa91e2bb823a",
+    "fecha": "2022-10-02",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 163.53
+  },
+  {
+    "id": "51730a5cc96915dada5206855d2cfa91e2bb823a",
+    "fecha": "2022-10-18",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 167.67
+  },
+  {
+    "id": "51730a5cc96915dada5206855d2cfa91e2bb823a",
+    "fecha": "2022-10-21",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 166.71
+  },
+  {
+    "id": "51730a5cc96915dada5206855d2cfa91e2bb823a",
+    "fecha": "2022-10-29",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 166.71
+  },
+  {
+    "id": "51730a5cc96915dada5206855d2cfa91e2bb823a",
+    "fecha": "2022-10-30",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 166.71
+  },
+  {
+    "id": "51730a5cc96915dada5206855d2cfa91e2bb823a",
+    "fecha": "2022-11-04",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 277.68
+  },
+  {
+    "id": "51730a5cc96915dada5206855d2cfa91e2bb823a",
+    "fecha": "2022-11-12",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 165.6
+  },
+  {
+    "id": "51730a5cc96915dada5206855d2cfa91e2bb823a",
+    "fecha": "2022-12-11",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 271.25
+  },
+  {
+    "id": "51730a5cc96915dada5206855d2cfa91e2bb823a",
+    "fecha": "2022-12-23",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 166.29
+  },
+  {
+    "id": "51730a5cc96915dada5206855d2cfa91e2bb823a",
+    "fecha": "2023-01-06",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 168.08
+  },
+  {
+    "id": "51730a5cc96915dada5206855d2cfa91e2bb823a",
+    "fecha": "2023-01-07",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 172.57
+  },
+  {
+    "id": "51730a5cc96915dada5206855d2cfa91e2bb823a",
+    "fecha": "2023-01-14",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 170.43
+  },
+  {
+    "id": "51730a5cc96915dada5206855d2cfa91e2bb823a",
+    "fecha": "2023-01-20",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 115.08
+  },
+  {
+    "id": "acd31bc9020bf2f6ad27af7ef9371affa07834c4",
+    "fecha": "2022-01-26",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 154.99
+  },
+  {
+    "id": "acd31bc9020bf2f6ad27af7ef9371affa07834c4",
+    "fecha": "2022-02-01",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 157.06
+  },
+  {
+    "id": "acd31bc9020bf2f6ad27af7ef9371affa07834c4",
+    "fecha": "2022-02-17",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 160.09
+  },
+  {
+    "id": "acd31bc9020bf2f6ad27af7ef9371affa07834c4",
+    "fecha": "2022-02-24",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 157.74
+  },
+  {
+    "id": "acd31bc9020bf2f6ad27af7ef9371affa07834c4",
+    "fecha": "2022-02-28",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 157.06
+  },
+  {
+    "id": "acd31bc9020bf2f6ad27af7ef9371affa07834c4",
+    "fecha": "2022-03-21",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 156.64
+  },
+  {
+    "id": "acd31bc9020bf2f6ad27af7ef9371affa07834c4",
+    "fecha": "2022-04-03",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 158.02
+  },
+  {
+    "id": "acd31bc9020bf2f6ad27af7ef9371affa07834c4",
+    "fecha": "2022-04-27",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 158.71
+  },
+  {
+    "id": "acd31bc9020bf2f6ad27af7ef9371affa07834c4",
+    "fecha": "2022-05-05",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 158.71
+  },
+  {
+    "id": "acd31bc9020bf2f6ad27af7ef9371affa07834c4",
+    "fecha": "2022-05-14",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 157.74
+  },
+  {
+    "id": "acd31bc9020bf2f6ad27af7ef9371affa07834c4",
+    "fecha": "2022-05-22",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 157.33
+  },
+  {
+    "id": "acd31bc9020bf2f6ad27af7ef9371affa07834c4",
+    "fecha": "2022-05-30",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 158.71
+  },
+  {
+    "id": "acd31bc9020bf2f6ad27af7ef9371affa07834c4",
+    "fecha": "2022-06-10",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 155.26
+  },
+  {
+    "id": "acd31bc9020bf2f6ad27af7ef9371affa07834c4",
+    "fecha": "2022-06-21",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 161.47
+  },
+  {
+    "id": "acd31bc9020bf2f6ad27af7ef9371affa07834c4",
+    "fecha": "2022-06-27",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 162.16
+  },
+  {
+    "id": "acd31bc9020bf2f6ad27af7ef9371affa07834c4",
+    "fecha": "2022-07-02",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 162.16
+  },
+  {
+    "id": "acd31bc9020bf2f6ad27af7ef9371affa07834c4",
+    "fecha": "2022-07-12",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 161.47
+  },
+  {
+    "id": "acd31bc9020bf2f6ad27af7ef9371affa07834c4",
+    "fecha": "2022-08-09",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 158.71
+  },
+  {
+    "id": "acd31bc9020bf2f6ad27af7ef9371affa07834c4",
+    "fecha": "2022-08-09",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 158.71
+  },
+  {
+    "id": "acd31bc9020bf2f6ad27af7ef9371affa07834c4",
+    "fecha": "2022-08-19",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 160.09
+  },
+  {
+    "id": "acd31bc9020bf2f6ad27af7ef9371affa07834c4",
+    "fecha": "2022-08-23",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 158.71
+  },
+  {
+    "id": "acd31bc9020bf2f6ad27af7ef9371affa07834c4",
+    "fecha": "2022-08-29",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 158.71
+  },
+  {
+    "id": "acd31bc9020bf2f6ad27af7ef9371affa07834c4",
+    "fecha": "2022-09-02",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 159.4
+  },
+  {
+    "id": "acd31bc9020bf2f6ad27af7ef9371affa07834c4",
+    "fecha": "2022-09-08",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 158.71
+  },
+  {
+    "id": "acd31bc9020bf2f6ad27af7ef9371affa07834c4",
+    "fecha": "2022-09-29",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 156.37
+  },
+  {
+    "id": "acd31bc9020bf2f6ad27af7ef9371affa07834c4",
+    "fecha": "2022-10-07",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 157.74
+  },
+  {
+    "id": "acd31bc9020bf2f6ad27af7ef9371affa07834c4",
+    "fecha": "2022-10-19",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 158.43
+  },
+  {
+    "id": "acd31bc9020bf2f6ad27af7ef9371affa07834c4",
+    "fecha": "2022-10-23",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 157.33
+  },
+  {
+    "id": "acd31bc9020bf2f6ad27af7ef9371affa07834c4",
+    "fecha": "2022-10-24",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 156.64
+  },
+  {
+    "id": "acd31bc9020bf2f6ad27af7ef9371affa07834c4",
+    "fecha": "2022-10-30",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 156.64
+  },
+  {
+    "id": "acd31bc9020bf2f6ad27af7ef9371affa07834c4",
+    "fecha": "2022-11-09",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 158.02
+  },
+  {
+    "id": "acd31bc9020bf2f6ad27af7ef9371affa07834c4",
+    "fecha": "2022-11-30",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 159.4
+  },
+  {
+    "id": "acd31bc9020bf2f6ad27af7ef9371affa07834c4",
+    "fecha": "2022-12-07",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 160.09
+  },
+  {
+    "id": "acd31bc9020bf2f6ad27af7ef9371affa07834c4",
+    "fecha": "2022-12-23",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 11.73
+  },
+  {
+    "id": "acd31bc9020bf2f6ad27af7ef9371affa07834c4",
+    "fecha": "2023-01-02",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 160.09
+  },
+  {
+    "id": "acd31bc9020bf2f6ad27af7ef9371affa07834c4",
+    "fecha": "2023-01-13",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 164.91
+  },
+  {
+    "id": "acd31bc9020bf2f6ad27af7ef9371affa07834c4",
+    "fecha": "2023-01-18",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 165.6
+  },
+  {
+    "id": "acd31bc9020bf2f6ad27af7ef9371affa07834c4",
+    "fecha": "2023-01-22",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 165.6
+  },
+  {
+    "id": "acd31bc9020bf2f6ad27af7ef9371affa07834c4",
+    "fecha": "2023-01-26",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 165.6
+  },
+  {
+    "id": "cc52c5040665c98fbd9ed8b54174f124882df68b",
+    "fecha": "2022-01-08",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 72.58
+  },
+  {
+    "id": "cc52c5040665c98fbd9ed8b54174f124882df68b",
+    "fecha": "2022-02-18",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.16
+  },
+  {
+    "id": "cc52c5040665c98fbd9ed8b54174f124882df68b",
+    "fecha": "2022-03-17",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 78.44
+  },
+  {
+    "id": "cc52c5040665c98fbd9ed8b54174f124882df68b",
+    "fecha": "2022-05-19",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 78.99
+  },
+  {
+    "id": "cc52c5040665c98fbd9ed8b54174f124882df68b",
+    "fecha": "2022-07-22",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.85
+  },
+  {
+    "id": "42002c5946cbbb31b3aed033fcab553d27cc5ac9",
+    "fecha": "2022-08-02",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-01-05",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 34.71
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-01-10",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-01-12",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-01-15",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-01-17",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-01-23",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-01-25",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 40.45
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-02-01",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 74.91
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-02-07",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 46.19
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-02-12",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 46.19
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-02-14",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 74.91
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-02-19",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 74.91
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-02-21",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-02-28",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-03-04",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 51.94
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-03-06",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-03-12",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-03-15",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 74.91
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-03-20",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-03-22",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 86.4
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-03-26",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 92.15
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-04-09",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 92.15
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-04-12",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-04-18",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-04-19",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-04-22",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 92.15
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-04-25",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-04-27",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 86.4
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-04-30",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 92.15
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-05-03",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 51.94
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-05-05",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-05-07",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 74.91
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-05-09",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 86.4
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-05-13",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 40.45
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-05-15",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-05-21",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 74.91
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-06-04",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 86.4
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-06-07",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 92.15
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-06-10",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-06-13",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.43
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-06-14",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 40.45
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-06-18",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 92.15
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-06-20",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 46.19
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-06-21",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 51.94
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-06-26",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 51.94
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-07-01",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 86.4
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-07-17",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 92.15
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-07-22",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 51.94
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-07-23",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 51.94
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-07-27",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 74.91
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-08-07",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-08-09",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-08-12",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 86.4
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-08-14",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 74.91
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-08-16",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 86.4
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-09-02",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-09-12",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 92.15
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-09-25",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 74.91
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-09-30",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-10-03",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 23.22
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-10-07",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 92.15
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-10-11",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-10-16",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 92.15
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-10-24",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 92.15
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-10-28",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 86.4
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-11-01",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 86.4
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-11-11",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 86.4
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-11-14",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 86.4
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-11-19",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 92.15
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-11-24",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 74.91
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-11-27",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-12-03",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-12-06",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-12-11",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 86.4
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-12-14",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 74.91
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-12-14",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 74.91
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2022-12-17",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2023-01-06",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2023-01-09",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2023-01-16",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 74.91
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2023-01-18",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 74.91
+  },
+  {
+    "id": "f91ee01bbeef53daf4877dcbc0f167f192bc51db",
+    "fecha": "2023-01-21",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 92.15
+  },
+  {
+    "id": "9e4986284d7c10efaa1dad7b715489dbf00a5ef5",
+    "fecha": "2022-01-17",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 83.43
+  },
+  {
+    "id": "9e4986284d7c10efaa1dad7b715489dbf00a5ef5",
+    "fecha": "2022-01-24",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 79.29
+  },
+  {
+    "id": "9e4986284d7c10efaa1dad7b715489dbf00a5ef5",
+    "fecha": "2022-02-13",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 66.27
+  },
+  {
+    "id": "9e4986284d7c10efaa1dad7b715489dbf00a5ef5",
+    "fecha": "2022-02-22",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 83.08
+  },
+  {
+    "id": "9e4986284d7c10efaa1dad7b715489dbf00a5ef5",
+    "fecha": "2022-03-25",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 76.03
+  },
+  {
+    "id": "9e4986284d7c10efaa1dad7b715489dbf00a5ef5",
+    "fecha": "2022-04-04",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 54.56
+  },
+  {
+    "id": "9e4986284d7c10efaa1dad7b715489dbf00a5ef5",
+    "fecha": "2022-04-07",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 82.85
+  },
+  {
+    "id": "9e4986284d7c10efaa1dad7b715489dbf00a5ef5",
+    "fecha": "2022-04-15",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 86.65
+  },
+  {
+    "id": "9e4986284d7c10efaa1dad7b715489dbf00a5ef5",
+    "fecha": "2022-05-13",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 70.98
+  },
+  {
+    "id": "9e4986284d7c10efaa1dad7b715489dbf00a5ef5",
+    "fecha": "2022-05-15",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 49.62
+  },
+  {
+    "id": "9e4986284d7c10efaa1dad7b715489dbf00a5ef5",
+    "fecha": "2022-05-20",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 89.06
+  },
+  {
+    "id": "9e4986284d7c10efaa1dad7b715489dbf00a5ef5",
+    "fecha": "2022-05-30",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.85
+  },
+  {
+    "id": "9e4986284d7c10efaa1dad7b715489dbf00a5ef5",
+    "fecha": "2022-06-06",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 74.31
+  },
+  {
+    "id": "9e4986284d7c10efaa1dad7b715489dbf00a5ef5",
+    "fecha": "2022-06-14",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.29
+  },
+  {
+    "id": "9e4986284d7c10efaa1dad7b715489dbf00a5ef5",
+    "fecha": "2022-06-24",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 77.75
+  },
+  {
+    "id": "9e4986284d7c10efaa1dad7b715489dbf00a5ef5",
+    "fecha": "2022-07-27",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 87.4
+  },
+  {
+    "id": "9e4986284d7c10efaa1dad7b715489dbf00a5ef5",
+    "fecha": "2022-09-05",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 56.83
+  },
+  {
+    "id": "9e4986284d7c10efaa1dad7b715489dbf00a5ef5",
+    "fecha": "2022-09-20",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 82.55
+  },
+  {
+    "id": "9e4986284d7c10efaa1dad7b715489dbf00a5ef5",
+    "fecha": "2022-09-30",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 77.75
+  },
+  {
+    "id": "f07af2a08cbfb710f5c4b99b8027140aa5283c73",
+    "fecha": "2022-12-15",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 223.48
+  },
+  {
+    "id": "f07af2a08cbfb710f5c4b99b8027140aa5283c73",
+    "fecha": "2022-12-21",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 111.4
+  },
+  {
+    "id": "f07af2a08cbfb710f5c4b99b8027140aa5283c73",
+    "fecha": "2022-12-26",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 168.36
+  },
+  {
+    "id": "f07af2a08cbfb710f5c4b99b8027140aa5283c73",
+    "fecha": "2023-01-05",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 103.64
+  },
+  {
+    "id": "f07af2a08cbfb710f5c4b99b8027140aa5283c73",
+    "fecha": "2023-01-11",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 109.38
+  },
+  {
+    "id": "f07af2a08cbfb710f5c4b99b8027140aa5283c73",
+    "fecha": "2023-01-19",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 103.64
+  },
+  {
+    "id": "f07af2a08cbfb710f5c4b99b8027140aa5283c73",
+    "fecha": "2023-01-25",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 103.64
+  },
+  {
+    "id": "f2c66c4579432348e6afd036fa0ba7a939d4bf84",
+    "fecha": "2022-01-07",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 85.04
+  },
+  {
+    "id": "f2c66c4579432348e6afd036fa0ba7a939d4bf84",
+    "fecha": "2022-03-16",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 105.7
+  },
+  {
+    "id": "f2c66c4579432348e6afd036fa0ba7a939d4bf84",
+    "fecha": "2022-03-29",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 107.72
+  },
+  {
+    "id": "f2c66c4579432348e6afd036fa0ba7a939d4bf84",
+    "fecha": "2022-04-07",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 105.43
+  },
+  {
+    "id": "22da312490a4c7baecab07d8bb025504dac58461",
+    "fecha": "2022-07-21",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 162.16
+  },
+  {
+    "id": "22da312490a4c7baecab07d8bb025504dac58461",
+    "fecha": "2022-09-28",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 155.26
+  },
+  {
+    "id": "695abe5bb6ff2f87912377c5cb8b5e294750c3e1",
+    "fecha": "2023-01-25",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.14
+  },
+  {
+    "id": "dacc0ac145f2a5bd2a0863364d7d1b3a1457aaf8",
+    "fecha": "2022-01-05",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "dacc0ac145f2a5bd2a0863364d7d1b3a1457aaf8",
+    "fecha": "2022-01-11",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.43
+  },
+  {
+    "id": "dacc0ac145f2a5bd2a0863364d7d1b3a1457aaf8",
+    "fecha": "2022-04-09",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "dacc0ac145f2a5bd2a0863364d7d1b3a1457aaf8",
+    "fecha": "2022-04-09",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 46.19
+  },
+  {
+    "id": "dacc0ac145f2a5bd2a0863364d7d1b3a1457aaf8",
+    "fecha": "2022-04-19",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 80.66
+  },
+  {
+    "id": "dacc0ac145f2a5bd2a0863364d7d1b3a1457aaf8",
+    "fecha": "2022-05-20",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.43
+  },
+  {
+    "id": "dacc0ac145f2a5bd2a0863364d7d1b3a1457aaf8",
+    "fecha": "2022-05-24",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.43
+  },
+  {
+    "id": "dacc0ac145f2a5bd2a0863364d7d1b3a1457aaf8",
+    "fecha": "2022-06-15",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 92.15
+  },
+  {
+    "id": "dacc0ac145f2a5bd2a0863364d7d1b3a1457aaf8",
+    "fecha": "2022-06-26",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.43
+  },
+  {
+    "id": "dacc0ac145f2a5bd2a0863364d7d1b3a1457aaf8",
+    "fecha": "2022-07-02",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 65.72
+  },
+  {
+    "id": "dacc0ac145f2a5bd2a0863364d7d1b3a1457aaf8",
+    "fecha": "2022-08-26",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "dacc0ac145f2a5bd2a0863364d7d1b3a1457aaf8",
+    "fecha": "2022-09-02",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.43
+  },
+  {
+    "id": "dacc0ac145f2a5bd2a0863364d7d1b3a1457aaf8",
+    "fecha": "2022-09-06",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.43
+  },
+  {
+    "id": "dacc0ac145f2a5bd2a0863364d7d1b3a1457aaf8",
+    "fecha": "2022-09-30",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "dacc0ac145f2a5bd2a0863364d7d1b3a1457aaf8",
+    "fecha": "2022-11-04",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "dacc0ac145f2a5bd2a0863364d7d1b3a1457aaf8",
+    "fecha": "2022-11-13",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.43
+  },
+  {
+    "id": "dacc0ac145f2a5bd2a0863364d7d1b3a1457aaf8",
+    "fecha": "2022-11-25",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "c6ed7b76274d0eb704a7d2e767b21ca165ab4f07",
+    "fecha": "2022-01-05",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 46.19
+  },
+  {
+    "id": "c6ed7b76274d0eb704a7d2e767b21ca165ab4f07",
+    "fecha": "2022-01-11",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "c6ed7b76274d0eb704a7d2e767b21ca165ab4f07",
+    "fecha": "2022-01-16",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 63.43
+  },
+  {
+    "id": "c6ed7b76274d0eb704a7d2e767b21ca165ab4f07",
+    "fecha": "2022-01-24",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 46.19
+  }
+]

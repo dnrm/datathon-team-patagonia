@@ -1,0 +1,730 @@
+[
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-01-03",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-01-03",
+    "comercio": "TEMU",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 1501.86
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-01-03",
+    "comercio": "TEMU",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 1501.86
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-01-04",
+    "comercio": "SHEIN",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 41.69
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-01-04",
+    "comercio": "SHEIN",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 41.69
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-01-06",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 44.98
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-01-09",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-01-11",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 204.73
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-01-11",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 233.91
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-01-12",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 45.42
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-01-12",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 14.67
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-01-16",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 45.23
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-01-21",
+    "comercio": "SHEIN",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 27.7
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-01-21",
+    "comercio": "SHEIN",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 43.65
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-01-28",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-01-31",
+    "comercio": "TEMU",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 29.59
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-02-01",
+    "comercio": "SHEIN",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 49.67
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-02-03",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-02-03",
+    "comercio": "SHEIN",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 188.78
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-02-05",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 28.62
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-02-05",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-02-08",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 206.91
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-02-20",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 90.8
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-02-20",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 97.24
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-02-25",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 117.06
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-02-27",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-03-03",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-03-05",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-03-28",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-04-05",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-04-09",
+    "comercio": "SHEIN",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 127.19
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-04-09",
+    "comercio": "SHEIN",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 127.19
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-04-27",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-05-05",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-05-16",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 102.32
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-05-27",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-06-02",
+    "comercio": "SHEIN",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 166.05
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-06-05",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-06-21",
+    "comercio": "TEMU",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 31.37
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-06-26",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-07-05",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-07-23",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 149.61
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-07-26",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-08-01",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 127.7
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-08-02",
+    "comercio": "SHEIN",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 136.03
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-08-05",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-08-17",
+    "comercio": "SHEIN",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 124.2
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-08-25",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-09-05",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-09-14",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-09-15",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "SERVICIOS PUBLICITARIOS",
+    "tipo_venta": "fisica",
+    "monto": 14.36
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-09-20",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.15
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-09-24",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-09-28",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.49
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-09-28",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-09-28",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 33.44
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-10-05",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 33.44
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-10-05",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-10-12",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 33.44
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-10-19",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 33.44
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-10-20",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.15
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-10-21",
+    "comercio": "SHEIN",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 172.16
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-10-22",
+    "comercio": "SHEIN",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 92.13
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-10-24",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-10-24",
+    "comercio": "SHEIN",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 59.68
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-10-26",
+    "comercio": "SHEIN",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 30.46
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-11-05",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-11-16",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "SERVICIOS PUBLICITARIOS",
+    "tipo_venta": "fisica",
+    "monto": 235.86
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-11-20",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.15
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-11-22",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 61.13
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-11-23",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-11-29",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 74.97
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-12-03",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 196.3
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-12-05",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-12-08",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 48.95
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-12-08",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 112.71
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-12-10",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 73.44
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-12-19",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 45.94
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-12-20",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "SERVICIOS PUBLICITARIOS",
+    "tipo_venta": "fisica",
+    "monto": 583.61
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-12-20",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.15
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-12-23",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2022-12-29",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "SERVICIOS PUBLICITARIOS",
+    "tipo_venta": "fisica",
+    "monto": 583.61
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2023-01-05",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2023-01-12",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "SERVICIOS PUBLICITARIOS",
+    "tipo_venta": "fisica",
+    "monto": 583.61
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2023-01-15",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "SERVICIOS PUBLICITARIOS",
+    "tipo_venta": "fisica",
+    "monto": 45.26
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2023-01-15",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "SERVICIOS PUBLICITARIOS",
+    "tipo_venta": "fisica",
+    "monto": 44.77
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2023-01-20",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.15
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2023-01-22",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2023-01-23",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 31.37
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2023-01-23",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 36.89
+  },
+  {
+    "id": "dac3218b86da72c5c6c5e05d0f1fa49bb5a7c4ab",
+    "fecha": "2023-01-28",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "SERVICIOS PUBLICITARIOS",
+    "tipo_venta": "fisica",
+    "monto": 583.61
+  }
+]

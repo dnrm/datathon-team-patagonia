@@ -1,0 +1,1194 @@
+[
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-01-04",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 219.67
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-01-06",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 91.23
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-01-13",
+    "comercio": "AT&T",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 63.71
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-01-15",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 54.78
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-01-15",
+    "comercio": "CRUNCHYROLL",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-01-15",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 28.85
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-01-17",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 104.64
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-01-18",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 86.63
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-01-19",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-01-19",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.17
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-01-19",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-01-22",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "fisica",
+    "monto": 50.79
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-01-22",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-01-25",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 24.94
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-02-04",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 217.03
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-02-12",
+    "comercio": "AT&T",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 63.58
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-02-14",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 86.63
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-02-15",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 28.85
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-02-16",
+    "comercio": "CRUNCHYROLL",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-02-16",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.93
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-02-18",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-02-18",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.17
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-02-19",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-02-27",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 128.91
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-02-27",
+    "comercio": "DIDI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 15.29
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-02-28",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "fisica",
+    "monto": 16.32
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-03-14",
+    "comercio": "AT&T",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 63.31
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-03-14",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 28.85
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-03-15",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 86.63
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-03-16",
+    "comercio": "CRUNCHYROLL",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-03-16",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.93
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-03-18",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 18.54
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-03-18",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.17
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-03-19",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-03-19",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-04-13",
+    "comercio": "AT&T",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 89.56
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-04-13",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 86.63
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-04-14",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-04-15",
+    "comercio": "CRUNCHYROLL",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-04-16",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.93
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-04-18",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-04-18",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.17
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-04-19",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-04-28",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 112.36
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-05-08",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 104.41
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-05-13",
+    "comercio": "AT&T",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 63.31
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-05-14",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-05-15",
+    "comercio": "CRUNCHYROLL",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-05-16",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 86.63
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-05-16",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.93
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-05-18",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-05-19",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-05-19",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.17
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-05-21",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 97.47
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-05-21",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "fisica",
+    "monto": 16.9
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-05-21",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "fisica",
+    "monto": 16.9
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-05-21",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "fisica",
+    "monto": 16.9
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-05-21",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "fisica",
+    "monto": 16.9
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-06-13",
+    "comercio": "AT&T",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 63.58
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-06-14",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 86.63
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-06-14",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-06-16",
+    "comercio": "CRUNCHYROLL",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-06-17",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-06-18",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.17
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-06-19",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-06-29",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 350.36
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-07-10",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 82.96
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-07-13",
+    "comercio": "AT&T",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 66.18
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-07-15",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 379.41
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-07-16",
+    "comercio": "CRUNCHYROLL",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-07-18",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 86.63
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-07-19",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-07-21",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 110.61
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-07-22",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 69.69
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-07-22",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 76.52
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-07-25",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 78.59
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-07-27",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.17
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-08-04",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 41.65
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-08-12",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 51.93
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-08-14",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 86.63
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-08-16",
+    "comercio": "CRUNCHYROLL",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-08-16",
+    "comercio": "AT&T",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 66.58
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-08-17",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 120.0
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-08-19",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-08-19",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.17
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-08-30",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 88.09
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-09-03",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 303.53
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-09-09",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 101.68
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-09-10",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 70.2
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-09-11",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 86.63
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-09-14",
+    "comercio": "AT&T",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 66.18
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-09-14",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 49.99
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-09-16",
+    "comercio": "CRUNCHYROLL",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-09-18",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.17
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-09-19",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-09-23",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 37.87
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-09-25",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 132.24
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-09-29",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 118.12
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-10-01",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 50.74
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-10-10",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-10-10",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 183.13
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-10-14",
+    "comercio": "AT&T",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 66.18
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-10-16",
+    "comercio": "CRUNCHYROLL",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-10-16",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 86.63
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-10-19",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-10-19",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.17
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-10-26",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 89.73
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-10-27",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 191.29
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-10-28",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-10-28",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 47.8
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-10-29",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 96.62
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-11-02",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 254.26
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-11-03",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 121.56
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-11-06",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 140.28
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-11-09",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 67.84
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-11-10",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-11-11",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 100.76
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-11-13",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 89.62
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-11-14",
+    "comercio": "AT&T",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 66.18
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-11-14",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 69.17
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-11-16",
+    "comercio": "CRUNCHYROLL",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-11-17",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 141.27
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-11-17",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 224.82
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-11-17",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 54.65
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-11-19",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-11-19",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 134.15
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-11-20",
+    "comercio": "COPPEL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 137.99
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-11-28",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-12-09",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 25.4
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-12-10",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-12-11",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 89.62
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-12-14",
+    "comercio": "AT&T",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 66.18
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-12-16",
+    "comercio": "CRUNCHYROLL",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-12-16",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 1890.14
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-12-19",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2022-12-21",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 298.4
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2023-01-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 29.54
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2023-01-07",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 103.18
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2023-01-10",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2023-01-11",
+    "comercio": "WALMART",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 55.96
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2023-01-13",
+    "comercio": "AT&T",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 66.18
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2023-01-14",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 89.62
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2023-01-14",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 5.97
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2023-01-14",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.29
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2023-01-14",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 21.84
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2023-01-16",
+    "comercio": "CRUNCHYROLL",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2023-01-19",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2023-01-19",
+    "comercio": "WALMART",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 20.79
+  },
+  {
+    "id": "c6f4341b49f0b31eb9c560de56751d4a2cab7190",
+    "fecha": "2023-01-25",
+    "comercio": "WALMART",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 21.5
+  }
+]

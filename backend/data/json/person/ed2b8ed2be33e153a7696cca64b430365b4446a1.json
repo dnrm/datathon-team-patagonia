@@ -1,0 +1,946 @@
+[
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-01-16",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-01-16",
+    "comercio": "GOOGLE",
+    "giro_comercio": "SERVICIOS PUBLICITARIOS",
+    "tipo_venta": "digital",
+    "monto": 4.8
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-02-16",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-02-16",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-03-06",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "RESTAURANTES",
+    "tipo_venta": "fisica",
+    "monto": 20.55
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-03-09",
+    "comercio": "GOOGLE",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 4.66
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-03-16",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-03-29",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-03-30",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 53.0
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-04-16",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-04-21",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 19.02
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-04-25",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-04-28",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.53
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-05-03",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-05-03",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 4.72
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-05-09",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 51.47
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-05-12",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.53
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-05-14",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 18.34
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-05-16",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-05-19",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.74
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-05-24",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-05-26",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.78
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-05-30",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-05-30",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 25.46
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-06-03",
+    "comercio": "SERV AGUA DREN",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 62.74
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-06-03",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 83.94
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-06-03",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 4.72
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-06-09",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-06-11",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 50.04
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-06-16",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-06-23",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.74
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-06-25",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 37.74
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-06-26",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 16.78
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-06-29",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 2.19
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-06-30",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 26.31
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-07-03",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 2.77
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-07-03",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.51
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-07-05",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-07-05",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-07-05",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.76
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-07-07",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.74
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-07-13",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 3.46
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-07-16",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-07-21",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-07-22",
+    "comercio": "SERV AGUA DREN",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 123.05
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-07-28",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.74
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-07-28",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.46
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-07-30",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 2.19
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-08-01",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.74
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-08-02",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-08-02",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 3.46
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-08-02",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 57.08
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-08-04",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.74
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-08-11",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 10.57
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-08-16",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-08-17",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 10.18
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-08-29",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-08-30",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 43.51
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-08-30",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 2.19
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-08-30",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 12.3
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-09-01",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 40.38
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-09-01",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 3.46
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-09-08",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.74
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-09-08",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 4.49
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-09-16",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-09-17",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 4.37
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-09-22",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 17.13
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-09-22",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.74
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-09-24",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-09-26",
+    "comercio": "SERV AGUA DREN",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 131.21
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-09-28",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 6.22
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-09-29",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-09-29",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 17.13
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-09-29",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 2.19
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-10-01",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 44.49
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-10-05",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 20.46
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-10-05",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 3.46
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-10-16",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-10-20",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-10-23",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 4.72
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-10-30",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 2.19
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-10-31",
+    "comercio": "HEB",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 23.21
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-11-03",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 11.15
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-11-09",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 3.46
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-11-15",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-11-15",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.8
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-11-17",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 4.49
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-11-19",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-11-28",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 44.93
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-11-28",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 13.8
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-11-29",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 2.19
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-11-29",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 6.67
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-12-03",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 17.46
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-12-06",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.6
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-12-11",
+    "comercio": "SERV AGUA DREN",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 92.84
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-12-11",
+    "comercio": "TELCEL",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-12-12",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 5.3
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-12-16",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-12-17",
+    "comercio": "HEB",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 38.49
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-12-27",
+    "comercio": "HEB",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 3.46
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-12-27",
+    "comercio": "HEB",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 36.89
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2022-12-30",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 2.19
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2023-01-02",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 15.18
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2023-01-03",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.11
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2023-01-04",
+    "comercio": "HEB",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 48.69
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2023-01-05",
+    "comercio": "HEB",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 21.19
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2023-01-06",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 5.3
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2023-01-06",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 6.67
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2023-01-11",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 4.72
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2023-01-12",
+    "comercio": "7ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.23
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2023-01-16",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2023-01-16",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.86
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2023-01-25",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 14.6
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2023-01-26",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 8.74
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2023-01-26",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 17.36
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2023-01-28",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2023-01-30",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 115.01
+  },
+  {
+    "id": "ed2b8ed2be33e153a7696cca64b430365b4446a1",
+    "fecha": "2023-01-30",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 2.19
+  }
+]

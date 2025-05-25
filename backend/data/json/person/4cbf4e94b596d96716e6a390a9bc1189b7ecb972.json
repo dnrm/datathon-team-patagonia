@@ -1,0 +1,994 @@
+[
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-02-05",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 2.42
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-02-12",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.57
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-02-14",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 103.52
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-02-15",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 57.91
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-02-17",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 1556.32
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-02-23",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.31
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-02-23",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.57
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-02-26",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-02-27",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 49.99
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-02-28",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 26.95
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-03-01",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 134.9
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-03-01",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 283.61
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-03-03",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-03-05",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 2.42
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-03-11",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 106.16
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-03-12",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.57
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-03-23",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 6.04
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-03-23",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.57
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-03-23",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 26.09
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-03-24",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.49
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-03-25",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 11.67
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-03-26",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-04-03",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-04-05",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 2.42
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-04-09",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 12.19
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-04-12",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.57
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-04-29",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 43.44
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-05-15",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 106.97
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-05-21",
+    "comercio": "CARLS JR",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 12.99
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-05-21",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 10.47
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-06-01",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.17
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-06-06",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 5.76
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-06-08",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-06-09",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 17.97
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-06-10",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 62.05
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-06-10",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 63.2
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-06-14",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-06-15",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 6.33
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-06-16",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 34.71
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-06-19",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 8.17
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-06-21",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 44.93
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-06-21",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 281.89
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-06-21",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 286.99
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-06-21",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 28.59
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-06-25",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 30.55
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-06-26",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 19.74
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-06-27",
+    "comercio": "SEARS",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 179.69
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-06-27",
+    "comercio": "SEARS",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 143.61
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-06-28",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 463.67
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-06-28",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 463.67
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-06-28",
+    "comercio": "SEARS",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 126.61
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-06-28",
+    "comercio": "SEARS",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 46.08
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-06-28",
+    "comercio": "SEARS",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-06-29",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 267.72
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-06-29",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 230.01
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-07-01",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 48.42
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-07-02",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 32.56
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-07-03",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 64.37
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-07-05",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 81.76
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-07-06",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 27.85
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-07-08",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-07-09",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 21.72
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-07-12",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.57
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-07-14",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.3
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-07-16",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 47.34
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-07-22",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 212.49
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-07-23",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.57
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-07-25",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 192.55
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-07-26",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 38.84
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-07-28",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 21.15
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-07-31",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.76
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-08-14",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 32.29
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-08-14",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 32.29
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-08-17",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.59
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-08-17",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.36
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-08-23",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 21.29
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-08-31",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.76
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-09-17",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-09-19",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 266.0
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-09-23",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.57
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-09-23",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.97
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-09-23",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.07
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-09-26",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-09-30",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.76
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-10-03",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-10-04",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-10-05",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 2.42
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-10-05",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 27.39
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-10-08",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 27.09
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-10-08",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-10-08",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-10-17",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-10-19",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 8.17
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-10-26",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-10-28",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 149.47
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-10-28",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 112.83
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-10-30",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.76
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-11-05",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 2.42
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-11-08",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-11-16",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-11-18",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-11-19",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 13.45
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-11-26",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-11-29",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.72
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-11-30",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.76
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-12-02",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 1545.9
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-12-05",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 2.42
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-12-16",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-12-17",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-12-18",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 162.63
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-12-18",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.16
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-12-19",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 15.06
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-12-26",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-12-29",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.72
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2022-12-30",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.76
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2023-01-05",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 2.42
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2023-01-07",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 179.32
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2023-01-08",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2023-01-08",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2023-01-18",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2023-01-18",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2023-01-19",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 15.06
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2023-01-26",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "4cbf4e94b596d96716e6a390a9bc1189b7ecb972",
+    "fecha": "2023-01-29",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.72
+  }
+]

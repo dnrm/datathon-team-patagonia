@@ -1,0 +1,906 @@
+[
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-01-03",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-01-07",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-01-07",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-01-07",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-01-19",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-01-30",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-02-01",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-02-02",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-02-03",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-02-05",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-02-06",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-02-09",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-02-16",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-02-28",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-03-02",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-03-04",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-03-06",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-03-07",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-03-07",
+    "comercio": "RAPPIPRO",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 12.76
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-03-09",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-03-10",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-03-11",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-03-14",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-03-14",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-03-14",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 19.2
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-03-15",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.65
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-03-15",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 28.08
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-03-27",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-03-30",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-04-10",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-04-26",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-04-30",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-05-07",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-05-11",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-05-27",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-05-30",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-06-12",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-06-26",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-06-30",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-07-01",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-07-04",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-07-06",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-07-07",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-07-09",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-07-10",
+    "comercio": "ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-07-17",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-07-18",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-07-18",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-07-27",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.42
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-07-30",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-08-01",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-08-01",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "fisica",
+    "monto": 48.49
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-08-01",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "fisica",
+    "monto": 15.18
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-08-08",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 48.38
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-08-09",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.76
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-08-17",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-08-26",
+    "comercio": "ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-08-30",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-09-06",
+    "comercio": "TEMU",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 62.16
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-09-06",
+    "comercio": "TEMU",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 62.16
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-09-06",
+    "comercio": "TEMU",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 82.69
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-09-11",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-09-17",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-09-18",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 4.84
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-09-26",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-09-26",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-09-30",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-10-12",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-10-17",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-10-28",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-10-29",
+    "comercio": "PLAYSTATION NETWORK",
+    "giro_comercio": "BIENES DIGITALES JUEGOS",
+    "tipo_venta": "fisica",
+    "monto": 186.98
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-10-29",
+    "comercio": "PLAYSTATION NETWORK",
+    "giro_comercio": "BIENES DIGITALES JUEGOS",
+    "tipo_venta": "fisica",
+    "monto": 186.98
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-10-30",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-11-01",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-11-12",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-11-17",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-11-22",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.98
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-11-27",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-11-30",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-12-12",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-12-17",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-12-19",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-12-20",
+    "comercio": "MAX",
+    "giro_comercio": "SERVICIOS PROFESIONALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-12-20",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-12-21",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-12-21",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 6.56
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-12-23",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-12-25",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-12-26",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2022-12-30",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2023-01-01",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2023-01-03",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2023-01-05",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2023-01-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2023-01-07",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2023-01-08",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2023-01-08",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2023-01-11",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2023-01-12",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2023-01-12",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2023-01-12",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2023-01-14",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2023-01-17",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2023-01-17",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2023-01-18",
+    "comercio": "MAX",
+    "giro_comercio": "SERVICIOS PROFESIONALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2023-01-18",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2023-01-19",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2023-01-20",
+    "comercio": "MAX",
+    "giro_comercio": "SERVICIOS PROFESIONALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2023-01-21",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2023-01-23",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2023-01-24",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2023-01-24",
+    "comercio": "MAX",
+    "giro_comercio": "SERVICIOS PROFESIONALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "8639f50df7cd76bb2ef6f82a647ccfa11cad692a",
+    "fecha": "2023-01-26",
+    "comercio": "MAX",
+    "giro_comercio": "SERVICIOS PROFESIONALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  }
+]

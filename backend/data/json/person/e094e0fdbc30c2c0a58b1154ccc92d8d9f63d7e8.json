@@ -1,0 +1,874 @@
+[
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-01-14",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 45.59
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-01-21",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 140.42
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-01-30",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 13.8
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-02-06",
+    "comercio": "TOTALPLAY",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 48.38
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-02-14",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 10.35
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-02-18",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 6.67
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-03-07",
+    "comercio": "TOTALPLAY",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 48.38
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-03-09",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 5.76
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-03-18",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.53
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-04-01",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.32
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-04-08",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-04-09",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.59
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-04-11",
+    "comercio": "TOTALPLAY",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 54.12
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-04-15",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 11.15
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-04-18",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.61
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-04-22",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.61
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-04-22",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 12.88
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-04-26",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 15.35
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-04-27",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 24.25
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-04-27",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 6.79
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-05-03",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 18.81
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-05-07",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.32
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-05-07",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.23
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-05-11",
+    "comercio": "TOTALPLAY",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 54.12
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-05-12",
+    "comercio": "7ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.4
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-05-18",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 4.09
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-05-19",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 39.48
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-05-21",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.4
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-05-21",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.78
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-05-22",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.48
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-05-23",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 11.79
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-05-27",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-05-29",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 11.62
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-06-04",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.47
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-06-11",
+    "comercio": "TOTALPLAY",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 53.66
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-06-11",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 21.22
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-06-11",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 87.67
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-06-17",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-06-22",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-06-28",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-06-29",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.4
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-06-29",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 39.3
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-06-30",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 14.2
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-07-04",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 17.24
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-07-10",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 12.71
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-07-11",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.69
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-07-11",
+    "comercio": "WAL-MART",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 46.19
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-07-12",
+    "comercio": "TOTALPLAY",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 53.66
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-07-13",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 12.99
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-07-15",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 42.91
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-07-15",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.63
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-07-17",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.86
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-07-21",
+    "comercio": "7ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 10.58
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-07-23",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 11.79
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-07-24",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 6.33
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-07-27",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 48.14
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-07-30",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-08-10",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 7.31
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-08-12",
+    "comercio": "TOTALPLAY",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 53.66
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-08-15",
+    "comercio": "WAL-MART",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 26.89
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-08-17",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 14.6
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-08-27",
+    "comercio": "WAL-MART",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 15.41
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-09-01",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.43
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-09-10",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 14.03
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-09-11",
+    "comercio": "WAL-MART",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 41.57
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-09-13",
+    "comercio": "TOTALPLAY",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 53.66
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-09-13",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 13.91
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-09-24",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 12.3
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-09-29",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 11.5
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-10-02",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.43
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-10-08",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 6.56
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-10-18",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 13.8
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-10-23",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 13.8
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-10-26",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 15.41
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-10-28",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 5.33
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-10-30",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 13.8
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-11-02",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 32.01
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-11-10",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.43
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-11-10",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 17.88
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-11-12",
+    "comercio": "TOTALPLAY",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 53.66
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-11-14",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.43
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-11-21",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-11-22",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 6.81
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-11-23",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.94
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-11-30",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 19.94
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-12-02",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 2.65
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-12-02",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 5.46
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-12-04",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 26.53
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-12-12",
+    "comercio": "TOTALPLAY",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 53.66
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-12-15",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.53
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-12-17",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 6.9
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-12-19",
+    "comercio": "7ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 14.03
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-12-22",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 11.56
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-12-23",
+    "comercio": "SORIANA",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 37.61
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-12-24",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-12-26",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "ABARROTES, CARNICERIAS, PESCADERIAS, MISCELANEAS,",
+    "tipo_venta": "fisica",
+    "monto": 7.02
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2022-12-31",
+    "comercio": "WAL-MART",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 94.31
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2023-01-06",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "ABARROTES, CARNICERIAS, PESCADERIAS, MISCELANEAS,",
+    "tipo_venta": "fisica",
+    "monto": 22.73
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2023-01-09",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 5.07
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2023-01-09",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 24.81
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2023-01-09",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 25.96
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2023-01-10",
+    "comercio": "SORIANA",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 12.99
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2023-01-14",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.72
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2023-01-14",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 6.1
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2023-01-15",
+    "comercio": "TOTALPLAY",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 53.66
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2023-01-15",
+    "comercio": "SORIANA",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 13.06
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2023-01-15",
+    "comercio": "WALMART",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 33.19
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2023-01-22",
+    "comercio": "WALMART",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 40.22
+  },
+  {
+    "id": "e094e0fdbc30c2c0a58b1154ccc92d8d9f63d7e8",
+    "fecha": "2023-01-25",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 39.65
+  }
+]

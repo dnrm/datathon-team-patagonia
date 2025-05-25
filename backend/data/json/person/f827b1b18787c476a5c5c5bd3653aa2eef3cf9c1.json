@@ -1,0 +1,1642 @@
+[
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-01-01",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 85.37
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-01-03",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 27.01
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-01-10",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-01-13",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-01-13",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 22.41
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-01-19",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 148.44
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-01-25",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 35.4
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-01-28",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 38.27
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-01-29",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 32.29
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-01-29",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 110.96
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-02-13",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-02-14",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 7.71
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-02-25",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 19.28
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-02-26",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 102.9
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-02-27",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 34.19
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-02-28",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 21.35
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-03-01",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 60.18
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-03-02",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 88.19
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-03-02",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 48.49
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-03-04",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 151.89
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-03-13",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-03-15",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 72.15
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-03-18",
+    "comercio": "DIDI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 14.83
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-03-20",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-03-23",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 42.76
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-03-23",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 100.99
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-03-26",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 37.69
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-03-27",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-03-27",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 18.74
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-03-28",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 79.37
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-03-29",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 51.59
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-03-30",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 26.72
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-04-02",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 27.81
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-04-11",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-04-11",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-04-11",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-04-11",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 259.41
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-04-11",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "RENTA DE VIDEOS  (VIDEOS),",
+    "tipo_venta": "fisica",
+    "monto": 11.73
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-04-13",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-04-13",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 103.52
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-04-15",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 7.82
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-04-26",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 40.34
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-04-27",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.03
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-04-27",
+    "comercio": "DIDI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.93
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-04-27",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 53.6
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-04-30",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 34.48
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-05-02",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.91
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-05-02",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-05-08",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 17.82
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-05-13",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-05-13",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 39.75
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-05-13",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 44.25
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-05-17",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "RENTA DE VIDEOS  (VIDEOS),",
+    "tipo_venta": "fisica",
+    "monto": 4.72
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-05-25",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 82.69
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-05-26",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 10.47
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-05-26",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 43.13
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-05-26",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 17.76
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-05-26",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 18.69
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-05-30",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 41.85
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-05-31",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 43.44
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-06-01",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 50.87
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-06-04",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 142.2
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-06-04",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 30.68
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-06-04",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-06-08",
+    "comercio": "DIDI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 25.63
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-06-12",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-06-13",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-06-15",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 24.56
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-06-17",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "PRODUCCION Y DISTRIBUCION DE PELICULAS Y VIDEOS",
+    "tipo_venta": "fisica",
+    "monto": 4.72
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-06-17",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 7.82
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-06-26",
+    "comercio": "GOOGLE YOUTUBEPREMIUM",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 159.93
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-06-26",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 9.93
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-06-27",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 74.14
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-06-29",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 100.9
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-07-01",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 21.84
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-07-02",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 21.95
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-07-02",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-07-06",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 22.87
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-07-13",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-07-17",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "PRODUCCION Y DISTRIBUCION DE PELICULAS Y VIDEOS",
+    "tipo_venta": "fisica",
+    "monto": 4.72
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-07-24",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 32.29
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-07-26",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 39.07
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-07-26",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 33.1
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-07-29",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-07-30",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 17.93
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-07-30",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.03
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-07-30",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 28.85
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-07-31",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 22.76
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-07-31",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 12.29
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-07-31",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 47.23
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-07-31",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-07-31",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 44.6
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-08-01",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "PRODUCCION Y DISTRIBUCION DE PELICULAS Y VIDEOS",
+    "tipo_venta": "fisica",
+    "monto": 3.57
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-08-03",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 222.74
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-08-03",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 43.55
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-08-10",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 36.59
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-08-13",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-08-14",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 9.2
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-08-17",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "PRODUCCION Y DISTRIBUCION DE PELICULAS Y VIDEOS",
+    "tipo_venta": "fisica",
+    "monto": 4.72
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-08-19",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "PRODUCCION Y DISTRIBUCION DE PELICULAS Y VIDEOS",
+    "tipo_venta": "fisica",
+    "monto": 3.57
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-08-21",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 54.88
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-08-22",
+    "comercio": "DIDI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 19.89
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-08-22",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 18.44
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-08-23",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 20.29
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-08-24",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 16.1
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-08-25",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 325.79
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-08-27",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 35.74
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-08-27",
+    "comercio": "TULOTERO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-08-27",
+    "comercio": "TULOTERO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-08-27",
+    "comercio": "TULOTERO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-08-30",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 65.66
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-09-01",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "PRODUCCION Y DISTRIBUCION DE PELICULAS Y VIDEOS",
+    "tipo_venta": "fisica",
+    "monto": 3.57
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-09-01",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 70.51
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-09-02",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-09-03",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 45.39
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-09-04",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-09-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-09-06",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 37.23
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-09-06",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.33
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-09-08",
+    "comercio": "ADOBE",
+    "giro_comercio": "SERV PROC DATOS - DISENO Y PROGRAM DE SISTEMAS",
+    "tipo_venta": "digital",
+    "monto": 28.85
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-09-11",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-09-13",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-09-14",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.49
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-09-17",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "PRODUCCION Y DISTRIBUCION DE PELICULAS Y VIDEOS",
+    "tipo_venta": "fisica",
+    "monto": 4.72
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-09-19",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 35.13
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-09-19",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "PRODUCCION Y DISTRIBUCION DE PELICULAS Y VIDEOS",
+    "tipo_venta": "fisica",
+    "monto": 3.57
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-09-23",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 86.38
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-09-26",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 129.41
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-09-26",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-09-27",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 46.42
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-09-27",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 30.46
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-09-27",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 32.29
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-09-27",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 21.95
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-09-27",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 49.35
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-09-28",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 88.95
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-09-29",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 40.34
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-09-30",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 91.99
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-09-30",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 136.96
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-09-30",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 40.34
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-10-01",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "PRODUCCION Y DISTRIBUCION DE PELICULAS Y VIDEOS",
+    "tipo_venta": "fisica",
+    "monto": 3.57
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-10-02",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 54.24
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-10-02",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-10-02",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 46.08
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-10-13",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-10-14",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 7.59
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-10-15",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 46.65
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-10-18",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 25.4
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-10-19",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 49.64
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-10-19",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "RENTA DE VIDEOS  (VIDEOS),",
+    "tipo_venta": "fisica",
+    "monto": 3.57
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-10-19",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 61.01
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-10-21",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 65.82
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-10-22",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-10-22",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 619.34
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-10-26",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 22.87
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-10-26",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 33.44
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-10-26",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 75.0
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-10-27",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 8.17
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-10-30",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 47.34
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-11-01",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 3.57
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-11-01",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 56.72
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-11-05",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-11-08",
+    "comercio": "AMAZON",
+    "giro_comercio": "DISTRIBUIDORES DE HIELO (FUEGOS ARTIFICIALES),",
+    "tipo_venta": "digital",
+    "monto": 27.66
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-11-11",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-11-13",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-11-19",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 3.57
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-11-25",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-11-25",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 35.62
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-11-25",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 35.62
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-11-26",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "PRODUCCION Y DISTRIBUCION DE PELICULAS Y VIDEOS",
+    "tipo_venta": "fisica",
+    "monto": 4.72
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-11-27",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 22.51
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-11-28",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 28.73
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-11-28",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 30.34
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-11-28",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 258.55
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-11-29",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 39.3
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-11-29",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 40.68
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-12-01",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "MEDIOS DE COMUNICACION DIGITAL LIBROS PELICULAS MU",
+    "tipo_venta": "fisica",
+    "monto": 3.57
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-12-01",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 181.63
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-12-05",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-12-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 72.54
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-12-06",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": NaN,
+    "tipo_venta": "digital",
+    "monto": 12.57
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-12-07",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 36.09
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-12-07",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 3.38
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-12-07",
+    "comercio": "SORIANA",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 32.61
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-12-07",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 14.37
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-12-07",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.02
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-12-11",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 37.69
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-12-13",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-12-13",
+    "comercio": "AMAZON",
+    "giro_comercio": "DISTRIBUIDORES DE HIELO (FUEGOS ARTIFICIALES),",
+    "tipo_venta": "digital",
+    "monto": 57.81
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-12-13",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 159.68
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-12-14",
+    "comercio": "AMAZON",
+    "giro_comercio": "DISTRIBUIDORES DE HIELO (FUEGOS ARTIFICIALES),",
+    "tipo_venta": "digital",
+    "monto": 257.92
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-12-14",
+    "comercio": "SHEIN",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 36.19
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-12-26",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 4.72
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-12-26",
+    "comercio": "DIDI",
+    "giro_comercio": "SERVICIOS DE TRANSPORTE -NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 4.95
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-12-28",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 72.99
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-12-29",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 10.24
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-12-29",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 92.03
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2022-12-29",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 128.97
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2023-01-01",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 3.57
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2023-01-13",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2023-01-16",
+    "comercio": "ADOBE",
+    "giro_comercio": "SERV PROC DATOS - DISENO Y PROGRAM DE SISTEMAS",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2023-01-26",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 4.72
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2023-01-26",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 26.78
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2023-01-26",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 37.12
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2023-01-29",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 4.72
+  },
+  {
+    "id": "f827b1b18787c476a5c5c5bd3653aa2eef3cf9c1",
+    "fecha": "2023-01-30",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 11.73
+  }
+]

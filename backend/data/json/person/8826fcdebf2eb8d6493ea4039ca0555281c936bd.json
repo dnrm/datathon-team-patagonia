@@ -1,0 +1,938 @@
+[
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-02-17",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 5.64
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-02-19",
+    "comercio": "CRUNCHYROLL",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-02-24",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.94
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-02-24",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 4.49
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-03-01",
+    "comercio": "TOTALPLAY",
+    "giro_comercio": "MERCADEO DIRECTO - COMERCIANTES DE TELEMERCADEO",
+    "tipo_venta": "digital",
+    "monto": 56.76
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-03-02",
+    "comercio": "TELCEL",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-03-03",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 45.73
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-03-04",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 11.73
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-03-04",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 18.27
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-03-05",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 27.16
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-03-05",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "digital",
+    "monto": 41.48
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-03-05",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.25
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-03-06",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 6.85
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-03-11",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 33.33
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-03-11",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.8
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-03-13",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-03-14",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-03-16",
+    "comercio": "TELCEL",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-03-17",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.28
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-03-19",
+    "comercio": "CRUNCHYROLL",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-03-20",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.72
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-03-20",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 56.53
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-03-22",
+    "comercio": "TELCEL",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-03-22",
+    "comercio": "TELCEL",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-03-22",
+    "comercio": "TELCEL",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-03-29",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 7.36
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-03-30",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 321.83
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-03-31",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 97.66
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-04-01",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 4.69
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-04-04",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 2.19
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-04-11",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 33.33
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-04-13",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-04-13",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-04-20",
+    "comercio": "CRUNCHYROLL",
+    "giro_comercio": "SERVICIOS PUBLICITARIOS",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-05-11",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 33.33
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-05-13",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-05-13",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-05-17",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 72.39
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-05-20",
+    "comercio": "CRUNCHYROLL",
+    "giro_comercio": "SERVICIOS PUBLICITARIOS",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-05-24",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 43.78
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-06-10",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 1141.73
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-06-11",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 33.33
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-06-12",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-06-13",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-06-20",
+    "comercio": "CRUNCHYROLL",
+    "giro_comercio": "SERVICIOS PUBLICITARIOS",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-07-11",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 33.33
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-07-12",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-07-13",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-07-19",
+    "comercio": "CRUNCHYROLL",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-08-11",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 33.33
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-08-11",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-08-13",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-08-15",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 81.81
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-08-19",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 45.73
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-08-20",
+    "comercio": "CRUNCHYROLL",
+    "giro_comercio": "SERVICIOS PUBLICITARIOS",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-08-31",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 129.36
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-09-08",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 45.73
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-09-10",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-09-11",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 33.33
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-09-13",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-09-18",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 88.06
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-09-18",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 10.41
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-09-20",
+    "comercio": "CRUNCHYROLL",
+    "giro_comercio": "SERVICIOS PUBLICITARIOS",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-09-23",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.66
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-09-25",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 107.12
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-09-27",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 126.47
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-09-29",
+    "comercio": "TOTALPLAY",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 70.2
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-10-01",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 7.94
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-10-01",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 3.69
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-10-10",
+    "comercio": "TELCEL",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-10-10",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-10-11",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 33.33
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-10-13",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-10-16",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 37.4
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-10-16",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 188.65
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-10-20",
+    "comercio": "CRUNCHYROLL",
+    "giro_comercio": "SERVICIOS PUBLICITARIOS",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-10-29",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 65.26
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-10-29",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 97.55
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-10-29",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 90.42
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-11-02",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 367.01
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-11-05",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 9.32
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-11-09",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-11-11",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 33.33
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-11-13",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-11-20",
+    "comercio": "CRUNCHYROLL",
+    "giro_comercio": "SERVICIOS PUBLICITARIOS",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-11-26",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 7.48
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-11-26",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.42
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-11-28",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 71.01
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-11-29",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 97.55
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-12-05",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 45.73
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-12-06",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-12-09",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-12-11",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 33.33
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-12-13",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-12-15",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-12-18",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-12-20",
+    "comercio": "CRUNCHYROLL",
+    "giro_comercio": "SERVICIOS PROFESIONALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-12-21",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 48.95
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-12-28",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 71.01
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2022-12-29",
+    "comercio": "MAX",
+    "giro_comercio": "SERVICIOS PROFESIONALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 11.67
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2023-01-01",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2023-01-04",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 97.55
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2023-01-04",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 45.73
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2023-01-04",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 189.79
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2023-01-08",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2023-01-11",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 36.77
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2023-01-13",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 45.01
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2023-01-13",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2023-01-13",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 30.53
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2023-01-16",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2023-01-20",
+    "comercio": "CRUNCHYROLL",
+    "giro_comercio": "SERVICIOS PROFESIONALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2023-01-21",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 73.19
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2023-01-21",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 61.37
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2023-01-24",
+    "comercio": "TOTALPLAY",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 70.32
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2023-01-26",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2023-01-29",
+    "comercio": "MAX",
+    "giro_comercio": "SERVICIOS PROFESIONALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 11.67
+  },
+  {
+    "id": "8826fcdebf2eb8d6493ea4039ca0555281c936bd",
+    "fecha": "2023-01-30",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 97.55
+  }
+]

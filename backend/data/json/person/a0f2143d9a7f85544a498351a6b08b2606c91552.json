@@ -1,0 +1,1434 @@
+[
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-01-11",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-01-12",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 30.55
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-01-13",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "fisica",
+    "monto": 5.98
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-01-14",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 62.14
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-01-15",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 18.16
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-01-15",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 20.0
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-01-15",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-01-18",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 40.34
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-01-20",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "fisica",
+    "monto": 10.58
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-01-21",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 32.29
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-01-24",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "fisica",
+    "monto": 8.28
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-01-25",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.17
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-01-26",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 46.99
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-01-28",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 208.18
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-01-29",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 42.52
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-01-29",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 27.24
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-02-01",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.44
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-02-01",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 90.08
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-02-01",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-02-02",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 40.91
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-02-11",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-02-12",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 54.9
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-02-14",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 40.34
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-02-21",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 32.29
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-02-21",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 32.29
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-02-24",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.7
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-02-24",
+    "comercio": "DIDI",
+    "giro_comercio": "SERV PROC DATOS - DISENO Y PROGRAM DE SISTEMAS",
+    "tipo_venta": "digital",
+    "monto": 10.7
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-02-25",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 59.27
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-02-25",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 59.27
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-02-28",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 42.52
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-02-28",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 44.91
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-03-04",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 37.22
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-03-04",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 714.35
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-03-08",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 32.62
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-03-11",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-03-14",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 33.65
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-03-15",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 40.34
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-03-20",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-03-21",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 32.29
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-03-22",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 12.3
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-03-28",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 46.86
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-03-29",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 42.52
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-04-03",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 37.22
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-04-11",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-04-13",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 40.34
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-04-13",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 58.23
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-04-13",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 12.91
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-04-15",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 2.77
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-04-20",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-04-21",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 32.29
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-04-27",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 497.87
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-04-28",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-04-29",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 42.52
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-05-01",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 68.92
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-05-01",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 20.32
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-05-10",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 111.65
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-05-11",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-05-16",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 40.34
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-05-21",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 201.17
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-05-21",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 32.29
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-05-22",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 22.16
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-05-22",
+    "comercio": "PARCO",
+    "giro_comercio": "CUOTA - PUENTES",
+    "tipo_venta": "digital",
+    "monto": 16.8
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-05-23",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 22.6
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-05-27",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 507.02
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-05-29",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 42.52
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-05-29",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 31.26
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-06-11",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-06-12",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 181.13
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-06-13",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 41.83
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-06-13",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 247.36
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-06-13",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 247.36
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-06-13",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 17.59
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-06-13",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 17.59
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-06-13",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 3.69
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-06-13",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 232.42
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-06-14",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 40.34
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-06-15",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 103.52
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-06-16",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 34.22
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-06-21",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 32.29
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-06-23",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 31.67
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-06-27",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 29.05
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-06-27",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 507.02
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-06-28",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-06-29",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 42.52
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-07-05",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 36.54
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-07-10",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 413.82
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-07-11",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-07-18",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 40.34
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-07-20",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 31.72
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-07-20",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 26.43
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-07-21",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-07-21",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 32.29
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-07-23",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 32.59
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-07-29",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 42.52
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-07-29",
+    "comercio": "TELCEL",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-07-29",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 507.02
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-08-11",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-08-12",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 40.91
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-08-14",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 40.34
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-08-19",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 48.18
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-08-21",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 29.19
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-08-21",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 32.29
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-08-29",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 42.52
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-08-30",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 321.58
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-09-01",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 142.75
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-09-01",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.03
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-09-05",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 40.39
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-09-06",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 35.94
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-09-06",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.22
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-09-07",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 41.51
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-09-07",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.41
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-09-09",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 103.52
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-09-11",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 40.34
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-09-11",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-09-21",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 32.29
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-09-25",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-09-28",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 14.02
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-09-28",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 64.17
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-09-29",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 42.52
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-09-29",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-10-11",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-10-14",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 39.88
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-10-14",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 42.98
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-10-16",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 40.34
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-10-16",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 79.51
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-10-21",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 32.29
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-10-28",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-10-29",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 42.52
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-11-11",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-11-12",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 35.47
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-11-12",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.44
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-11-13",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 40.34
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-11-13",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 50.54
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-11-13",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.42
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-11-13",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-11-15",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 52.44
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-11-15",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.99
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-11-16",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 67.24
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-11-16",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.59
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-11-21",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 32.29
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-11-29",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 42.52
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-11-29",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-12-04",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.28
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-12-04",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.67
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-12-07",
+    "comercio": "PARCO",
+    "giro_comercio": "CUOTA - PUENTES",
+    "tipo_venta": "digital",
+    "monto": 9.45
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-12-08",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 70.59
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-12-08",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 86.92
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-12-08",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.24
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-12-11",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 40.34
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-12-11",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-12-11",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 67.08
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-12-13",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 46.14
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-12-17",
+    "comercio": "ALIEXPRESS",
+    "giro_comercio": "MERCADEO DIRECTO - COMERCIANTES DE TELEMERCADEO",
+    "tipo_venta": "digital",
+    "monto": 348.22
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-12-21",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 32.29
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-12-22",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 141.32
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-12-23",
+    "comercio": "PARCO",
+    "giro_comercio": "CUOTA - PUENTES",
+    "tipo_venta": "digital",
+    "monto": 6.67
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-12-26",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.7
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-12-27",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 36.37
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-12-27",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-12-27",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.53
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-12-29",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 45.96
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-12-30",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 83.55
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-12-30",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.81
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2022-12-31",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 646.8
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2023-01-04",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.42
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2023-01-04",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.27
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2023-01-07",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 35.9
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2023-01-10",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2023-01-11",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2023-01-14",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 40.34
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2023-01-20",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 83.18
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2023-01-21",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 28.48
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2023-01-21",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 32.29
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2023-01-23",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 5.97
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2023-01-24",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 21.38
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2023-01-27",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 53.89
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2023-01-27",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2023-01-29",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 59.54
+  },
+  {
+    "id": "a0f2143d9a7f85544a498351a6b08b2606c91552",
+    "fecha": "2023-01-29",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.0
+  }
+]

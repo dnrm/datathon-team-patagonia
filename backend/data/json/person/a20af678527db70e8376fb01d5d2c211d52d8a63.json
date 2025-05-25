@@ -1,0 +1,2674 @@
+[
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-01-03",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 8.17
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-01-04",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 76.79
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-01-06",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 75.55
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-01-06",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 35.86
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-01-08",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-01-12",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 9.55
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-01-14",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-01-15",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-01-19",
+    "comercio": "MEGACABLE",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 80.66
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-01-25",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.08
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-01-26",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 1.74
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-01-26",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 1.74
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-01-27",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 24.94
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-01-27",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.88
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-01-27",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.08
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-01-28",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 40.22
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-01-30",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 1.74
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-02-01",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.88
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-02-01",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.77
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-02-02",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 22.99
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-02-02",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 28.85
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-02-04",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "digital",
+    "monto": 49.3
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-02-07",
+    "comercio": "GOOGLE",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "fisica",
+    "monto": 2.54
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-02-07",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.77
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-02-07",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 1.85
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-02-08",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-02-14",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-02-14",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 35.74
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-02-14",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.08
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-02-14",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-02-17",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 49.76
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-02-20",
+    "comercio": "GOOGLE",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "fisica",
+    "monto": 2.54
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-02-20",
+    "comercio": "GOOGLE",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "fisica",
+    "monto": 2.54
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-02-25",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 661.67
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-02-25",
+    "comercio": "GOOGLE",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "fisica",
+    "monto": 2.54
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-03-03",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 36.91
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-03-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 263.04
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-03-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 401.07
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-03-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 351.17
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-03-06",
+    "comercio": "MEGACABLE",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 88.7
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-03-08",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-03-08",
+    "comercio": "MEGACABLE",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 86.4
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-03-12",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 5.85
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-03-14",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 34.71
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-03-14",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.54
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-03-14",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-03-15",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 17.53
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-03-18",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-03-19",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 34.71
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-03-19",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.54
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-03-19",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.77
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-03-19",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.77
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-03-20",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 24.36
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-03-21",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 11.32
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-03-23",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 265.41
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-03-26",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 213.76
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-03-27",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 6.73
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-03-28",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 28.39
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-03-30",
+    "comercio": "CARLS JR",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 59.18
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-04-04",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 43.91
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-04-08",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 38.04
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-04-08",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-04-08",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "digital",
+    "monto": 24.83
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-04-12",
+    "comercio": "CANVA",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-04-12",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 1.85
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-04-12",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.08
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-04-12",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.31
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-04-14",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-04-15",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 34.71
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-04-15",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 5.99
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-04-16",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.11
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-04-16",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.53
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-04-16",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.09
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-04-17",
+    "comercio": "MERCADOPAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 265.87
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-04-18",
+    "comercio": "MEGACABLE",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 86.4
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-04-22",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 34.71
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-04-23",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 9.11
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-04-23",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 12.99
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-04-24",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.65
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-04-24",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.08
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-04-24",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.26
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-04-29",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 14.79
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-05-08",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-05-08",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.19
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-05-09",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 219.72
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-05-11",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 34.71
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-05-12",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "digital",
+    "monto": 90.42
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-05-12",
+    "comercio": "CANVA",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-05-12",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "digital",
+    "monto": 75.95
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-05-12",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 361.67
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-05-12",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 287.45
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-05-13",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 413.7
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-05-13",
+    "comercio": "7ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 10.41
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-05-14",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-05-15",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 34.71
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-05-18",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 16.21
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-05-22",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 41.14
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-05-22",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.88
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-05-22",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.08
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-05-23",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.19
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-05-23",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 221.01
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-05-25",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 11.32
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-05-27",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-05-27",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "digital",
+    "monto": 25.52
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-05-28",
+    "comercio": "CARLS JR",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 61.13
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-05-29",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 33.33
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-05-29",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 20.69
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-05-29",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 18.39
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-06-02",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-06-05",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 5.08
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-06-06",
+    "comercio": "MEGACABLE",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 94.44
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-06-07",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 46.89
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-06-08",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-06-10",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 5.99
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-06-10",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.19
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-06-10",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.31
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-06-10",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.19
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-06-12",
+    "comercio": "CANVA",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-06-14",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 19.41
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-06-14",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-06-15",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 15.32
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-06-15",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 28.27
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-06-17",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-06-17",
+    "comercio": "MEGACABLE",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 122.02
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-06-24",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "digital",
+    "monto": 27.24
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-06-25",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 93.0
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-06-26",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-06-27",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 7.13
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-06-27",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 5.99
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-07-04",
+    "comercio": "MEGACABLE",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 115.01
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-07-07",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 83.76
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-07-08",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-07-09",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 126.61
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-07-09",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 143.61
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-07-10",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 2.25
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-07-12",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-07-12",
+    "comercio": "CANVA",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-07-13",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "digital",
+    "monto": 160.96
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-07-14",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-07-16",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 16.03
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-07-16",
+    "comercio": "GOOGLE",
+    "giro_comercio": "SERVICIOS PUBLICITARIOS",
+    "tipo_venta": "fisica",
+    "monto": 2.54
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-07-17",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 28.56
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-07-17",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-07-18",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 30.11
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-07-19",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 102.08
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-07-19",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 61.06
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-07-19",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 8.8
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-07-20",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 10.35
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-07-20",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 68.17
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-07-23",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.19
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-07-24",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 3.11
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-07-24",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "digital",
+    "monto": 18.85
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-07-24",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "fisica",
+    "monto": 40.56
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-07-25",
+    "comercio": "NETFLIX",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-07-26",
+    "comercio": "MERCADOPAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 15.13
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-07-26",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-07-29",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 58.74
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-07-30",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 5.3
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-07-31",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-08-02",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 26.75
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-08-02",
+    "comercio": "ALIEXPRESS",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 82.73
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-08-05",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 4.61
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-08-05",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "digital",
+    "monto": 27.24
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-08-06",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 13.34
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-08-07",
+    "comercio": "MEGACABLE",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 115.12
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-08-07",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 3.11
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-08-07",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 1.85
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-08-07",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 1.85
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-08-07",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 1.85
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-08-08",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-08-12",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 3.0
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-08-14",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.08
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-08-14",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.08
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-08-14",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-08-15",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 64.03
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-08-15",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 5.41
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-08-15",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 62.59
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-08-18",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-08-19",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 21.71
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-08-19",
+    "comercio": "ALIEXPRESS",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 23.97
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-08-19",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "digital",
+    "monto": 25.29
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-08-19",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 8.8
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-08-19",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 3.69
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-08-19",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.77
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-08-22",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 67.6
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-08-25",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-08-26",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-08-27",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-08-27",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 5.99
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-08-28",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.84
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-08-29",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 22.99
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-08-30",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 3.69
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-08-31",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-09-01",
+    "comercio": "MERCADOPAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 44.97
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-09-04",
+    "comercio": "MEGACABLE",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 115.12
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-09-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 82.96
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-09-08",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 163.13
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-09-08",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-09-09",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "digital",
+    "monto": 27.93
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-09-10",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-09-10",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 54.39
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-09-14",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-09-18",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-09-18",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.08
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-09-19",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 18.51
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-09-19",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-09-24",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "digital",
+    "monto": 56.99
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-09-25",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 196.33
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-09-25",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 42.43
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-09-25",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-09-26",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 170.15
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-09-26",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-09-27",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 25.16
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-09-27",
+    "comercio": "ALIEXPRESS",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 28.92
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-09-27",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-09-30",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-10-01",
+    "comercio": "MERCADOPAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 15.27
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-10-05",
+    "comercio": "MEGACABLE",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 115.12
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-10-05",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 2.37
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-10-08",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.65
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-10-08",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-10-11",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 953.65
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-10-14",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.65
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-10-14",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-10-16",
+    "comercio": "CARLS JR",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 28.27
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-10-19",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-10-21",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-10-21",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.66
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-10-25",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-10-28",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-10-28",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.19
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-10-29",
+    "comercio": "SHEIN",
+    "giro_comercio": "BOUTIQUES ROPA - PARA TODA LA FAMILIA",
+    "tipo_venta": "digital",
+    "monto": 69.65
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-10-30",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 4.84
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-10-31",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-11-01",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 59.66
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-11-03",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 77.21
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-11-04",
+    "comercio": "ALIEXPRESS",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 24.53
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-11-04",
+    "comercio": "ALIEXPRESS",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 9.59
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-11-04",
+    "comercio": "ALIEXPRESS",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 62.87
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-11-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 14.49
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-11-07",
+    "comercio": "MEGACABLE",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 115.12
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-11-08",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-11-12",
+    "comercio": "ALIEXPRESS",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 55.86
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-11-12",
+    "comercio": "CANVA",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-11-14",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-11-14",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-11-18",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 50.3
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-11-19",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-11-22",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 26.54
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-11-22",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-11-22",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 2.42
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-11-22",
+    "comercio": "COPPEL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 44.7
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-11-24",
+    "comercio": "ALIEXPRESS",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 61.08
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-11-24",
+    "comercio": "ALIEXPRESS",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "digital",
+    "monto": 12.17
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-11-24",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 210.15
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-11-25",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 59.16
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-11-25",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-11-25",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-11-26",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-11-27",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-11-27",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.88
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-11-27",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.54
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-11-27",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 4.72
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-11-27",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 8.77
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-11-28",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-11-28",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-11-28",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-11-29",
+    "comercio": "PLAYSTATION NETWORK",
+    "giro_comercio": "BIENES DIGITALES JUEGOS",
+    "tipo_venta": "fisica",
+    "monto": 203.04
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-11-30",
+    "comercio": "COPPEL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 146.37
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-11-30",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 44.74
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-11-30",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-12-01",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 86.29
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-12-02",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 57.24
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-12-02",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 17.53
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-12-03",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 118.99
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-12-04",
+    "comercio": "MEGACABLE",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 115.12
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-12-08",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-12-09",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.29
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-12-09",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.84
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-12-10",
+    "comercio": "COPPEL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 78.13
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-12-10",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 287.33
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-12-10",
+    "comercio": "MEGACABLE",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 115.12
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-12-11",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 58.95
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-12-11",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 49.53
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-12-11",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 90.64
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-12-11",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.77
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-12-11",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.77
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-12-11",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 3.46
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-12-13",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 66.52
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-12-14",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 30.46
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-12-14",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-12-15",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 35.85
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-12-15",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 12.3
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-12-16",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 58.03
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-12-16",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 35.14
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-12-16",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 12.65
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-12-16",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 38.73
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-12-19",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 8.8
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-12-21",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-12-21",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 8.17
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-12-21",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 89.74
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-12-21",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 81.81
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-12-21",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 29.6
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-12-21",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 33.7
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-12-23",
+    "comercio": "WALMART",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 119.14
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-12-25",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 38.04
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-12-26",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "BIENES DIGITALES JUEGOS",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-12-28",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-12-28",
+    "comercio": "MERCADOPAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 59.91
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-12-28",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-12-29",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 101.27
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-12-29",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 28.52
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-12-31",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2022-12-31",
+    "comercio": "BAE",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 22.53
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2023-01-03",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 46.08
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2023-01-04",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2023-01-04",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 13.17
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2023-01-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 57.57
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2023-01-07",
+    "comercio": "MEGACABLE",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 115.12
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2023-01-08",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 41.2
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2023-01-08",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 2.31
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2023-01-08",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2023-01-09",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2023-01-11",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 148.88
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2023-01-13",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 45.62
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2023-01-14",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 35.29
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2023-01-14",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2023-01-15",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.77
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2023-01-19",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 57.57
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2023-01-19",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 8.8
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2023-01-20",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.38
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2023-01-26",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "SERV PROC DATOS - DISENO Y PROGRAM DE SISTEMAS",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2023-01-28",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "a20af678527db70e8376fb01d5d2c211d52d8a63",
+    "fecha": "2023-01-29",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  }
+]

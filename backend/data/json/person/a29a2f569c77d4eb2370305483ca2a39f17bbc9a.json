@@ -1,0 +1,2298 @@
+[
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-01-01",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 19.66
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-01-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 57.57
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-01-08",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 7.94
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-01-10",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 8.17
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-01-11",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 7.94
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-01-11",
+    "comercio": "OXXO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-01-15",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.65
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-01-16",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 3.92
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-01-18",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 14.54
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-01-19",
+    "comercio": "OXXO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-01-22",
+    "comercio": "7ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 13.8
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-01-23",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 3.52
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-01-26",
+    "comercio": "OXXO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-01-27",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 13.8
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-01-27",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 12.88
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-01-29",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 16.5
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-01-29",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 3.52
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-01-31",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 12.3
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-02-01",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 9.2
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-02-05",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 11.04
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-02-07",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.6
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-02-08",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 3.52
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-02-08",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 7.94
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-02-09",
+    "comercio": "OXXO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-02-10",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 8.17
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-02-10",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 7.94
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-02-10",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 12.19
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-02-12",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 7.94
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-02-19",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.25
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-02-19",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.42
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-02-20",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 3.0
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-02-20",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 7.94
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-02-22",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.25
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-02-22",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 2.87
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-02-24",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.28
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-02-25",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "fisica",
+    "monto": 43.44
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-02-27",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 3.0
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-02-27",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 4.2
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-02-27",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 10.18
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-02-28",
+    "comercio": "OXXO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-02-28",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.51
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-03-03",
+    "comercio": "OXXO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-03-03",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 11.62
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-03-04",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.42
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-03-05",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 5.58
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-03-05",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 7.94
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-03-07",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 3.52
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-03-07",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 24.69
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-03-07",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.71
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-03-08",
+    "comercio": "OXXO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-03-08",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 10.7
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-03-10",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 8.17
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-03-11",
+    "comercio": "OXXO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-03-11",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 1.62
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-03-11",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.54
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-03-12",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.25
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-03-12",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 3.69
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-03-13",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.42
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-03-13",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.51
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-03-14",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.25
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-03-15",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.77
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-03-17",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 7.94
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-03-19",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.51
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-03-21",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 10.7
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-03-21",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.51
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-03-22",
+    "comercio": "OXXO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-03-22",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 16.44
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-03-22",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 10.47
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-03-22",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 103.06
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-03-22",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 2.71
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-03-24",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 24.37
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-03-27",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.57
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-03-27",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 23.21
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-03-30",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 15.06
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-03-30",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "fisica",
+    "monto": 12.3
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-03-31",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 29.44
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-04-01",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.42
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-04-02",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.42
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-04-03",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.51
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-04-04",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 5.53
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-04-05",
+    "comercio": "OXXO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-04-06",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 52.05
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-04-06",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 6.9
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-04-08",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.65
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-04-09",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.65
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-04-09",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.94
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-04-10",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 8.51
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-04-10",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 8.17
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-04-10",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 8.4
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-04-12",
+    "comercio": "OXXO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-04-13",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 31.75
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-04-15",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 8.28
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-04-16",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.42
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-04-16",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 74.8
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-04-16",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 37.23
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-04-18",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.63
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-04-19",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 24.14
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-04-20",
+    "comercio": "OXXO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 34.71
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-04-21",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 3.86
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-04-25",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.42
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-04-25",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.63
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-04-26",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 6.56
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-04-29",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 110.73
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-04-30",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 3.52
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-05-04",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 8.17
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-05-04",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 17.46
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-05-05",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 17.93
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-05-10",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 8.17
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-05-14",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 6.85
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-05-20",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 7.54
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-05-21",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 3.11
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-05-21",
+    "comercio": "OXXO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-05-24",
+    "comercio": "OXXO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-05-24",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 12.65
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-05-27",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 2.87
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-05-28",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 6.09
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-05-30",
+    "comercio": "CARLS JR",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 16.9
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-06-03",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 10.47
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-06-03",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-06-03",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 10.81
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-06-05",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 4.38
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-06-06",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 2.99
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-06-06",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 21.95
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-06-07",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 2.87
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-06-07",
+    "comercio": "OXXO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-06-09",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 2.14
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-06-09",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 9.89
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-06-10",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 8.17
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-06-10",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 10.47
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-06-11",
+    "comercio": "OXXO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-06-24",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 2.87
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-06-27",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 10.47
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-06-27",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "PRODUCCION Y DISTRIBUCION DE PELICULAS Y VIDEOS",
+    "tipo_venta": "fisica",
+    "monto": 5.41
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-06-29",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.43
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-07-01",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 57.97
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-07-01",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 86.98
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-07-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-07-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-07-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-07-06",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-07-08",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 11.27
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-07-08",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.89
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-07-10",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 8.17
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-07-15",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.29
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-07-15",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 11.27
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-07-17",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 11.04
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-07-18",
+    "comercio": "WAL-MART",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 65.61
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-07-18",
+    "comercio": "WAL-MART",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 65.61
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-07-21",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 2.87
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-07-22",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 17.47
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-07-22",
+    "comercio": "OXXO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-07-22",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 12.19
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-07-23",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 6.9
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-07-24",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 9.89
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-07-24",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 10.47
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-07-24",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-07-25",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 11.27
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-07-26",
+    "comercio": "OXXO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-07-30",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 6.5
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-08-02",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.88
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-08-07",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-08-10",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-08-10",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 12.3
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-08-11",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-08-12",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 8.86
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-08-12",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 3.98
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-08-15",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 2.08
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-08-15",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.63
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-08-16",
+    "comercio": "OXXO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-08-17",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 6.44
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-08-20",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 17.36
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-08-20",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 10.93
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-08-24",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 4.95
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-08-24",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 17.47
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-08-25",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-08-28",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 11.15
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-08-28",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 3.34
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-09-02",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 8.7
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-09-03",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 11.04
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-09-06",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 11.84
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-09-07",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-09-07",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 8.05
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-09-08",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 29.19
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-09-08",
+    "comercio": "OXXO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-09-08",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 12.4
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-09-08",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 4.61
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-09-10",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-09-11",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 9.19
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-09-13",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 14.49
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-09-13",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 5.3
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-09-15",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 17.53
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-09-16",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 33.55
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-09-16",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 15.29
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-09-21",
+    "comercio": "OXXO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-09-22",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.49
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-09-24",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-09-25",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 13.34
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-09-28",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.19
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-09-29",
+    "comercio": "7ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 11.62
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-09-29",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 5.01
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-09-29",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 4.84
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-09-30",
+    "comercio": "OXXO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-09-30",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 27.3
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-09-30",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.77
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-10-01",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.3
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-10-04",
+    "comercio": "7ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 11.62
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-10-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-10-05",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 6.79
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-10-06",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 148.09
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-10-08",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.03
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-10-08",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.77
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-10-10",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-10-10",
+    "comercio": "7ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 11.62
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-10-11",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.58
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-10-11",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.6
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-10-12",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 40.28
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-10-12",
+    "comercio": "OXXO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-10-12",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-10-13",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 45.85
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-10-13",
+    "comercio": "7ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 35.85
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-10-16",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 11.73
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-10-21",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 6.44
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-10-22",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 6.22
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-10-23",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.6
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-10-24",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-10-25",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 12.59
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-11-03",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 4.84
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-11-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-11-07",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 10.98
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-11-09",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 14.72
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-11-10",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-11-11",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 108.22
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-11-13",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 9.66
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-11-14",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.6
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-11-16",
+    "comercio": "OXXO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-11-16",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 225.33
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-11-17",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 2.65
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-11-17",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 1.96
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-11-17",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 75.95
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-11-17",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.78
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-11-21",
+    "comercio": "OXXO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 23.22
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-11-21",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 3.23
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-11-24",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 12.35
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-11-24",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 8.86
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-11-24",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-11-25",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 19.66
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-11-28",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 2.54
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-12-01",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.82
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-12-02",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 2.83
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-12-04",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 3.46
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-12-04",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.43
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-12-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-12-07",
+    "comercio": "OXXO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-12-07",
+    "comercio": "HEB",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 36.54
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-12-08",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.53
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-12-09",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 7.94
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-12-09",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.86
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-12-10",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-12-10",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 10.24
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-12-11",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 25.4
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-12-14",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 4.14
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-12-15",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 19.66
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-12-17",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.34
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-12-17",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 27.79
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-12-18",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 40.86
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-12-18",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 25.4
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-12-23",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 11.27
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-12-23",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 4.72
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-12-24",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 31.15
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-12-24",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-12-25",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 16.1
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-12-25",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 36.43
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-12-26",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 11.27
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-12-30",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.89
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2022-12-31",
+    "comercio": "NAYAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "fisica",
+    "monto": 3.34
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2023-01-01",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 25.4
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2023-01-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2023-01-07",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 12.99
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2023-01-08",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.2
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2023-01-10",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2023-01-11",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 9.43
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2023-01-12",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 11.5
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2023-01-16",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.2
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2023-01-18",
+    "comercio": "SORIANA",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 48.95
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2023-01-18",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.2
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2023-01-18",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "digital",
+    "monto": 65.84
+  },
+  {
+    "id": "a29a2f569c77d4eb2370305483ca2a39f17bbc9a",
+    "fecha": "2023-01-25",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 19.66
+  }
+]

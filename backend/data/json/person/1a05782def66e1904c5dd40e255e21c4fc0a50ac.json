@@ -1,0 +1,1746 @@
+[
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-01-04",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 32.58
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-01-04",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-01-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 62.16
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-01-13",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 115.01
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-01-13",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 46.71
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-01-16",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 167.85
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-01-17",
+    "comercio": "AMAZON",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 41.09
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-01-18",
+    "comercio": "AMAZON",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 38.75
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-01-28",
+    "comercio": "AMAZON",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 96.94
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-02-03",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-02-06",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 51.82
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-02-06",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 55.46
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-02-06",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 197.72
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-02-06",
+    "comercio": "AMAZON",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 211.96
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-02-09",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 13.31
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-02-18",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 80.54
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-02-18",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-02-18",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-02-18",
+    "comercio": "CANVA",
+    "giro_comercio": "COMPUTADORAS EQUIPO PERIF DE COMPUTADORAS SOFTWARE",
+    "tipo_venta": "fisica",
+    "monto": 7.02
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-02-24",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 42.05
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-02-26",
+    "comercio": "AMAZON",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 121.43
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-02-27",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 72.51
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-02-28",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 35.26
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-02-28",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 154.99
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-03-03",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-03-04",
+    "comercio": "MELIMAS",
+    "giro_comercio": "MERCADEO DIRECTO - COMERCIANTES DE TELEMERCADEO",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-03-06",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 487.22
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-03-06",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 104.44
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-03-07",
+    "comercio": "AMAZON",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 56.02
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-03-08",
+    "comercio": "MAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 14.64
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-03-08",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.76
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-03-10",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 3.34
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-03-11",
+    "comercio": "APPLE",
+    "giro_comercio": "COMPUTADORAS EQUIPO PERIF DE COMPUTADORAS SOFTWARE",
+    "tipo_venta": "digital",
+    "monto": 80.54
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-03-12",
+    "comercio": "APPLE",
+    "giro_comercio": "COMPUTADORAS EQUIPO PERIF DE COMPUTADORAS SOFTWARE",
+    "tipo_venta": "digital",
+    "monto": 195.43
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-03-13",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 33.33
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-03-17",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 689.46
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-03-18",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-03-19",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 425.19
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-03-19",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 129.03
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-03-23",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 25.39
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-03-28",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 25.39
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-03-28",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-03-30",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 34.53
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-03-30",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-04-03",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-04-07",
+    "comercio": "MAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 14.64
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-04-08",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.76
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-04-08",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-04-08",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 29.92
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-04-14",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-04-14",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-04-18",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-04-28",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 38.95
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-04-28",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-04-29",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 60.83
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-05-01",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 162.05
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-05-03",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-05-07",
+    "comercio": "MAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 14.64
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-05-11",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 172.67
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-05-12",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.41
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-05-14",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-05-15",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-05-15",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 21.95
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-05-18",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-05-22",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 31.26
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-05-22",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 120.78
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-05-24",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "fisica",
+    "monto": 50.33
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-05-29",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.55
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-05-29",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-05-30",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.2
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-06-02",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-06-06",
+    "comercio": "MAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 14.64
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-06-10",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 48.08
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-06-12",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 65.98
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-06-13",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 15.06
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-06-14",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-06-17",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 20.35
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-06-18",
+    "comercio": "AMAZON",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 252.0
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-06-18",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-06-20",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.98
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-06-25",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 11.62
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-06-25",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 17.36
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-06-28",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 7.13
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-06-28",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-06-29",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 59.33
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-07-02",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 597.05
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-07-02",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-07-02",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 115.12
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-07-04",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 43.44
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-07-04",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 172.06
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-07-05",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 115.12
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-07-06",
+    "comercio": "MAX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 14.64
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-07-06",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 30.16
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-07-12",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 691.4
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-07-14",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 5.99
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-07-14",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-07-17",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 26.55
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-07-18",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 149.47
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-07-18",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-07-20",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 63.65
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-07-24",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 43.79
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-07-25",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 20.35
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-07-28",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-08-01",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 66.01
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-08-12",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 24.37
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-08-13",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": NaN,
+    "tipo_venta": "digital",
+    "monto": 4.59
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-08-13",
+    "comercio": "AMAZON",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 57.06
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-08-13",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-08-13",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 27.7
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-08-14",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-08-16",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 40.39
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-08-17",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 34.59
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-08-18",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-08-18",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 66.87
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-08-26",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 66.01
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-08-27",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": NaN,
+    "tipo_venta": "digital",
+    "monto": 309.74
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-08-27",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 76.18
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-08-28",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-08-30",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 49.84
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-08-31",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 55.93
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-09-07",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 17.98
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-09-10",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.1
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-09-12",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 11.73
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-09-14",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-09-16",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 15.06
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-09-17",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 34.59
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-09-18",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-09-18",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-09-18",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 29.77
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-09-18",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 21.15
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-09-22",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 29.48
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-09-23",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 8.27
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-09-26",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 131.83
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-09-28",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-10-02",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 69.46
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-10-06",
+    "comercio": "AMAZON",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 130.11
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-10-12",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 57.68
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-10-14",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-10-15",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 22.79
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-10-16",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 15.06
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-10-17",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 34.59
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-10-17",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 15.06
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-10-18",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-10-23",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.13
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-10-24",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-10-24",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 9.32
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-10-25",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-10-27",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 131.83
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-10-27",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 67.33
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-10-28",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-10-29",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 52.97
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-10-30",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 28.85
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-10-31",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 26.77
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-10-31",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 27.26
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-10-31",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-11-01",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 63.99
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-11-01",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 18.61
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-11-01",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-11-02",
+    "comercio": "APPLE",
+    "giro_comercio": "COMPUTADORAS EQUIPO PERIF DE COMPUTADORAS SOFTWARE",
+    "tipo_venta": "digital",
+    "monto": 126.5
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-11-05",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 5.99
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-11-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-11-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 24.28
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-11-09",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 30.74
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-11-10",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 63.65
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-11-11",
+    "comercio": "GOOGLE",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "fisica",
+    "monto": 2.55
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-11-11",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 37.46
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-11-13",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 2.42
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-11-16",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 15.06
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-11-16",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 26.19
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-11-17",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 34.59
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-11-17",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 15.06
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-11-18",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-11-20",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 61.13
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-11-21",
+    "comercio": "AMAZON",
+    "giro_comercio": "LIBRERIAS",
+    "tipo_venta": "digital",
+    "monto": 166.12
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-11-21",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 108.92
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-11-23",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.13
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-11-29",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-11-30",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 24.17
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-11-30",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-12-01",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 50.5
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-12-02",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 8.74
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-12-02",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 53.43
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-12-08",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 21.71
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-12-09",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 158.78
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-12-10",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 185.02
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-12-13",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 15.06
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-12-16",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 15.06
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-12-17",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 34.59
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-12-17",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 15.06
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-12-18",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-12-18",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-12-28",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.7
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-12-29",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-12-30",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 143.84
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-12-30",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 29.58
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2022-12-30",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 7.13
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2023-01-01",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 185.55
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2023-01-02",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 8.74
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2023-01-03",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 36.67
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2023-01-10",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 158.25
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2023-01-14",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2023-01-14",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 44.13
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2023-01-14",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 19.78
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2023-01-16",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 15.06
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2023-01-16",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 63.07
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2023-01-17",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 34.59
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2023-01-17",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 15.06
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2023-01-18",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2023-01-19",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 444.72
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2023-01-19",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 43.17
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2023-01-19",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 99.58
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2023-01-21",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 26.19
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2023-01-21",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 194.02
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2023-01-24",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2023-01-24",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 69.17
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2023-01-27",
+    "comercio": "AMAZON",
+    "giro_comercio": "LIBRERIAS",
+    "tipo_venta": "fisica",
+    "monto": 85.7
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2023-01-29",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "1a05782def66e1904c5dd40e255e21c4fc0a50ac",
+    "fecha": "2023-01-30",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 43.21
+  }
+]

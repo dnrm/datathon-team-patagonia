@@ -1,0 +1,2442 @@
+[
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-01-15",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 8.17
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-01-16",
+    "comercio": "MERCADOPAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 20.51
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-01-16",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 32.75
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-01-16",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 32.75
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-01-16",
+    "comercio": "MERCADOPAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 32.75
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-01-19",
+    "comercio": "RAPPI",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 14.99
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-01-19",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 4.72
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-01-23",
+    "comercio": "DIDI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 12.07
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-01-26",
+    "comercio": "RAPPI",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 16.24
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-01-28",
+    "comercio": "RAPPI",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 8.73
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-02-03",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.94
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-02-12",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 27.58
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-02-13",
+    "comercio": "RAPPI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 17.03
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-02-15",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 8.17
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-02-19",
+    "comercio": "RAPPI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.41
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-02-25",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 12.78
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-02-26",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 19.61
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-03-01",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 11.12
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-03-01",
+    "comercio": "RAPPI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 11.95
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-03-04",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 7.24
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-03-13",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.29
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-03-15",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.26
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-03-15",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 8.17
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-03-15",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 103.73
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-03-30",
+    "comercio": "RAPPI",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 12.86
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-04-02",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.1
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-04-02",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.25
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-04-04",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.33
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-04-04",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.84
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-04-05",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 20.06
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-04-09",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.85
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-04-09",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.46
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-04-10",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 9.42
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-04-12",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 103.73
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-04-12",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-04-12",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.81
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-04-14",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.05
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-04-14",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 11.84
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-04-14",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 14.69
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-04-15",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 8.17
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-04-16",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 15.74
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-04-19",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.09
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-04-19",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.04
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-04-19",
+    "comercio": "RAPPI",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 13.31
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-04-19",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 15.02
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-04-20",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 2.74
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-04-21",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 22.36
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-04-23",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 49.44
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-04-25",
+    "comercio": "RAPPI",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 16.3
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-04-26",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.07
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-04-26",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.04
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-04-26",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.04
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-05-04",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 2.67
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-05-06",
+    "comercio": "RAPPI",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 16.53
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-05-10",
+    "comercio": "RAPPI",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 16.53
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-05-11",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 126.7
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-05-12",
+    "comercio": "RAPPI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.7
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-05-14",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 17.65
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-05-15",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 8.17
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-05-15",
+    "comercio": "RAPPI",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 16.53
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-05-16",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 97.78
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-05-18",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 103.52
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-05-21",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 10.79
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-05-22",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 20.27
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-05-24",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 16.74
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-05-25",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 7.31
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-05-25",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 6.3
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-05-30",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-05-30",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-05-30",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-05-30",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-05-30",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-06-03",
+    "comercio": "RAPPI",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 16.3
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-06-03",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 12.71
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-06-04",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 13.04
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-06-06",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 8.17
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-06-07",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.33
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-06-10",
+    "comercio": "RAPPI",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 16.3
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-06-10",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 103.73
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-06-10",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 12.0
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-06-11",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 13.86
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-06-12",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 13.29
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-06-13",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 16.51
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-06-14",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 16.3
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-06-14",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.98
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-06-14",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.01
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-06-14",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.32
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-06-14",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 18.35
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-06-15",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 8.17
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-06-15",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 16.99
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-06-16",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 60.27
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-06-18",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 16.3
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-06-20",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.68
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-06-21",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.98
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-06-21",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.98
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-06-21",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.02
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-06-21",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.25
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-06-25",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.68
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-06-25",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.35
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-06-26",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.94
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-06-27",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 7.02
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-06-28",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 16.42
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-06-29",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 57.68
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-06-30",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-06-30",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-06-30",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 16.37
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-06-30",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 7.38
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-07-04",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-07-04",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "digital",
+    "monto": 38.73
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-07-04",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "fisica",
+    "monto": 13.45
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-07-06",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.05
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-07-06",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 8.17
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-07-08",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 15.99
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-07-10",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 103.73
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-07-12",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.77
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-07-12",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 50.68
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-07-12",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 40.26
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-07-15",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 8.17
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-07-15",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-07-15",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.14
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-07-15",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 101.83
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-07-16",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 19.31
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-07-17",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 13.18
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-07-20",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.04
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-07-21",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 12.99
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-07-23",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 9.59
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-07-23",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 18.49
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-07-23",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.05
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-07-23",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.95
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-07-23",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.22
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-07-24",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.2
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-07-26",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 17.66
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-07-26",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.5
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-07-26",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.7
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-07-26",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-07-28",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 4.84
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-07-29",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 17.25
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-07-29",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 6.14
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-07-30",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-07-30",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 43.52
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-08-01",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.47
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-08-01",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 10.65
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-08-02",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 8.51
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-08-07",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 30.17
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-08-07",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 6.22
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-08-08",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 12.67
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-08-10",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 10.81
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-08-13",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 103.73
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-08-15",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 8.17
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-08-15",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 109.91
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-08-16",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 14.02
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-08-16",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.32
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-08-16",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 91.75
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-08-17",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-08-17",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 17.41
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-08-20",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "digital",
+    "monto": 47.11
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-08-21",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 2.88
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-08-24",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 13.8
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-08-26",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-08-26",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 18.73
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-08-26",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 7.25
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-08-28",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 13.91
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-08-29",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.86
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-08-29",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.27
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-08-30",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-08-30",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.94
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-08-31",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 20.54
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-09-01",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 16.5
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-09-01",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 7.51
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-09-02",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 15.99
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-09-02",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 11.85
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-09-03",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 13.15
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-09-03",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 51.15
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-09-04",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 8.17
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-09-04",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 13.85
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-09-04",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 11.21
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-09-05",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 13.25
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-09-06",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 17.01
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-09-06",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 12.07
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-09-10",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 14.72
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-09-11",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 103.73
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-09-12",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 16.67
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-09-13",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 18.05
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-09-14",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 12.3
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-09-15",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-09-15",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 13.91
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-09-15",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 2.29
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-09-17",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 12.88
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-09-18",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 12.99
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-09-20",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 17.59
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-09-23",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.87
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-09-26",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 13.8
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-09-26",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 298.82
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-09-30",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-09-30",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-09-30",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 144.68
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-10-01",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 18.16
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-10-03",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 12.71
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-10-05",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 8.17
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-10-06",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 13.23
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-10-09",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 2.68
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-10-11",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 16.14
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-10-12",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 102.69
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-10-15",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 13.8
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-10-15",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-10-15",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-10-15",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 12.19
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-10-15",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 8.9
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-10-16",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 13.8
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-10-20",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 29.54
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-10-20",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 13.34
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-10-20",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 63.31
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-10-22",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 14.44
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-10-22",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 3.0
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-10-23",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 30.11
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-10-25",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 14.61
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-10-28",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-10-28",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 2.71
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-10-28",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.56
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-10-28",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 1.73
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-10-30",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 12.7
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-10-30",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-10-31",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 4.28
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-10-31",
+    "comercio": "RAPPIPRO",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 12.76
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-11-01",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 11.95
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-11-02",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 63.31
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-11-03",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 19.43
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-11-05",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 8.17
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-11-05",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 78.36
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-11-07",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 13.48
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-11-08",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 16.54
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-11-09",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "fisica",
+    "monto": 29.08
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-11-11",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 10.58
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-11-11",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 102.69
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-11-12",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.12
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-11-12",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 13.8
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-11-12",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 72.5
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-11-13",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 14.68
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-11-14",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 13.97
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-11-15",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-11-15",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 15.41
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-11-16",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.77
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-11-17",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 14.88
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-11-17",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-11-17",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 7.1
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-11-20",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 14.32
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-11-22",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 14.56
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-11-22",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.64
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-11-25",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 13.02
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-11-28",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 13.8
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-11-29",
+    "comercio": "RAPPIPRO",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 12.76
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-11-29",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 82.89
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-11-30",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-11-30",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 12.53
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-12-01",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 12.65
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-12-03",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 13.45
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-12-03",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.7
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-12-03",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.15
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-12-03",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.15
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-12-06",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 8.17
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-12-08",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 35.07
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-12-08",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 13.11
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-12-10",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 14.72
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-12-11",
+    "comercio": "TELCEL",
+    "giro_comercio": "COMPUTADORAS EQUIPO PERIF DE COMPUTADORAS SOFTWARE",
+    "tipo_venta": "digital",
+    "monto": 102.69
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-12-14",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 15.18
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-12-14",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 22.41
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-12-15",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-12-17",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 14.02
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-12-17",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 11.73
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-12-17",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 7.1
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-12-17",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 12.16
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-12-18",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-12-19",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 69.52
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-12-19",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 18.98
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-12-20",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 14.72
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-12-24",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 14.72
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-12-29",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 17.47
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2022-12-29",
+    "comercio": "RAPPIPRO",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 12.76
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2023-01-02",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 17.47
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2023-01-02",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 17.47
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2023-01-02",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 17.47
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2023-01-05",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 17.47
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2023-01-06",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 8.17
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2023-01-07",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 8.17
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2023-01-09",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 8.17
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2023-01-12",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 8.17
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2023-01-12",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 17.47
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2023-01-12",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 8.17
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2023-01-13",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 8.17
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2023-01-15",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2023-01-16",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2023-01-18",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2023-01-19",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 17.47
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2023-01-19",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 17.47
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2023-01-19",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 17.47
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2023-01-19",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 17.47
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2023-01-19",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 17.47
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2023-01-20",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 17.47
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2023-01-20",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 17.47
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2023-01-25",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 14.05
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2023-01-26",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 29.17
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2023-01-29",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2023-01-29",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2023-01-29",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "4e83b06a007553730d39dc39d2a99b7a60c440cb",
+    "fecha": "2023-01-30",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 36.43
+  }
+]

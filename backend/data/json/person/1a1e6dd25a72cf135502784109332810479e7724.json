@@ -1,0 +1,2530 @@
+[
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-01-02",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-01-02",
+    "comercio": "COPPEL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 144.42
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-01-04",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 9.37
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-01-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-01-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-01-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-01-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-01-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 40.83
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-01-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-01-05",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.66
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-01-05",
+    "comercio": "PARCO",
+    "giro_comercio": "ESTACIONAMIENTOS/PENSIONES",
+    "tipo_venta": "digital",
+    "monto": 6.67
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-01-09",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 41.46
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-01-10",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "fisica",
+    "monto": 72.16
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-01-10",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "fisica",
+    "monto": 72.16
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-01-11",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 36.09
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-01-11",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.72
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-01-12",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 20.84
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-01-14",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 11.84
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-01-14",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 126.6
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-01-16",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 73.08
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-01-17",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 20.27
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-01-20",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 15.29
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-01-20",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 15.29
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-01-20",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 18.61
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-01-21",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.46
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-01-24",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 9.2
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-01-25",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 14.26
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-02-03",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 13.11
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-02-06",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.54
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-02-07",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.78
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-02-08",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 172.27
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-02-08",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 11.27
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-02-08",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 22.07
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-02-08",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 37.06
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-02-09",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 81.12
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-02-10",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 47.7
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-02-11",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 38.61
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-02-11",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 2.37
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-02-12",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-02-13",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 29.34
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-02-13",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 12.76
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-02-14",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.69
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-02-14",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.84
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-02-16",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 51.34
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-02-26",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.46
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-02-27",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 6.22
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-02-27",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 5.81
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-02-28",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.74
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-02-28",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.46
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-03-01",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.46
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-03-01",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.46
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-03-04",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.46
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-03-07",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.76
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-03-08",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 9.55
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-03-08",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-03-09",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 6.04
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-03-09",
+    "comercio": "PARCO",
+    "giro_comercio": "ESTACIONAMIENTOS/PENSIONES",
+    "tipo_venta": "digital",
+    "monto": 2.63
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-03-10",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 12.13
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-03-10",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 12.13
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-03-11",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.08
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-03-12",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-03-12",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 2.14
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-03-13",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.92
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-03-13",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 3.11
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-03-13",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.99
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-03-16",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 10.29
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-03-19",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 2.71
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-03-21",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.31
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-03-21",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 101.37
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-03-21",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 16.4
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-03-22",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.2
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-03-23",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 9.95
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-03-23",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 11.79
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-03-25",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 15.29
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-03-26",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.43
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-03-27",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 10.93
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-03-28",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 17.3
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-03-30",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 8.46
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-04-01",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 11.84
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-04-03",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-04-03",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 39.45
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-04-04",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-04-04",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 8.17
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-04-05",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 12.05
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-04-06",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-04-06",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 38.33
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-04-11",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 13.09
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-04-12",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 13.97
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-04-13",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-04-13",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 98.09
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-04-18",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 16.14
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-04-20",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 8.63
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-04-20",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-04-21",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.07
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-04-22",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.03
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-04-23",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 36.2
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-04-23",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 71.93
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-04-25",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 13.22
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-04-25",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.63
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-04-29",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 15.58
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-04-30",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-04-30",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 2.65
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-04-30",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 2.83
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-05-01",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 12.71
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-05-01",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 10.47
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-05-02",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 14.03
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-05-03",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 3.41
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-05-03",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.19
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-05-04",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 17.07
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-05-04",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 5.93
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-05-04",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 51.43
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-05-06",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 10.93
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-05-07",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.8
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-05-09",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 143.38
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-05-09",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 13.8
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-05-09",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 6.62
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-05-10",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.88
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-05-10",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 27.39
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-05-11",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 19.2
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-05-13",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 15.12
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-05-15",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 17.76
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-05-18",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 22.07
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-05-21",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.72
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-05-22",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.49
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-05-23",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.49
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-05-23",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.82
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-05-24",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 1.91
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-05-24",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.26
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-05-24",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-05-26",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 27.28
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-05-26",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 16.44
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-05-27",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 15.0
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-05-28",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 8.8
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-05-29",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-05-29",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.46
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-05-30",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 6.9
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-05-30",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 6.9
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-05-31",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 3.69
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-05-31",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 21.27
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-06-01",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.13
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-06-01",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.13
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-06-05",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.3
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-06-06",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 2.83
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-06-06",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.05
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-06-06",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 2.83
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-06-07",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.99
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-06-07",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 2.25
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-06-07",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 8.11
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-06-10",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.89
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-06-10",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 24.14
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-06-12",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 3.69
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-06-13",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-06-13",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-06-15",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.36
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-06-17",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "digital",
+    "monto": 10.01
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-06-17",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.28
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-06-18",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.93
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-06-22",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 45.99
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-06-23",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 47.23
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-06-23",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.69
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-06-26",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 10.93
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-06-26",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 17.47
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-06-26",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 8.04
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-06-27",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 8.28
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-06-28",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 12.76
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-07-01",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 32.08
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-07-01",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 17.36
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-07-03",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 123.51
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-07-04",
+    "comercio": "WALMART",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 11.72
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-07-05",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-07-06",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 5.3
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-07-06",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 5.3
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-07-09",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 5.7
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-07-11",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 11.15
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-07-11",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-07-12",
+    "comercio": "TELCEL",
+    "giro_comercio": "EQUIPOS DE TELECOMUNICACION,VTA DE TELEFONOS",
+    "tipo_venta": "fisica",
+    "monto": 9.37
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-07-12",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 5.64
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-07-17",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.25
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-07-18",
+    "comercio": "TELCEL",
+    "giro_comercio": "EQUIPOS DE TELECOMUNICACION,VTA DE TELEFONOS",
+    "tipo_venta": "fisica",
+    "monto": 9.83
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-07-19",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 12.53
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-07-20",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 8.17
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-07-21",
+    "comercio": "TELCEL",
+    "giro_comercio": "EQUIPOS DE TELECOMUNICACION,VTA DE TELEFONOS",
+    "tipo_venta": "fisica",
+    "monto": 1.85
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-07-23",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-07-28",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 3.4
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-07-29",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.74
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-07-30",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.69
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-08-02",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.36
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-08-03",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 13.11
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-08-10",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-08-10",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.0
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-08-11",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 18.62
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-08-11",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 8.63
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-08-15",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-08-16",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 11.42
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-08-17",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 3.69
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-08-19",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 5.76
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-08-21",
+    "comercio": "WALMART",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 24.36
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-08-21",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 13.85
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-08-22",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.89
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-08-22",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.89
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-08-23",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 5.93
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-08-23",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-08-25",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 11.72
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-08-25",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 11.72
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-08-26",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-08-29",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 3.17
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-09-03",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.97
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-09-05",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.78
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-09-08",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 30.0
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-09-09",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.4
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-09-09",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 24.11
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-09-11",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 12.42
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-09-11",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.98
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-09-13",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.95
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-09-17",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 16.55
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-09-18",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.23
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-09-21",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.38
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-09-21",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 2.77
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-09-23",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 11.61
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-09-23",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 1.45
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-09-24",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 8.23
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-10-01",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-10-04",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.85
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-10-07",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.2
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-10-07",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 30.48
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-10-08",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.76
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-10-10",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 7.02
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-10-10",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-10-11",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 5.82
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-10-15",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 2.77
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-10-17",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.26
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-10-19",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 6.96
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-10-22",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.78
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-10-22",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.78
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-10-22",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 103.64
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-10-24",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 17.53
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-10-28",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 5.7
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-10-28",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 2.54
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-11-03",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 18.91
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-11-04",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 10.93
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-11-05",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 1.74
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-11-05",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.11
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-11-08",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-11-08",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.37
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-11-11",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 4.38
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-11-12",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.26
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-11-14",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 5.18
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-11-15",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-11-15",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 4.02
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-11-15",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 3.69
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-11-19",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 5.74
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-11-19",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 6.67
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-11-19",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.49
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-11-21",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 6.33
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-11-21",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 3.57
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-11-21",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 6.33
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-11-22",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 13.51
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-11-22",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.65
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-11-22",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.65
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-11-24",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 9.6
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-11-24",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.53
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-11-24",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.53
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-11-25",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 8.51
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-11-25",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 5.47
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-11-26",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 6.16
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-11-26",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 6.79
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-11-27",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 21.61
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-11-28",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 10.01
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-11-29",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 9.72
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-11-29",
+    "comercio": "PARCO",
+    "giro_comercio": "ESTACIONAMIENTOS/PENSIONES",
+    "tipo_venta": "digital",
+    "monto": 2.08
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-11-29",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.77
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-11-30",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.23
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-12-02",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 13.73
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-12-02",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 2.54
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-12-02",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 2.65
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-12-05",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 3.86
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-12-05",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 11.21
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-12-06",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 4.84
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-12-06",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.0
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-12-08",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 16.78
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-12-09",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 14.14
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-12-09",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 7.01
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-12-10",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 3.69
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-12-12",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.64
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-12-13",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 5.52
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-12-13",
+    "comercio": "SORIANA",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 74.99
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-12-16",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 21.5
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-12-17",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.69
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-12-17",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.92
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-12-17",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 141.09
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-12-17",
+    "comercio": "SORIANA",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 39.26
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-12-20",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 13.8
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-12-20",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 15.29
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2022-12-24",
+    "comercio": "COPPEL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 119.95
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2023-01-02",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 25.29
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2023-01-04",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 24.6
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2023-01-05",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 31.25
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2023-01-05",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 18.45
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2023-01-05",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 3.92
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2023-01-06",
+    "comercio": "SORIANA",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 11.96
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2023-01-09",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 15.18
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2023-01-13",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 2.88
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2023-01-13",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2023-01-14",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 10.93
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2023-01-15",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 12.28
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2023-01-16",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 3.69
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2023-01-16",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 5.76
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2023-01-17",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 3.69
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2023-01-17",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 35.79
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2023-01-17",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 24.25
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2023-01-18",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 6.96
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2023-01-25",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 17.13
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2023-01-26",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.18
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2023-01-26",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 6.92
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2023-01-27",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 64.6
+  },
+  {
+    "id": "1a1e6dd25a72cf135502784109332810479e7724",
+    "fecha": "2023-01-27",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.4
+  }
+]

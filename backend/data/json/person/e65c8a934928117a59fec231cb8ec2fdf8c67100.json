@@ -1,0 +1,770 @@
+[
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-01-03",
+    "comercio": "GOOGLE YOUTUBEPREMIUM",
+    "giro_comercio": "RENTA DE VIDEOS  (VIDEOS),",
+    "tipo_venta": "fisica",
+    "monto": 17.36
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-01-08",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMPUTADORAS EQUIPO PERIF DE COMPUTADORAS SOFTWARE",
+    "tipo_venta": "fisica",
+    "monto": 19.54
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-01-08",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMPUTADORAS EQUIPO PERIF DE COMPUTADORAS SOFTWARE",
+    "tipo_venta": "fisica",
+    "monto": 3.12
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-01-09",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-01-10",
+    "comercio": "DISNEY PLUS",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-01-22",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 28.85
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-01-30",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-02-03",
+    "comercio": "GOOGLE YOUTUBEPREMIUM",
+    "giro_comercio": "RENTA DE VIDEOS  (VIDEOS),",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-02-08",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMPUTADORAS EQUIPO PERIF DE COMPUTADORAS SOFTWARE",
+    "tipo_venta": "fisica",
+    "monto": 19.87
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-02-08",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMPUTADORAS EQUIPO PERIF DE COMPUTADORAS SOFTWARE",
+    "tipo_venta": "fisica",
+    "monto": 3.17
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-02-09",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-02-10",
+    "comercio": "DISNEY PLUS",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-02-22",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 28.85
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-02-28",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-03-03",
+    "comercio": "GOOGLE YOUTUBEPREMIUM",
+    "giro_comercio": "RENTA DE VIDEOS  (VIDEOS),",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-03-05",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 42.52
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-03-08",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMPUTADORAS EQUIPO PERIF DE COMPUTADORAS SOFTWARE",
+    "tipo_venta": "fisica",
+    "monto": 19.52
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-03-08",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMPUTADORAS EQUIPO PERIF DE COMPUTADORAS SOFTWARE",
+    "tipo_venta": "fisica",
+    "monto": 2.92
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-03-10",
+    "comercio": "DISNEY PLUS",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-03-30",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-04-03",
+    "comercio": "GOOGLE YOUTUBEPREMIUM",
+    "giro_comercio": "RENTA DE VIDEOS  (VIDEOS),",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-04-05",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-04-08",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMPUTADORAS EQUIPO PERIF DE COMPUTADORAS SOFTWARE",
+    "tipo_venta": "fisica",
+    "monto": 18.99
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-04-08",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMPUTADORAS EQUIPO PERIF DE COMPUTADORAS SOFTWARE",
+    "tipo_venta": "fisica",
+    "monto": 3.04
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-04-10",
+    "comercio": "DISNEY PLUS",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-04-21",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 28.85
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-04-30",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-05-03",
+    "comercio": "GOOGLE YOUTUBEPREMIUM",
+    "giro_comercio": "RENTA DE VIDEOS  (VIDEOS),",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-05-05",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-05-09",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMPUTADORAS EQUIPO PERIF DE COMPUTADORAS SOFTWARE",
+    "tipo_venta": "fisica",
+    "monto": 3.04
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-05-09",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMPUTADORAS EQUIPO PERIF DE COMPUTADORAS SOFTWARE",
+    "tipo_venta": "fisica",
+    "monto": 19.65
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-05-10",
+    "comercio": "DISNEY PLUS",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-05-22",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 28.85
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-05-30",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-06-03",
+    "comercio": "GOOGLE YOUTUBEPREMIUM",
+    "giro_comercio": "RENTA DE VIDEOS  (VIDEOS),",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-06-05",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-06-08",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMPUTADORAS EQUIPO PERIF DE COMPUTADORAS SOFTWARE",
+    "tipo_venta": "fisica",
+    "monto": 21.2
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-06-09",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMPUTADORAS EQUIPO PERIF DE COMPUTADORAS SOFTWARE",
+    "tipo_venta": "fisica",
+    "monto": 3.37
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-06-10",
+    "comercio": "DISNEY PLUS",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-06-20",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 2.19
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-06-22",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 28.85
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-06-30",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-07-03",
+    "comercio": "GOOGLE YOUTUBEPREMIUM",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 17.36
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-07-05",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-07-09",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMPUTADORAS EQUIPO PERIF DE COMPUTADORAS SOFTWARE",
+    "tipo_venta": "fisica",
+    "monto": 20.91
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-07-09",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMPUTADORAS EQUIPO PERIF DE COMPUTADORAS SOFTWARE",
+    "tipo_venta": "fisica",
+    "monto": 3.21
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-07-10",
+    "comercio": "DISNEY PLUS",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-07-20",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 2.19
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-07-22",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 28.85
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-07-30",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-08-03",
+    "comercio": "GOOGLE YOUTUBEPREMIUM",
+    "giro_comercio": "PRODUCCION Y DISTRIBUCION DE PELICULAS Y VIDEOS",
+    "tipo_venta": "fisica",
+    "monto": 17.36
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-08-05",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-08-09",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMPUTADORAS EQUIPO PERIF DE COMPUTADORAS SOFTWARE",
+    "tipo_venta": "fisica",
+    "monto": 3.51
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-08-09",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMPUTADORAS EQUIPO PERIF DE COMPUTADORAS SOFTWARE",
+    "tipo_venta": "fisica",
+    "monto": 22.15
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-08-10",
+    "comercio": "DISNEY PLUS",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 25.4
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-08-20",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 2.19
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-08-21",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 28.85
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-08-23",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 2.19
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-08-30",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-09-03",
+    "comercio": "GOOGLE YOUTUBEPREMIUM",
+    "giro_comercio": "PRODUCCION Y DISTRIBUCION DE PELICULAS Y VIDEOS",
+    "tipo_venta": "fisica",
+    "monto": 17.36
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-09-05",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-09-08",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMPUTADORAS EQUIPO PERIF DE COMPUTADORAS SOFTWARE",
+    "tipo_venta": "fisica",
+    "monto": 23.21
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-09-08",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMPUTADORAS EQUIPO PERIF DE COMPUTADORAS SOFTWARE",
+    "tipo_venta": "fisica",
+    "monto": 3.67
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-09-10",
+    "comercio": "DISNEY PLUS",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 25.4
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-09-20",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 2.19
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-09-22",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-09-22",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 2.19
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-09-30",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-10-03",
+    "comercio": "GOOGLE YOUTUBEPREMIUM",
+    "giro_comercio": "PRODUCCION Y DISTRIBUCION DE PELICULAS Y VIDEOS",
+    "tipo_venta": "fisica",
+    "monto": 17.36
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-10-05",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-10-08",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMPUTADORAS EQUIPO PERIF DE COMPUTADORAS SOFTWARE",
+    "tipo_venta": "fisica",
+    "monto": 22.45
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-10-08",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMPUTADORAS EQUIPO PERIF DE COMPUTADORAS SOFTWARE",
+    "tipo_venta": "fisica",
+    "monto": 3.44
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-10-10",
+    "comercio": "DISNEY PLUS",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 25.4
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-10-21",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-10-22",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 2.19
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-11-03",
+    "comercio": "GOOGLE YOUTUBEPREMIUM",
+    "giro_comercio": "RENTA DE VIDEOS  (VIDEOS),",
+    "tipo_venta": "fisica",
+    "monto": 17.36
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-11-05",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-11-08",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMPUTADORAS EQUIPO PERIF DE COMPUTADORAS SOFTWARE",
+    "tipo_venta": "fisica",
+    "monto": 8.29
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-11-09",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMPUTADORAS EQUIPO PERIF DE COMPUTADORAS SOFTWARE",
+    "tipo_venta": "fisica",
+    "monto": 23.35
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-11-10",
+    "comercio": "DISNEY PLUS",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 25.4
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-11-22",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-11-24",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-12-03",
+    "comercio": "GOOGLE YOUTUBEPREMIUM",
+    "giro_comercio": "PRODUCCION Y DISTRIBUCION DE PELICULAS Y VIDEOS",
+    "tipo_venta": "fisica",
+    "monto": 17.36
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-12-05",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-12-08",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMPUTADORAS EQUIPO PERIF DE COMPUTADORAS SOFTWARE",
+    "tipo_venta": "fisica",
+    "monto": 23.46
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-12-08",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMPUTADORAS EQUIPO PERIF DE COMPUTADORAS SOFTWARE",
+    "tipo_venta": "fisica",
+    "monto": 3.59
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-12-10",
+    "comercio": "DISNEY PLUS",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 25.4
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-12-22",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2022-12-22",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2023-01-03",
+    "comercio": "GOOGLE YOUTUBEPREMIUM",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 17.36
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2023-01-05",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 38.04
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2023-01-08",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMPUTADORAS EQUIPO PERIF DE COMPUTADORAS SOFTWARE",
+    "tipo_venta": "fisica",
+    "monto": 23.63
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2023-01-09",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMPUTADORAS EQUIPO PERIF DE COMPUTADORAS SOFTWARE",
+    "tipo_venta": "fisica",
+    "monto": 3.73
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2023-01-10",
+    "comercio": "DISNEY PLUS",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 25.4
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2023-01-22",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "BIENES DIGITALES JUEGOS",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "e65c8a934928117a59fec231cb8ec2fdf8c67100",
+    "fecha": "2023-01-24",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  }
+]

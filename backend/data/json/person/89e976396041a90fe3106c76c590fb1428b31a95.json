@@ -1,0 +1,2410 @@
+[
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-01-08",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 93.53
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-01-13",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-01-13",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 31.22
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-01-14",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 275.61
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-01-14",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 123.63
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-01-15",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 22.41
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-01-17",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 134.58
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-01-17",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 8.86
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-01-18",
+    "comercio": "CANVA",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-01-18",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-01-18",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 13.45
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-01-19",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 12.99
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-01-20",
+    "comercio": "SERV AGUA DREN",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 89.28
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-01-24",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 32.52
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-01-26",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 160.73
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-01-27",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 8.4
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-02-05",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 11.62
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-02-07",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-02-09",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 140.67
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-02-09",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 281.1
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-02-13",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-02-13",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 182.56
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-02-14",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-02-14",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 86.29
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-02-14",
+    "comercio": "RAPPI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 37.15
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-02-16",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-02-18",
+    "comercio": "CANVA",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-02-18",
+    "comercio": "RAPPI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 44.94
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-02-18",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-02-19",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 8.28
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-02-22",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 236.21
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-02-23",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 46.42
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-02-26",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 43.7
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-02-27",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-02-27",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 143.96
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-03-09",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-03-12",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-03-12",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "digital",
+    "monto": 11.5
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-03-15",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 62.39
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-03-15",
+    "comercio": "RAPPI",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 35.21
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-03-17",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 34.81
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-03-18",
+    "comercio": "CANVA",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-03-18",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-03-23",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-03-23",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 57.68
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-03-25",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 15.12
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-03-26",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 111.78
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-03-31",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 14.36
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-04-01",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 14.49
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-04-01",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 31.72
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-04-02",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 10.58
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-04-02",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 30.46
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-04-03",
+    "comercio": "RAPPI",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 32.05
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-04-04",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-04-08",
+    "comercio": "RAPPI",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 157.37
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-04-08",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 40.22
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-04-10",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-04-11",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.05
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-04-12",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-04-12",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-04-12",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 414.74
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-04-16",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-04-17",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 22.75
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-04-17",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-04-17",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-04-18",
+    "comercio": "CANVA",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-04-18",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-04-18",
+    "comercio": "CARLS JR",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 26.43
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-04-19",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 111.26
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-04-19",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-04-19",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 3.69
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-04-23",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-04-23",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-04-29",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 424.96
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-05-02",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "digital",
+    "monto": 27.58
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-05-02",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "fisica",
+    "monto": 113.52
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-05-07",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 19.31
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-05-08",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 15.18
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-05-13",
+    "comercio": "RAPPI",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-05-18",
+    "comercio": "CANVA",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-05-18",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-05-22",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-05-28",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 6.73
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-05-28",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-05-28",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-05-28",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.51
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-06-03",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-06-03",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 74.57
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-06-03",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 63.33
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-06-03",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 65.98
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-06-04",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 19.31
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-06-04",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 460.0
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-06-06",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 104.78
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-06-08",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 3.0
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-06-08",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 190.37
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-06-09",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 12.07
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-06-12",
+    "comercio": "RAPPIPRO",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-06-14",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 193.59
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-06-17",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 68.02
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-06-18",
+    "comercio": "CANVA",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-06-18",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-06-20",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-06-25",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 28.04
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-06-25",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 354.88
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-06-26",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 85.94
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-07-01",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "digital",
+    "monto": 27.24
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-07-01",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "fisica",
+    "monto": 12.19
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-07-04",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 2.6
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-07-06",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-07-06",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-07-08",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-07-08",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 50.02
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-07-08",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 32.29
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-07-08",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 53.65
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-07-16",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 14.72
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-07-16",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 381.19
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-07-16",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 26.89
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-07-18",
+    "comercio": "CANVA",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-07-18",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-07-18",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 43.01
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-07-19",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-07-20",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 66.33
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-07-20",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 67.03
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-07-20",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-07-21",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 13.11
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-07-22",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 252.75
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-08-03",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-08-07",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 306.98
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-08-12",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-08-18",
+    "comercio": "CANVA",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-08-18",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-08-18",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 21.27
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-08-18",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "digital",
+    "monto": 72.5
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-08-18",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-08-24",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-08-25",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-08-25",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-08-25",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.19
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-08-25",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 12.3
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-08-25",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 48.03
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-08-27",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 120.18
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-08-27",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-09-01",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 40.34
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-09-07",
+    "comercio": "CARLS JR",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 71.12
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-09-08",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 19.31
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-09-08",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "fisica",
+    "monto": 83.88
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-09-09",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 24.38
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-09-11",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 43.78
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-09-12",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-09-12",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-09-13",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 61.53
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-09-15",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 150.05
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-09-18",
+    "comercio": "CANVA",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-09-18",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "MEDIOS DE COMUNICACION DIGITAL LIBROS PELICULAS MU",
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-09-18",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 63.48
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-09-18",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-09-22",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-09-23",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-09-26",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 21.0
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-09-26",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 15.18
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-09-26",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 15.87
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-09-27",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 53.69
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-09-29",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "digital",
+    "monto": 42.52
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-09-29",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "fisica",
+    "monto": 71.81
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-10-01",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 13.11
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-10-02",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 9.66
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-10-02",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 397.09
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-10-03",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 149.99
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-10-06",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 19.77
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-10-06",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-10-07",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 289.51
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-10-11",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-10-12",
+    "comercio": "RAPPIPRO",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-10-14",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 13.22
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-10-15",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-10-18",
+    "comercio": "CANVA",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-10-18",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-10-18",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-10-27",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 75.52
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-10-29",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 20.69
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-10-29",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-10-29",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-10-29",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-11-01",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 173.14
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-11-03",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 17.36
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-11-05",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 10.81
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-11-05",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-11-08",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 223.01
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-11-11",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 19.08
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-11-11",
+    "comercio": "CARLS JR",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 23.79
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-11-11",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 137.07
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-11-12",
+    "comercio": "RAPPIPRO",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-11-12",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 397.09
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-11-12",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 71.81
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-11-16",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 39.76
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-11-18",
+    "comercio": "CANVA",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-11-18",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-11-18",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-11-20",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-11-20",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 274.12
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-11-20",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 3.19
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-11-20",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 27.01
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-11-20",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 24.11
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-11-20",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 22.49
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-11-20",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 7.69
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-11-20",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 9.19
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-11-20",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 29.96
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-11-20",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 84.45
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-11-21",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 113.77
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-11-22",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 110.39
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-11-23",
+    "comercio": "OXXO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 98.01
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-11-23",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-11-24",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 275.84
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-11-28",
+    "comercio": "CARLS JR",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 37.35
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-11-28",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 18.84
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-11-30",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "digital",
+    "monto": 41.14
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-11-30",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 19.55
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-11-30",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-12-02",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 39.59
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-12-03",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 18.62
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-12-04",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 39.59
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-12-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 39.59
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-12-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 39.59
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-12-07",
+    "comercio": "RAPPI",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 117.96
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-12-08",
+    "comercio": "RAPPI",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 93.17
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-12-09",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 46.54
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-12-10",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 68.23
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-12-11",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-12-11",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-12-11",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 30.23
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-12-11",
+    "comercio": "RAPPI",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 42.37
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-12-12",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 26.2
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-12-12",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 219.72
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-12-12",
+    "comercio": "HEB",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 42.22
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-12-12",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 90.42
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-12-18",
+    "comercio": "CANVA",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-12-18",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "PRODUCCION Y DISTRIBUCION DE PELICULAS Y VIDEOS",
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-12-18",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-12-18",
+    "comercio": "RAPPI",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 13.2
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-12-18",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-12-19",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "PRODUCCION Y DISTRIBUCION DE PELICULAS Y VIDEOS",
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-12-19",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 9.55
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-12-19",
+    "comercio": "HEB",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 440.47
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-12-19",
+    "comercio": "HEB",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 383.03
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-12-19",
+    "comercio": "HEB",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 440.47
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-12-20",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-12-21",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-12-22",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-12-23",
+    "comercio": "HEB",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 158.09
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-12-24",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-12-27",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-12-28",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "digital",
+    "monto": 41.14
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-12-28",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 407.85
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-12-29",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-12-29",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 15.52
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-12-29",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 20.69
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-12-30",
+    "comercio": "RAPPI",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 102.81
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-12-31",
+    "comercio": "HEB",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 291.01
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-12-31",
+    "comercio": "RAPPI",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 29.4
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2022-12-31",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2023-01-02",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 11.5
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2023-01-02",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2023-01-02",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "fisica",
+    "monto": 128.22
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2023-01-03",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 19.2
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2023-01-03",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 103.52
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2023-01-03",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 42.75
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2023-01-04",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2023-01-04",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 3.69
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2023-01-05",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2023-01-06",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2023-01-06",
+    "comercio": "HEB",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 47.57
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2023-01-06",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.61
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2023-01-07",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2023-01-08",
+    "comercio": "RAPPI",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 63.68
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2023-01-08",
+    "comercio": "SEARS",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 103.29
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2023-01-08",
+    "comercio": "SEARS",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 85.14
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2023-01-09",
+    "comercio": "RAPPI",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 32.04
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2023-01-09",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "RENTA DE VIDEOS  (VIDEOS),",
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2023-01-10",
+    "comercio": "RAPPI",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 51.57
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2023-01-11",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 3.69
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2023-01-13",
+    "comercio": "RAPPI",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 49.85
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2023-01-13",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "PRODUCCION Y DISTRIBUCION DE PELICULAS Y VIDEOS",
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2023-01-14",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 17.86
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2023-01-14",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "RENTA DE VIDEOS  (VIDEOS),",
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2023-01-15",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 31.15
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2023-01-15",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 385.08
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2023-01-15",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2023-01-15",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 64.71
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2023-01-15",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2023-01-17",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2023-01-18",
+    "comercio": "CANVA",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2023-01-18",
+    "comercio": "HEB",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 214.61
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2023-01-18",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2023-01-21",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 20.69
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2023-01-22",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 62.16
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2023-01-22",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 21.95
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2023-01-22",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 75.95
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2023-01-22",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2023-01-22",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 51.11
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2023-01-25",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 9.66
+  },
+  {
+    "id": "89e976396041a90fe3106c76c590fb1428b31a95",
+    "fecha": "2023-01-30",
+    "comercio": "HEB",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 125.58
+  }
+]

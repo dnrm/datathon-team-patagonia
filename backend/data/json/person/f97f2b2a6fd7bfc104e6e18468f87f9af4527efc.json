@@ -1,0 +1,2122 @@
+[
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-01-05",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 4.95
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-01-05",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 17.3
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-01-06",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 97.16
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-01-07",
+    "comercio": "COPPEL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 11.62
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-01-08",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 27.86
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-01-10",
+    "comercio": "OXXO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-01-10",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.13
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-01-12",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 126.29
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-01-13",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 24.6
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-01-25",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 6.79
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-01-26",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-01-27",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 94.33
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-02-02",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 18.16
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-02-16",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 11.5
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-02-16",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "fisica",
+    "monto": 49.53
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-02-16",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 28.62
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-02-19",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 84.11
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-02-21",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 11.96
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-03-01",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 15.47
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-03-02",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 43.55
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-03-04",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 77.79
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-03-06",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.6
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-03-08",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 98.89
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-03-09",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 12.59
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-03-10",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 39.88
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-03-10",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 61.13
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-03-16",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 7.65
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-03-16",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 7.65
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-03-23",
+    "comercio": "COPPEL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 40.22
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-03-28",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.71
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-03-28",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 28.39
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-03-28",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 24.08
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-03-28",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 127.76
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-04-04",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 128.58
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-04-04",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 308.69
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-04-05",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 18.57
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-04-06",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 41.6
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-04-13",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 32.41
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-04-15",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 30.8
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-04-17",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 3.92
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-04-18",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.76
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-04-19",
+    "comercio": "7ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 34.07
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-04-19",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 2.96
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-04-19",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 28.96
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-05-09",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 296.72
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-05-13",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 37.66
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-05-15",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 585.8
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-05-17",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 77.7
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-05-20",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 10.98
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-05-21",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 10.98
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-05-22",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 29.19
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-05-25",
+    "comercio": "7ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 29.65
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-05-26",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 75.49
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-05-26",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 11.79
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-05-27",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.69
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-05-29",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 26.32
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-05-31",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 49.41
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-06-02",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 32.13
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-06-02",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 679.86
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-06-05",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "fisica",
+    "monto": 55.16
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-06-12",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.97
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-06-14",
+    "comercio": "GOOGLE",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 45.62
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-06-14",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 36.3
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-06-15",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 121.44
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-06-18",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 39.65
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-06-18",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 188.92
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-06-20",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 64.2
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-06-22",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 506.67
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-06-23",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 11.84
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-06-25",
+    "comercio": "RAPPI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 43.36
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-06-26",
+    "comercio": "7ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.7
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-06-28",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 30.86
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-06-29",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 108.93
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-06-30",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "digital",
+    "monto": 23.91
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-07-03",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 73.61
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-07-05",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 88.83
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-07-06",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 21.98
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-07-07",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 98.93
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-07-08",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 3.69
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-07-10",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.42
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-07-10",
+    "comercio": "CARLS JR",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 22.53
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-07-11",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 6.67
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-07-12",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 22.45
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-07-12",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.71
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-07-13",
+    "comercio": "GOOGLE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 45.62
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-07-17",
+    "comercio": "RAPPI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 31.26
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-07-17",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.17
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-07-17",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 46.03
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-07-19",
+    "comercio": "RAPPI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 34.83
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-07-19",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 424.04
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-07-21",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 18.87
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-07-22",
+    "comercio": "RAPPI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 24.75
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-07-23",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 26.31
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-07-25",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 21.84
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-07-25",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "fisica",
+    "monto": 20.46
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-07-27",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 70.66
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-07-27",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.3
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-07-28",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 17.82
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-07-29",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "fisica",
+    "monto": 73.42
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-07-29",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.58
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-07-30",
+    "comercio": "OXXO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-07-30",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.41
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-07-30",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 84.3
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-07-31",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.3
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-08-03",
+    "comercio": "RAPPI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 45.26
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-08-05",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.17
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-08-06",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.43
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-08-07",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 11.5
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-08-07",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 21.95
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-08-08",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.59
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-08-09",
+    "comercio": "RAPPI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 31.72
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-08-09",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.3
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-08-10",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 53.55
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-08-13",
+    "comercio": "GOOGLE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 45.62
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-08-13",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.3
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-08-15",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.59
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-08-16",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 32.01
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-08-16",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.97
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-08-19",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 32.12
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-08-19",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 3.1
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-08-19",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 144.65
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-08-20",
+    "comercio": "7ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.43
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-08-21",
+    "comercio": "RAPPI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 28.96
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-08-22",
+    "comercio": "CRUNCHYROLL",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 17.36
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-08-22",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.3
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-08-23",
+    "comercio": "7ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.6
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-08-23",
+    "comercio": "RAPPI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 33.79
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-08-24",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 11.73
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-08-27",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.4
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-08-28",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 6.09
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-08-28",
+    "comercio": "RAPPI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 27.57
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-08-29",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.51
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-08-29",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 10.47
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-08-29",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.93
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-08-30",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 24.4
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-08-30",
+    "comercio": "7ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 10.47
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-08-31",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 41.77
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-08-31",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 13.97
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-09-01",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 12.99
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-09-02",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 19.12
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-09-03",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.89
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-09-03",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 16.28
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-09-04",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 28.73
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-09-04",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 11.04
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-09-06",
+    "comercio": "OXXO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-09-06",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.66
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-09-06",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.03
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-09-09",
+    "comercio": "RAPPI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 34.51
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-09-09",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.3
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-09-10",
+    "comercio": "RAPPI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 16.28
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-09-10",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 10.24
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-09-11",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 32.18
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-09-12",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 12.88
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-09-12",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 21.88
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-09-17",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 32.99
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-09-18",
+    "comercio": "CARLS JR",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 18.39
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-09-19",
+    "comercio": "RAPPI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 24.4
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-09-20",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 19.66
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-09-20",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 31.37
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-09-20",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.58
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-09-22",
+    "comercio": "CRUNCHYROLL",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 17.36
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-09-25",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 17.82
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-09-27",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 18.11
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-09-27",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.88
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-09-28",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": NaN,
+    "tipo_venta": "digital",
+    "monto": 34.11
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-09-30",
+    "comercio": "OXXO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-10-02",
+    "comercio": "CARLS JR",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 22.99
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-10-04",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.58
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-10-05",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.3
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-10-06",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.68
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-10-08",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.19
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-10-08",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 33.12
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-10-13",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 25.63
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-10-15",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-10-16",
+    "comercio": "RAPPI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 22.29
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-10-19",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 14.66
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-10-22",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.46
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-10-22",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 18.81
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-10-22",
+    "comercio": "CRUNCHYROLL",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 17.36
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-10-23",
+    "comercio": "7ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.48
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-10-24",
+    "comercio": "RAPPI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 24.4
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-10-24",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 22.18
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-10-24",
+    "comercio": "OXXO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-10-24",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 6.85
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-10-24",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "fisica",
+    "monto": 18.97
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-10-25",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 18.11
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-10-25",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 13.91
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-10-28",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 28.73
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-10-28",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": NaN,
+    "tipo_venta": "digital",
+    "monto": 34.68
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-10-28",
+    "comercio": "7ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 12.53
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-10-29",
+    "comercio": "OXXO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-10-31",
+    "comercio": "RAPPI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 21.04
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-11-01",
+    "comercio": "RAPPI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 30.01
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-11-01",
+    "comercio": "RAPPI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 121.68
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-11-01",
+    "comercio": "7ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.76
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-11-04",
+    "comercio": "RAPPI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 19.08
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-11-08",
+    "comercio": "7ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 48.84
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-11-08",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 61.47
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-11-09",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 47.68
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-11-09",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 26.55
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-11-10",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 195.4
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-11-10",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 191.01
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-11-12",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 24.07
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-11-12",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.3
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-11-13",
+    "comercio": "RAPPIPRO",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-11-14",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 6.33
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-11-14",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.3
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-11-14",
+    "comercio": "RAPPI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 24.07
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-11-14",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 96.53
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-11-15",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 96.53
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-11-15",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 96.53
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-11-15",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-11-15",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.07
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-11-16",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 15.81
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-11-16",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 10.47
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-11-16",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 28.5
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-11-16",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 6.9
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-11-18",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 10.58
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-11-19",
+    "comercio": "RAPPI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 32.42
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-11-19",
+    "comercio": "RAPPI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 32.42
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-11-21",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 211.05
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-11-21",
+    "comercio": "COSTCO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-11-21",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.3
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-11-22",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 25.43
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-11-24",
+    "comercio": "RAPPI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 46.14
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-11-28",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": NaN,
+    "tipo_venta": "digital",
+    "monto": 35.4
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-11-30",
+    "comercio": "7ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.64
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-11-30",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 27.53
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-12-02",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 22.56
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-12-05",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 12.99
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-12-08",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.71
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-12-09",
+    "comercio": "RAPPI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 22.56
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-12-10",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 86.58
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-12-10",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.53
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-12-12",
+    "comercio": "RAPPIPRO",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-12-14",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 26.43
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-12-15",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 10.24
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-12-15",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-12-20",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 32.12
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-12-21",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 265.28
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-12-24",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 52.17
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-12-26",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.82
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-12-28",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": NaN,
+    "tipo_venta": "digital",
+    "monto": 35.14
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2022-12-28",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.11
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2023-01-04",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 33.67
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2023-01-05",
+    "comercio": "RAPPI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 48.25
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2023-01-08",
+    "comercio": "OXXO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 57.68
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2023-01-08",
+    "comercio": "HEB",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 110.79
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2023-01-09",
+    "comercio": "ADOBE",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 46.08
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2023-01-12",
+    "comercio": "RAPPIPRO",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2023-01-13",
+    "comercio": "RAPPI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 29.82
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2023-01-13",
+    "comercio": "HEB",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 145.45
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2023-01-15",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2023-01-15",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 149.47
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2023-01-15",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2023-01-16",
+    "comercio": "RAPPI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 42.55
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2023-01-17",
+    "comercio": "RAPPI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 20.02
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2023-01-18",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 55.4
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2023-01-22",
+    "comercio": "RAPPI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 37.13
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2023-01-23",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 35.18
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2023-01-28",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": NaN,
+    "tipo_venta": "digital",
+    "monto": 35.66
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2023-01-29",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 18.63
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2023-01-30",
+    "comercio": "RAPPI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 12.18
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2023-01-30",
+    "comercio": "RAPPI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.29
+  },
+  {
+    "id": "f97f2b2a6fd7bfc104e6e18468f87f9af4527efc",
+    "fecha": "2023-01-30",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  }
+]

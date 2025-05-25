@@ -1,0 +1,5090 @@
+[
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-01",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-02",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-02",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 35.51
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-02",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 14.02
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-02",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 17.46
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-04",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 16.67
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-04",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 15.37
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-04",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 15.17
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-05",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.47
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-06",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 122.02
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-06",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 3.11
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-06",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 23.88
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-08",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 19.59
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-08",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 19.91
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-08",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.84
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-08",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 26.43
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-08",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.84
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-09",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 20.57
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-09",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 21.14
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-09",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 31.26
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-09",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.89
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-10",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 20.42
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-10",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-11",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 12.39
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-11",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 19.16
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-11",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 4.54
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-11",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.69
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-11",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.89
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-12",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 12.6
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-12",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 1.78
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-12",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.5
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-14",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 24.25
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-15",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 4.49
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-15",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.41
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-15",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 22.84
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-16",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 19.89
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-16",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 20.08
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-16",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 2.53
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-16",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 41.29
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-17",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 12.94
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-18",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 19.92
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-18",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 20.0
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-18",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 18.05
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-18",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.06
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-18",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 13.96
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-19",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.6
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-20",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-20",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 20.92
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-20",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 24.85
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-22",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.55
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-22",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 13.68
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-22",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 13.73
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-23",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 13.48
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-25",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 17.42
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-25",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-26",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.76
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-27",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-28",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 13.39
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-29",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.55
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-30",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 37.03
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-30",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 11.84
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-31",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.92
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-31",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 40.45
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-31",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-01-31",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 13.76
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-02-01",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-02-04",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 42.63
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-02-06",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 18.74
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-02-07",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 16.67
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-02-07",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 34.38
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-02-09",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 19.08
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-02-10",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 14.6
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-02-10",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 42.22
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-02-14",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 12.65
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-02-15",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 17.59
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-02-15",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 13.84
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-02-15",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 26.06
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-02-15",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 26.29
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-02-17",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 35.79
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-02-19",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 23.15
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-02-19",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 23.44
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-02-20",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-02-20",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 47.17
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-02-24",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 22.98
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-02-27",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 2.0
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-02-27",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 21.95
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-02-28",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 38.0
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-03-01",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 20.54
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-03-01",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 14.91
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-03-01",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 19.08
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-03-01",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 118.93
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-03-01",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 6.02
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-03-03",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 12.53
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-03-03",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 17.24
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-03-03",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 19.77
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-03-04",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 19.53
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-03-05",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 43.32
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-03-07",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 21.61
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-03-07",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 35.12
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-03-07",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 22.08
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-03-08",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 17.7
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-03-10",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 20.55
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-03-10",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 23.68
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-03-11",
+    "comercio": "DIDI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 18.51
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-03-12",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 3.55
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-03-12",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 49.46
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-03-13",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 15.52
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-03-13",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 26.1
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-03-15",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 15.24
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-03-16",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 26.43
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-03-17",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 59.28
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-03-17",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 3.26
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-03-18",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 29.39
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-03-19",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 37.03
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-03-19",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 15.98
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-03-19",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 14.76
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-03-20",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 14.65
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-03-21",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 43.05
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-03-21",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 14.0
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-03-22",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 17.92
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-03-22",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 63.12
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-03-22",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-03-23",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 37.76
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-03-24",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 37.17
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-03-28",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 15.88
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-03-28",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 16.09
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-03-28",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 12.16
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-03-28",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 27.32
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-03-30",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 27.44
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-04-01",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 29.06
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-04-02",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 51.28
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-04-05",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.01
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-04-05",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-04-07",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 27.38
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-04-07",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 37.1
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-04-09",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.98
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-04-09",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 13.17
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-04-10",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 43.06
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-04-11",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 64.76
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-04-11",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 3.74
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-04-14",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 21.99
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-04-14",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 22.32
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-04-15",
+    "comercio": "DIDI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-04-15",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 15.17
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-04-18",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 11.83
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-04-18",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 11.86
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-04-18",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 41.56
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-04-19",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-04-19",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 23.26
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-04-19",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 18.05
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-04-20",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 16.23
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-04-21",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 16.18
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-04-21",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 26.42
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-04-21",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 62.6
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-04-21",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-04-23",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 27.99
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-04-23",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 14.58
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-04-26",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 12.79
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-04-26",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.28
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-04-26",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 15.2
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-04-30",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 26.78
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-05-02",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 20.33
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-05-03",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 20.3
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-05-03",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 20.43
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-05-03",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 14.9
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-05-05",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-05-12",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-05-17",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 21.15
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-05-17",
+    "comercio": "DIDI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-05-17",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.45
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-05-17",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 12.25
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-05-18",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 19.75
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-05-20",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-05-23",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 14.49
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-05-23",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 13.49
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-05-24",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 15.76
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-05-27",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 14.13
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-05-31",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 15.03
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-06-03",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 15.85
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-06-05",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-06-05",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 16.19
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-06-06",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.58
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-06-06",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.19
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-06-06",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.21
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-06-07",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.71
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-06-07",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.48
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-06-11",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 20.69
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-06-12",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 21.62
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-06-13",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 17.04
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-06-14",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.3
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-06-14",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 14.59
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-06-17",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 20.39
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-06-17",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-06-17",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 14.87
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-06-18",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.42
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-06-18",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 14.37
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-06-19",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 21.63
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-06-19",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 15.08
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-06-20",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-06-20",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.14
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-06-20",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 29.65
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-06-21",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.09
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-06-22",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 20.82
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-06-23",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 24.71
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-06-23",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.46
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-06-24",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 2.72
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-06-26",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.46
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-06-26",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.88
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-06-27",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.46
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-06-27",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.48
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-06-27",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 17.43
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-06-28",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.46
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-06-28",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.82
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-06-29",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 74.37
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-06-30",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-02",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 12.76
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-03",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.75
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-04",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 34.41
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-04",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.49
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-04",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.85
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-04",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.77
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-05",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.75
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-05",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 38.8
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-05",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.32
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-05",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-06",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 23.56
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-07",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 15.52
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-07",
+    "comercio": "TOTALPLAY",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 73.65
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-07",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 18.74
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-08",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.85
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-08",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 22.64
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-09",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 45.96
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-09",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 17.07
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-10",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.75
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-11",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.85
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-11",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 84.24
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-15",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.83
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-15",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 70.55
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-16",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 4.04
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-16",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 54.41
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-18",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.46
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-18",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 17.93
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-18",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-18",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.55
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-19",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.92
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-19",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.33
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-20",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 14.35
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-21",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 8.17
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-21",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 40.17
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-22",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.14
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-22",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.94
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-22",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.46
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-22",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 26.09
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-22",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 44.98
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-22",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 26.87
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-23",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.46
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-24",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.51
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-24",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.53
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-25",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.46
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-25",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 32.41
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-26",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 3.46
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-26",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 26.29
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-26",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 26.66
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-27",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 12.99
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-27",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.73
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-27",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 13.58
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-27",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 34.23
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-27",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.83
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-29",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.4
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-29",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.79
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-29",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 23.79
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-31",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.46
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-31",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 16.47
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-31",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 21.38
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-31",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.16
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-31",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.09
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-07-31",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 19.08
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-01",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.96
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-01",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.35
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-01",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 29.54
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-02",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.46
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-02",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.04
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-02",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.24
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-03",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 12.99
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-03",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 15.75
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-03",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 37.96
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-05",
+    "comercio": "TOTALPLAY",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 59.75
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-05",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-06",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 21.61
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-07",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 3.46
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-08",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.37
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-08",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 19.08
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-08",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 17.42
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-12",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.87
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-13",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.46
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-13",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.46
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-15",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 31.15
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-15",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 40.31
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-17",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 10.22
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-19",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.52
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-20",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.55
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-20",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 35.05
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-20",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 26.72
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-21",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 8.17
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-21",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.55
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-21",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.8
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-21",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.43
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-21",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 20.3
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-22",
+    "comercio": "DIDI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 19.15
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-22",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 2.22
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-22",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.87
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-22",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.88
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-22",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 12.99
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-23",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.06
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-23",
+    "comercio": "DIDI",
+    "giro_comercio": "SERVICIOS DE TRANSPORTE -NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 4.06
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-23",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.06
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-24",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.59
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-24",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.46
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-24",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.78
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-24",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.14
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-24",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.83
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-24",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.02
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-24",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.1
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-25",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.33
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-26",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.41
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-27",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.61
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-27",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 19.77
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-28",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.58
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-28",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.47
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-29",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.63
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-30",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.6
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-31",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 15.29
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-31",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.56
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-31",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.51
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-08-31",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.84
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-01",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 26.37
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-03",
+    "comercio": "TOTALPLAY",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 59.87
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-03",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.26
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-03",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 11.21
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-04",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.21
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-04",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 12.99
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-05",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.06
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-05",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-06",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.97
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-07",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.36
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-07",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.56
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-07",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.17
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-10",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.66
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-11",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.6
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-11",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 18.57
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-11",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.96
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-11",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 60.39
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-11",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 12.18
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-11",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.53
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-12",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.57
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-12",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 36.75
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-13",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 3.52
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-14",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.99
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-14",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.61
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-14",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 14.27
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-15",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.67
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-15",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.86
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-15",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 32.67
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-16",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 29.59
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-18",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.57
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-19",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.52
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-19",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.89
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-20",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.61
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-20",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.65
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-21",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 8.17
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-21",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.35
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-21",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.18
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-21",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 15.66
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-21",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 12.99
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-22",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.39
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-23",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.58
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-23",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 28.85
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-24",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.81
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-24",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.83
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-24",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.42
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-25",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.82
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-25",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 21.39
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-26",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.56
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-27",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.55
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-27",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 3.79
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-27",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 56.76
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-28",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.89
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-28",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.91
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-30",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.1
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-09-30",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 49.41
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-01",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 12.99
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-01",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.71
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-01",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 26.2
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-02",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.84
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-02",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 19.08
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-02",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.83
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-03",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.89
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-04",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.48
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-05",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.99
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-05",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-05",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.91
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-06",
+    "comercio": "TOTALPLAY",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 59.87
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-07",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.0
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-08",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.68
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-08",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 20.76
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-08",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 12.99
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-09",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 33.63
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-09",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.06
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-09",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.1
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-10",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.64
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-10",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 26.96
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-11",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.83
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-12",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.11
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-12",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.53
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-13",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 22.19
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-14",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.07
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-14",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.33
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-14",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 12.76
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-15",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.53
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-15",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.27
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-15",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 17.66
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-16",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 23.53
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-18",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.94
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-18",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 16.55
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-18",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.67
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-18",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.69
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-19",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.28
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-19",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.05
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-20",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-20",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 16.55
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-21",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.01
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-21",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 25.4
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-22",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 8.17
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-22",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 4.17
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-22",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.97
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-23",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.67
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-24",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.93
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-25",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.95
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-25",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 37.58
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-26",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.7
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-26",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.91
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-27",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.56
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-29",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.38
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-29",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.15
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-29",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 3.73
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-29",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.92
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-10-30",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 71.31
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-01",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.98
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-01",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 13.52
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-02",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.58
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-03",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.91
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-04",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 1.51
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-04",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 24.25
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-05",
+    "comercio": "TOTALPLAY",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 59.87
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-05",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-06",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.83
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-07",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.0
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-08",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.37
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-08",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.53
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-08",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.94
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-09",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 16.55
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-11",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.37
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-12",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.57
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-12",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 4.17
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-12",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 31.95
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-13",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 4.17
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-13",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.83
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-14",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 4.17
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-15",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 24.94
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-15",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 27.96
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-15",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 1.64
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-15",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.83
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-16",
+    "comercio": "DIDI",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 22.18
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-16",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.42
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-18",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.66
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-19",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.81
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-19",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.12
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-20",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.47
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-20",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 14.31
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-20",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.57
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-21",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 4.62
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-21",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 28.24
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-21",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.83
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-21",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 20.31
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-22",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 8.17
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-22",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 28.19
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-23",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 20.69
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-24",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 23.14
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-25",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.7
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-26",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 29.16
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-26",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 4.39
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-26",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 25.29
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-27",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 14.02
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-27",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 14.08
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-27",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.91
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-28",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.33
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-28",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 32.11
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-28",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 36.46
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-29",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.55
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-30",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 53.02
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-11-30",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 53.04
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-01",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 22.99
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-01",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.72
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-01",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 11.72
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-01",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.83
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-01",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 24.02
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-01",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 3.95
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-01",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.66
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-02",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 1.56
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-02",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.84
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-02",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.87
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-02",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.87
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-03",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.15
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-03",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.18
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-03",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 4.17
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-03",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 3.95
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-03",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 80.65
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-03",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 2.91
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-04",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.83
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-05",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.58
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-05",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-06",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 3.62
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-06",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.75
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-06",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 22.99
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-06",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 16.53
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-07",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 17.14
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-07",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 17.52
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-07",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.67
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-08",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 17.74
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-09",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.44
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-10",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.63
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-11",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.62
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-11",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.62
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-11",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.84
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-12",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.84
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-13",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 4.17
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-13",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.7
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-13",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 25.18
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-13",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.59
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-13",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.15
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-13",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 4.83
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-15",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.84
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-15",
+    "comercio": "TOTALPLAY",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 63.43
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-15",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 21.76
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-16",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.14
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-16",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 42.4
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-17",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 4.17
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-18",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.34
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-18",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.68
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-19",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.35
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-19",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.83
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-19",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.85
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-19",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.08
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-19",
+    "comercio": "DIDI",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-21",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.16
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-21",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.66
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-23",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 8.17
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-23",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.52
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-24",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 4.17
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-24",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.04
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-26",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 33.56
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-26",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 32.06
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-27",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 14.05
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-29",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 20.58
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-29",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 1.48
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-30",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.87
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-30",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.87
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-30",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.88
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-30",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.88
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-31",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.88
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-31",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 160.4
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2022-12-31",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-01",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 30.15
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-02",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-03",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.94
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-03",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.59
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-03",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 73.12
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-03",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-03",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.43
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-04",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.25
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-05",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 25.45
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-05",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-06",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.57
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-06",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.65
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-06",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 29.77
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-06",
+    "comercio": "TOTALPLAY",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 57.57
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-07",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.4
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-07",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.42
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-08",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.42
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-09",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.47
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-09",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.55
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-10",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.34
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-10",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.45
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-11",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.14
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-12",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 19.63
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-12",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.02
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-13",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.45
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-14",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.79
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-15",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 3.59
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-15",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 40.31
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-16",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 6.03
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-16",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.0
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-16",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.45
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-16",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.65
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-17",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.5
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-17",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 22.8
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-17",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 3.09
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-17",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.04
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-18",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-18",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.94
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-19",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 31.83
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-19",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 22.35
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-20",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.68
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-20",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 18.83
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-21",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.68
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-21",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 3.3
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-22",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.53
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-22",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 41.69
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-23",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 8.17
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-23",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.83
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-24",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.48
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-25",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.14
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-25",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.27
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-25",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.93
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-25",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.5
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-25",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 31.15
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-25",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.51
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-26",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 17.8
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-27",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.83
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-27",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 16.69
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-28",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.49
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-28",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.1
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-28",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.12
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-28",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.92
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-29",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.33
+  },
+  {
+    "id": "ed00f4cce1a9a62a9f711199c7e49470057584bf",
+    "fecha": "2023-01-30",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.55
+  }
+]

@@ -1,0 +1,1842 @@
+[
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-01-05",
+    "comercio": "MEGACABLE",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 51.94
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-01-18",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-01-21",
+    "comercio": "TULOTERO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-02-05",
+    "comercio": "COPPEL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 75.72
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-02-05",
+    "comercio": "SMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 17.24
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-02-06",
+    "comercio": "MEGACABLE",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 51.94
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-02-06",
+    "comercio": "ALSUPER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 8.84
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-02-12",
+    "comercio": "ALSUPER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.73
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-02-12",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 8.95
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-02-15",
+    "comercio": "ALSUPER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 6.49
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-02-17",
+    "comercio": "ALSUPER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.46
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-02-17",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-02-19",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "fisica",
+    "monto": 15.52
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-02-19",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 18.89
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-02-23",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 3.69
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-02-26",
+    "comercio": "SMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 16.25
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-02-27",
+    "comercio": "SMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 10.99
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-03-01",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 30.0
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-03-02",
+    "comercio": "ALSUPER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 47.42
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-03-02",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 1.64
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-03-06",
+    "comercio": "MEGACABLE",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 51.94
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-03-06",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 41.37
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-03-06",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 28.96
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-03-07",
+    "comercio": "SMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 22.62
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-03-09",
+    "comercio": "ALSUPER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 48.95
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-03-15",
+    "comercio": "COPPEL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-03-15",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.3
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-03-17",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 14.6
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-03-17",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.4
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-03-18",
+    "comercio": "ALSUPER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 90.77
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-03-18",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.28
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-03-18",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-03-22",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 26.55
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-03-23",
+    "comercio": "ALSUPER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 47.16
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-03-30",
+    "comercio": "ALSUPER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 9.42
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-04-01",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 19.91
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-04-02",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "fisica",
+    "monto": 211.97
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-04-02",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 4.26
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-04-04",
+    "comercio": "ALSUPER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 32.4
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-04-04",
+    "comercio": "SMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 38.47
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-04-05",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.91
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-04-06",
+    "comercio": "MEGACABLE",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 51.94
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-04-06",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 37.91
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-04-08",
+    "comercio": "ALSUPER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 30.8
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-04-10",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 6.55
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-04-12",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 2.71
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-04-17",
+    "comercio": "ALSUPER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 24.44
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-04-17",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-04-18",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 26.55
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-04-19",
+    "comercio": "ALSUPER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 24.81
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-04-23",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 3.69
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-04-23",
+    "comercio": "ALSUPER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 24.09
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-04-23",
+    "comercio": "ALSUPER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 10.09
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-04-23",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.34
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-04-24",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 10.58
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-04-30",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 20.58
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-05-02",
+    "comercio": "ALSUPER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 56.76
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-05-05",
+    "comercio": "MEGACABLE",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 51.94
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-05-06",
+    "comercio": "ALSUPER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 10.57
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-05-10",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 12.88
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-05-12",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 16.78
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-05-13",
+    "comercio": "ALSUPER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 32.4
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-05-14",
+    "comercio": "SMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 7.12
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-05-14",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 1.74
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-05-15",
+    "comercio": "ALSUPER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 61.39
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-05-16",
+    "comercio": "SMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 11.96
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-05-17",
+    "comercio": "MEGACABLE",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 46.19
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-05-17",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-05-18",
+    "comercio": "MEGACABLE",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 46.19
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-05-22",
+    "comercio": "ALSUPER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 7.67
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-05-24",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 2.83
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-05-25",
+    "comercio": "SMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 23.08
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-05-29",
+    "comercio": "SMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 53.1
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-05-30",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "fisica",
+    "monto": 531.69
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-05-30",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-06-01",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 41.47
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-06-03",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 1.96
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-06-03",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 3.57
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-06-04",
+    "comercio": "ALSUPER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.29
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-06-06",
+    "comercio": "ALSUPER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 6.64
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-06-07",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 46.08
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-06-08",
+    "comercio": "ALSUPER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 31.72
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-06-09",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 4.84
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-06-11",
+    "comercio": "ALSUPER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 6.15
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-06-12",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-06-12",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 5.58
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-06-13",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 4.94
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-06-14",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 4.26
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-06-16",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-06-17",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 6.33
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-06-17",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 10.2
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-06-18",
+    "comercio": "ALSUPER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 4.93
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-06-21",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 8.28
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-06-22",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.68
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-06-23",
+    "comercio": "SMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 26.27
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-06-25",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 12.76
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-06-27",
+    "comercio": "ALSUPER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 24.33
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-06-27",
+    "comercio": "ALSUPER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 21.66
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-06-30",
+    "comercio": "NETFLIX",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-07-01",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 3.42
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-07-01",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 1.45
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-07-02",
+    "comercio": "SMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 3.69
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-07-04",
+    "comercio": "MEGACABLE",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 46.19
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-07-11",
+    "comercio": "MEGACABLE",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 46.19
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-07-15",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.71
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-07-16",
+    "comercio": "SMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 42.86
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-07-16",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-07-20",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.57
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-07-30",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-07-30",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-07-30",
+    "comercio": "ALSUPER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 122.71
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-08-01",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-08-04",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 17.48
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-08-05",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 9.52
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-08-07",
+    "comercio": "MEGACABLE",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 46.19
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-08-08",
+    "comercio": "SMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 23.22
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-08-15",
+    "comercio": "RENTAMOVISTAR",
+    "giro_comercio": "EQUIPOS DE TELECOMUNICACION,VTA DE TELEFONOS",
+    "tipo_venta": "digital",
+    "monto": 57.56
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-08-15",
+    "comercio": "SMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 45.13
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-08-15",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-08-16",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 7.94
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-08-16",
+    "comercio": "COPPEL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 55.16
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-08-18",
+    "comercio": "SMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 49.53
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-08-20",
+    "comercio": "ALSUPER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 36.31
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-08-27",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 12.97
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-08-30",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-08-31",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 32.64
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-09-03",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 26.99
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-09-05",
+    "comercio": "MEGACABLE",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 46.19
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-09-05",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 12.53
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-09-10",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 24.1
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-09-14",
+    "comercio": "ALSUPER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 62.14
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-09-14",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-09-17",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 24.02
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-09-18",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 2.6
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-09-18",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 2.77
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-09-21",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.99
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-09-21",
+    "comercio": "SMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 27.41
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-09-23",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 1.85
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-09-23",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 19.79
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-09-24",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 3.69
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-09-25",
+    "comercio": "RENTAMOVISTAR",
+    "giro_comercio": "EQUIPOS DE TELECOMUNICACION,VTA DE TELEFONOS",
+    "tipo_venta": "digital",
+    "monto": 57.56
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-09-25",
+    "comercio": "SMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 27.07
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-09-26",
+    "comercio": "OXXO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 23.22
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-09-26",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 43.21
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-09-29",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 25.45
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-09-30",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-10-01",
+    "comercio": "ALSUPER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 62.92
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-10-04",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "fisica",
+    "monto": 269.87
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-10-05",
+    "comercio": "MEGACABLE",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 46.19
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-10-05",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.55
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-10-07",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 9.07
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-10-09",
+    "comercio": "ALSUPER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.67
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-10-10",
+    "comercio": "SMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 2.54
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-10-12",
+    "comercio": "ALSUPER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 47.32
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-10-13",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 9.43
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-10-14",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 4.95
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-10-14",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-10-15",
+    "comercio": "ALSUPER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 4.83
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-10-16",
+    "comercio": "SMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 8.51
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-10-18",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 3.22
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-10-18",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.2
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-10-19",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 4.2
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-10-20",
+    "comercio": "SMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 33.91
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-10-21",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 12.82
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-10-22",
+    "comercio": "RENTAMOVISTAR",
+    "giro_comercio": "EQUIPOS DE TELECOMUNICACION,VTA DE TELEFONOS",
+    "tipo_venta": "digital",
+    "monto": 57.56
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-10-22",
+    "comercio": "ALSUPER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 2.88
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-10-25",
+    "comercio": "SMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 39.23
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-10-27",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 7.29
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-10-28",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 4.39
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-10-29",
+    "comercio": "SMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 7.82
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-10-30",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-10-31",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 4.26
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-10-31",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 19.31
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-11-02",
+    "comercio": "ALSUPER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 48.84
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-11-08",
+    "comercio": "MEGACABLE",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 40.45
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-11-10",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 22.38
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-11-12",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 2.65
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-11-12",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 12.99
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-11-13",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 2.83
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-11-13",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-11-14",
+    "comercio": "OXXO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 46.19
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-11-16",
+    "comercio": "COPPEL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 38.5
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-11-16",
+    "comercio": "SMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 27.25
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-11-17",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 6.7
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-11-19",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 3.45
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-11-22",
+    "comercio": "TELEFONICA",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 57.56
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-11-24",
+    "comercio": "SMART",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 11.4
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-11-25",
+    "comercio": "ALSUPER",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 18.62
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-11-27",
+    "comercio": "ALSUPER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 2.31
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-11-30",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-11-30",
+    "comercio": "ALSUPER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.47
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-12-01",
+    "comercio": "ALSUPER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 66.37
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-12-03",
+    "comercio": "OXXO GAS",
+    "giro_comercio": "ESTACIONES DE SERVICIO, GASOLINERIAS TODO TRANSPOR",
+    "tipo_venta": "fisica",
+    "monto": 11.73
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-12-03",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 4.26
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-12-03",
+    "comercio": "ALSUPER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 7.92
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-12-04",
+    "comercio": "MEGACABLE",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 40.45
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-12-04",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 2.14
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-12-10",
+    "comercio": "SORIANA",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 43.44
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-12-11",
+    "comercio": "SORIANA",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 3.45
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-12-12",
+    "comercio": "ALSUPER",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 18.81
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-12-13",
+    "comercio": "RENTAMOVISTAR",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 57.56
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-12-13",
+    "comercio": "SORIANA",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 24.29
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-12-13",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-12-14",
+    "comercio": "ALSUPER",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 55.24
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-12-14",
+    "comercio": "SORIANA",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 4.47
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-12-19",
+    "comercio": "SORIANA",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 2.88
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-12-20",
+    "comercio": "ALSUPER",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 7.82
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2022-12-30",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 13.91
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2023-01-07",
+    "comercio": "MEGACABLE",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 40.45
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2023-01-12",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2023-01-15",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 103.77
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2023-01-16",
+    "comercio": "ALSUPER",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 82.36
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2023-01-17",
+    "comercio": "SMART",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 40.58
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2023-01-17",
+    "comercio": "SMART",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 2.42
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2023-01-18",
+    "comercio": "ALSUPER",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 4.81
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2023-01-18",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 18.51
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2023-01-18",
+    "comercio": "SMART",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 13.68
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2023-01-19",
+    "comercio": "SORIANA",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 54.44
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2023-01-22",
+    "comercio": "SORIANA",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 22.68
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2023-01-22",
+    "comercio": "RENTAMOVISTAR",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 57.56
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2023-01-23",
+    "comercio": "SORIANA",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 120.52
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2023-01-24",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2023-01-24",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 243.91
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2023-01-25",
+    "comercio": "ALSUPER",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 34.92
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2023-01-25",
+    "comercio": "ALSUPER",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 13.11
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2023-01-28",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.34
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2023-01-28",
+    "comercio": "ALSUPER",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 15.74
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2023-01-30",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 13.91
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2023-01-30",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 13.91
+  },
+  {
+    "id": "e7a86bf5f62bcac9ca4c7003175e5366d759b284",
+    "fecha": "2023-01-30",
+    "comercio": "SORIANA",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 24.94
+  }
+]

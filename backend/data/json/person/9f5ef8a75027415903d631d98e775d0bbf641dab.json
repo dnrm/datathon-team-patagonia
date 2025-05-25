@@ -1,0 +1,1834 @@
+[
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-01-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-01-06",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 12.48
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-01-12",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-01-15",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 294.75
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-01-15",
+    "comercio": "TOTALPLAY",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 201.97
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-01-17",
+    "comercio": "TELCEL",
+    "giro_comercio": "COMPUTADORAS EQUIPO PERIF DE COMPUTADORAS SOFTWARE",
+    "tipo_venta": "digital",
+    "monto": 148.83
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-01-20",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 18.74
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-01-21",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 35.28
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-01-28",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 11.62
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-01-30",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 2.02
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-01-30",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 115.12
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-02-01",
+    "comercio": "SMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 17.93
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-02-03",
+    "comercio": "NETFLIX",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-02-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-02-09",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "digital",
+    "monto": 128.9
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-02-10",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 11.04
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-02-12",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-02-14",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 267.29
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-02-14",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 127.0
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-02-16",
+    "comercio": "TELCEL",
+    "giro_comercio": "COMPUTADORAS EQUIPO PERIF DE COMPUTADORAS SOFTWARE",
+    "tipo_venta": "digital",
+    "monto": 142.52
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-02-18",
+    "comercio": "URBANI",
+    "giro_comercio": "SERVICIOS DE TRANSPORTE -NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-02-23",
+    "comercio": "CARLS JR",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 25.97
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-02-24",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 13.57
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-03-02",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 12.67
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-03-02",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-03-03",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.38
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-03-04",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 115.12
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-03-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-03-09",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.74
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-03-10",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 34.48
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-03-12",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-03-14",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 267.29
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-03-14",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 279.38
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-03-16",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.89
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-03-16",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 115.12
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-03-20",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 142.52
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-03-29",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.6
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-03-30",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 107.91
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-04-02",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-04-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-04-08",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 57.68
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-04-08",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 24.89
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-04-09",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 43.09
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-04-12",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 153.95
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-04-12",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 267.29
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-04-12",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-04-15",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 57.68
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-04-17",
+    "comercio": "TOTALPLAY",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 201.97
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-04-18",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.11
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-04-20",
+    "comercio": "7ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 24.94
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-04-23",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 17.36
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-04-26",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 6.73
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-04-29",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 3.92
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-04-30",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 16.15
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-04-30",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 11.15
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-05-01",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 3.86
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-05-02",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-05-04",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-05-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-05-05",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 27.58
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-05-07",
+    "comercio": "RAPPI",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 22.2
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-05-12",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-05-15",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 267.29
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-05-15",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 130.98
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-05-15",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 138.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-05-15",
+    "comercio": "TOTALPLAY",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 201.86
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-05-15",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 20.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-05-17",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 33.79
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-05-18",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 49.68
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-05-21",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-05-25",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 39.93
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-05-30",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-05-31",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 32.29
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-06-01",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 15.81
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-06-02",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-06-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-06-07",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 21.5
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-06-09",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-06-10",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-06-10",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-06-11",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-06-12",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-06-12",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-06-13",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-06-14",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 21.5
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-06-14",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 272.92
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-06-14",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 130.98
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-06-14",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-06-14",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 142.52
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-06-14",
+    "comercio": "TOTALPLAY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 205.42
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-06-14",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 28.85
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-06-14",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 115.12
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-06-14",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 65.15
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-06-21",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 21.5
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-06-21",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 21.5
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-06-22",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 21.5
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-06-22",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 28.04
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-06-23",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 21.5
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-06-23",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.25
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-06-24",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 21.5
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-06-25",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 21.5
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-06-26",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 21.5
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-06-28",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 21.5
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-06-30",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 40.68
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-07-01",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 21.5
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-07-02",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-07-02",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.13
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-07-03",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 104.44
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-07-04",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 9.66
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-07-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-07-05",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.55
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-07-07",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 23.45
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-07-07",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 7.47
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-07-07",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.26
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-07-09",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-07-09",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 45.85
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-07-10",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-07-10",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-07-11",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-07-12",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-07-12",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-07-13",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 295.9
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-07-13",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 130.98
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-07-13",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-07-13",
+    "comercio": "TOTALPLAY",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 205.42
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-07-13",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 115.12
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-07-14",
+    "comercio": "MICROSOFT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 28.85
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-07-18",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 128.91
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-07-19",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-07-30",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 574.65
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-07-30",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 86.86
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-08-02",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-08-02",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 7.42
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-08-03",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "digital",
+    "monto": 114.78
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-08-03",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-08-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-08-09",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-08-10",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-08-10",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-08-11",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-08-11",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 344.89
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-08-12",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-08-12",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-08-13",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-08-14",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-08-15",
+    "comercio": "TOTALPLAY",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 205.42
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-08-15",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 272.92
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-08-15",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 130.98
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-08-16",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-08-17",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.36
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-08-18",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 7.02
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-08-22",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 142.52
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-09-01",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 17.48
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-09-01",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 10.41
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-09-02",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-09-04",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 115.12
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-09-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-09-09",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-09-10",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-09-10",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-09-11",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-09-12",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-09-12",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-09-13",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-09-14",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-09-14",
+    "comercio": "TOTALPLAY",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 205.42
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-09-16",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-09-17",
+    "comercio": "TELCEL",
+    "giro_comercio": "COMPUTADORAS EQUIPO PERIF DE COMPUTADORAS SOFTWARE",
+    "tipo_venta": "digital",
+    "monto": 142.52
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-09-17",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 88.07
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-09-27",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 115.12
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-10-02",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-10-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-10-09",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-10-10",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-10-10",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-10-11",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-10-12",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-10-12",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-10-13",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-10-14",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-10-16",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-10-16",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 115.12
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-10-18",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-10-21",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-10-22",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.89
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-10-27",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 16.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-11-02",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-11-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-11-06",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 88.47
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-11-09",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-11-12",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-11-14",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "fisica",
+    "monto": 43.09
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-11-14",
+    "comercio": "HEB",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 12.65
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-11-15",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 272.92
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-11-15",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 130.98
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-11-15",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 115.12
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-11-15",
+    "comercio": "TOTALPLAY",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 205.51
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-11-15",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 272.92
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-11-15",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 272.92
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-11-20",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 64.35
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-11-28",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "fisica",
+    "monto": 44.82
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-11-29",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 115.12
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-12-02",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-12-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-12-09",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-12-12",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-12-14",
+    "comercio": "TOTALPLAY",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 205.42
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-12-14",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 130.98
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-12-14",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 272.92
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-12-16",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-12-16",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 71.09
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-12-20",
+    "comercio": "7ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 11.33
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-12-22",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.57
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-12-23",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 413.7
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2022-12-31",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 115.12
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2023-01-02",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 38.04
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2023-01-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2023-01-09",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2023-01-12",
+    "comercio": "GOOGLE YOUTUBE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 16.21
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2023-01-14",
+    "comercio": "TOTALPLAY",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 205.42
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2023-01-14",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 267.29
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2023-01-14",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 130.98
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2023-01-15",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2023-01-15",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 115.12
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2023-01-15",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 143.69
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2023-01-18",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 14.37
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2023-01-25",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 25.52
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2023-01-29",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.78
+  },
+  {
+    "id": "9f5ef8a75027415903d631d98e775d0bbf641dab",
+    "fecha": "2023-01-29",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.72
+  }
+]

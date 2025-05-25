@@ -1,0 +1,1394 @@
+[
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-01-13",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 297.02
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-01-15",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-01-26",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-01-26",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-01-28",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-01-30",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-01-30",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-01-30",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 28.27
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-02-07",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.33
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-02-14",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 341.35
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-02-14",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 46.31
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-02-15",
+    "comercio": "SUPERAMA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 39.2
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-02-15",
+    "comercio": "SUPERAMA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 19.89
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-02-15",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-02-16",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 20.35
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-02-20",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 22.76
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-02-26",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-02-26",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-02-27",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-02-28",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-02-28",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-02-28",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 10.48
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-02-28",
+    "comercio": "SUPERAMA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 123.36
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-03-08",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 26.78
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-03-14",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 334.94
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-03-14",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 186.42
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-03-15",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-03-15",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 30.0
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-03-15",
+    "comercio": "CANVA",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-03-16",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 21.95
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-03-19",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 26.43
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-03-20",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 62.85
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-03-20",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 22.3
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-03-20",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 65.14
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-03-21",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 26.78
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-03-21",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 66.76
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-03-23",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 25.17
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-03-24",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 25.97
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-03-24",
+    "comercio": "SUPERAMA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 77.79
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-03-26",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-03-29",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-03-30",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-04-12",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-04-12",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 39.88
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-04-12",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 20.66
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-04-13",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 407.49
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-04-15",
+    "comercio": "CANVA",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-04-26",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-04-26",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-04-27",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-04-29",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-04-30",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-05-01",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 42.52
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-05-13",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-05-13",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 401.02
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-05-13",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 27.12
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-05-15",
+    "comercio": "SUPERAMA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 22.24
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-05-15",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 14.49
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-05-15",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 17.47
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-05-15",
+    "comercio": "CANVA",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-05-26",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-05-26",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-05-28",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-05-29",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-05-30",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-06-02",
+    "comercio": "SUPERAMA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 31.95
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-06-02",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 37.92
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-06-13",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 355.24
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-06-15",
+    "comercio": "CANVA",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-06-20",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 12.88
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-06-25",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-06-25",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 63.77
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-06-25",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 32.98
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-06-25",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 18.28
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-06-26",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 42.45
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-06-26",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-06-26",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-06-27",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 39.76
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-07-01",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 67.74
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-07-06",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 31.16
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-07-08",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 64.46
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-07-08",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 53.89
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-07-08",
+    "comercio": "SUPERAMA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 178.15
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-07-09",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 52.17
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-07-10",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 37.35
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-07-12",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 6.85
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-07-14",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 336.66
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-07-15",
+    "comercio": "CANVA",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-07-20",
+    "comercio": "CANVA",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-07-21",
+    "comercio": "CANVA",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-07-23",
+    "comercio": "CANVA",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-07-25",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 21.34
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-07-26",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-07-29",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 13.45
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-07-29",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 30.46
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-07-30",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 55.38
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-08-14",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 368.27
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-08-15",
+    "comercio": "CANVA",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-08-26",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-08-26",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-08-27",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-08-29",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-08-29",
+    "comercio": "SUPERAMA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 147.36
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-08-29",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 41.25
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-08-31",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 53.41
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-09-01",
+    "comercio": "SUPERAMA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 59.74
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-09-11",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 356.52
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-09-15",
+    "comercio": "CANVA",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-09-26",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-09-26",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-09-27",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-09-28",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-09-28",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 35.53
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-09-29",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 13.94
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-10-15",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 367.86
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-10-15",
+    "comercio": "CANVA",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-10-18",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 44.24
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-10-26",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-10-26",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-11-02",
+    "comercio": "SUPERAMA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 118.0
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-11-02",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-11-03",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 38.15
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-11-09",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 51.94
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-11-09",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 53.09
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-11-11",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 10.92
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-11-14",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 321.91
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-11-15",
+    "comercio": "CANVA",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 17.36
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-11-26",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-11-26",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-11-27",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-11-28",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-11-29",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 57.57
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-11-30",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-11-30",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 37.41
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-12-02",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.05
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-12-03",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 30.49
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-12-10",
+    "comercio": "SUPERAMA",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 450.1
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-12-11",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-12-11",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 198.95
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-12-11",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 93.07
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-12-12",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 402.33
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-12-12",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 156.17
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-12-12",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 68.99
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-12-12",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 68.99
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-12-12",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 68.99
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-12-12",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 68.99
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-12-12",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 68.99
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-12-15",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 64.92
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-12-15",
+    "comercio": "CANVA",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 139.13
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-12-20",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 29.42
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-12-22",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 28.39
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-12-24",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 76.06
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-12-26",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 28.85
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-12-26",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-12-27",
+    "comercio": "SUPERAMA",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 64.86
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-12-29",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 58.26
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-12-30",
+    "comercio": "SUPERAMA",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 50.49
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-12-30",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 31.15
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2022-12-31",
+    "comercio": "UBER EATS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 35.97
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2023-01-01",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 27.01
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2023-01-04",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 27.12
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2023-01-08",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 25.06
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2023-01-11",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2023-01-12",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 40.45
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2023-01-12",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2023-01-14",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 321.65
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2023-01-15",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 37.12
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2023-01-26",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 28.85
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2023-01-26",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 28.85
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2023-01-28",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 28.85
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2023-01-29",
+    "comercio": "NETFLIX",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 28.85
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2023-01-29",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2023-01-29",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "f6d3f859ffd9ce50b28578db7b3452e109c82a4f",
+    "fecha": "2023-01-30",
+    "comercio": "SUPERAMA",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 89.62
+  }
+]

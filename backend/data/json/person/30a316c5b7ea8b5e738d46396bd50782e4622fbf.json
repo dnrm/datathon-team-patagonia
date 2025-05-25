@@ -1,0 +1,1890 @@
+[
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-01-01",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-01-06",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 56.34
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-01-06",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 322.55
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-01-06",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 498.43
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-01-06",
+    "comercio": "WAL-MART",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 97.89
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-01-09",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 36.4
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-01-12",
+    "comercio": "COPPEL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "digital",
+    "monto": 193.59
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-01-14",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 18.16
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-01-16",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-01-17",
+    "comercio": "GOOGLE AMAZON MOBILE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 11.62
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-01-20",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 74.57
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-01-26",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 28.27
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-01-26",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 39.19
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-01-26",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "digital",
+    "monto": 52.33
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-01-27",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 1.96
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-01-30",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 82.71
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-01-30",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-01-31",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 96.17
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-02-03",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 16.7
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-02-03",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 397.26
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-02-03",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 461.49
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-02-07",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "fisica",
+    "monto": 23.56
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-02-07",
+    "comercio": "COPPEL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "digital",
+    "monto": 193.59
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-02-17",
+    "comercio": "GOOGLE AMAZON MOBILE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 11.62
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-02-18",
+    "comercio": "GOOGLE AMAZON MOBILE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 11.62
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-02-19",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-02-19",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-02-19",
+    "comercio": "GOOGLE AMAZON MOBILE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 11.62
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-02-20",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 46.06
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-02-24",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 44.01
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-03-01",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "digital",
+    "monto": 58.09
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-03-01",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 201.75
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-03-01",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 30.0
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-03-03",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 497.41
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-03-03",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 479.24
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-03-05",
+    "comercio": "WAL-MART",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 5.64
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-03-08",
+    "comercio": "COPPEL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "digital",
+    "monto": 193.59
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-03-09",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 56.3
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-03-16",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-03-17",
+    "comercio": "GOOGLE AMAZON MOBILE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 11.62
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-03-17",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 7.25
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-03-20",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 11.33
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-03-24",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 2.31
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-03-26",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 74.79
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-03-30",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 59.78
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-03-30",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 36.56
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-03-30",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 425.75
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-03-30",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 519.03
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-03-30",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 74.91
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-03-31",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-04-03",
+    "comercio": "COPPEL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "digital",
+    "monto": 193.59
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-04-05",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "fisica",
+    "monto": 35.17
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-04-13",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 6.96
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-04-13",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 88.18
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-04-13",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 207.03
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-04-14",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-04-17",
+    "comercio": "GOOGLE AMAZON MOBILE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 11.62
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-04-19",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-04-19",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 44.81
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-04-27",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 470.15
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-04-27",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 29.42
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-04-27",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 504.83
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-04-27",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 272.86
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-04-27",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 34.71
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-05-03",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 81.7
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-05-03",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 11.73
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-05-05",
+    "comercio": "COPPEL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 193.59
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-05-12",
+    "comercio": "SHEIN",
+    "giro_comercio": "BOUTIQUES ROPA - PARA TODA LA FAMILIA",
+    "tipo_venta": "digital",
+    "monto": 340.84
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-05-12",
+    "comercio": "SHEIN",
+    "giro_comercio": "BOUTIQUES ROPA - PARA TODA LA FAMILIA",
+    "tipo_venta": "digital",
+    "monto": 340.84
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-05-12",
+    "comercio": "SHEIN",
+    "giro_comercio": "BOUTIQUES ROPA - PARA TODA LA FAMILIA",
+    "tipo_venta": "digital",
+    "monto": 340.84
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-05-14",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-05-15",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 7.71
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-05-15",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 29.75
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-05-15",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 33.66
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-05-17",
+    "comercio": "GOOGLE AMAZON MOBILE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 11.62
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-05-18",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 129.35
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-05-18",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "digital",
+    "monto": 87.81
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-05-18",
+    "comercio": "SUPERAMA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 11.62
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-05-23",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.86
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-05-25",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 27.16
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-05-25",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 358.52
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-05-25",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 571.61
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-05-25",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 187.17
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-05-27",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 5.24
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-05-28",
+    "comercio": "COPPEL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "digital",
+    "monto": 168.77
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-05-28",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-06-04",
+    "comercio": "SHEIN",
+    "giro_comercio": "BOUTIQUES ROPA - PARA TODA LA FAMILIA",
+    "tipo_venta": "digital",
+    "monto": 160.12
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-06-08",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 49.99
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-06-11",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 28.82
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-06-11",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 11.73
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-06-11",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-06-14",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-06-15",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "fisica",
+    "monto": 42.75
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-06-16",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "fisica",
+    "monto": 87.44
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-06-17",
+    "comercio": "GOOGLE AMAZON MOBILE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 11.62
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-06-22",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 497.85
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-06-22",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-06-22",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 429.58
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-06-25",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-06-28",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 46.63
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-06-30",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 25.95
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-07-02",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 4.84
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-07-09",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-07-13",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 61.94
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-07-13",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 23.19
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-07-13",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 35.74
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-07-14",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-07-17",
+    "comercio": "GOOGLE AMAZON MOBILE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 11.62
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-07-20",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 9.53
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-07-20",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 31.61
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-07-20",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 455.05
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-07-20",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 485.21
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-07-23",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-07-24",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-07-27",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.38
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-08-03",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 19.2
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-08-04",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "fisica",
+    "monto": 32.75
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-08-10",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "fisica",
+    "monto": 19.54
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-08-11",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "fisica",
+    "monto": 43.9
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-08-13",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-08-17",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 47.87
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-08-17",
+    "comercio": "GOOGLE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 11.62
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-08-17",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 418.7
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-08-17",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 356.34
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-08-17",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 230.01
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-08-18",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-08-19",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-08-20",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-08-24",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-08-25",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-08-26",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 14.59
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-08-26",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-08-31",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 31.61
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-09-03",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-09-05",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 28.81
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-09-05",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 22.16
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-09-05",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 46.08
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-09-06",
+    "comercio": "SHEIN",
+    "giro_comercio": "BOUTIQUES ROPA - PARA TODA LA FAMILIA",
+    "tipo_venta": "digital",
+    "monto": 165.1
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-09-06",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 22.52
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-09-07",
+    "comercio": "WAL-MART",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 14.43
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-09-12",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-09-13",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 412.56
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-09-13",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 20.23
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-09-13",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 461.68
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-09-13",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 25.4
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-09-17",
+    "comercio": "GOOGLE",
+    "giro_comercio": "SERV PROC DATOS - DISENO Y PROGRAM DE SISTEMAS",
+    "tipo_venta": "fisica",
+    "monto": 11.62
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-09-17",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-09-20",
+    "comercio": "SHEIN",
+    "giro_comercio": "BOUTIQUES ROPA - PARA TODA LA FAMILIA",
+    "tipo_venta": "digital",
+    "monto": 37.9
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-09-21",
+    "comercio": "CARLS JR",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 25.52
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-09-24",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-09-26",
+    "comercio": "SHEIN",
+    "giro_comercio": "BOUTIQUES ROPA - PARA TODA LA FAMILIA",
+    "tipo_venta": "digital",
+    "monto": 62.81
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-09-28",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 105.53
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-09-28",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-09-28",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.03
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-09-28",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 89.74
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-10-02",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 67.45
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-10-02",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-10-05",
+    "comercio": "BAE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 39.24
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-10-06",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "fisica",
+    "monto": 24.02
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-10-12",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-10-12",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 17.36
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-10-12",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 417.91
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-10-12",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 414.58
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-10-12",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 264.11
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-10-14",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 146.56
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-10-16",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-10-17",
+    "comercio": "GOOGLE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 11.62
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-10-19",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 196.53
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-10-22",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 172.65
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-10-24",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-10-25",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 115.12
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-10-25",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 44.02
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-10-26",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 4.89
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-10-30",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-11-02",
+    "comercio": "WAL-MART",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 92.99
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-11-03",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 17.28
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-11-03",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 129.9
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-11-03",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 126.5
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-11-06",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 63.77
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-11-09",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "ABARROTES, CARNICERIAS, PESCADERIAS, MISCELANEAS,",
+    "tipo_venta": "fisica",
+    "monto": 30.21
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-11-09",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 67.55
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-11-09",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 382.09
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-11-09",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 529.28
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-11-11",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-11-17",
+    "comercio": "GOOGLE AMAZON MOBILE",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 11.62
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-11-24",
+    "comercio": "WAL-MART",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-11-24",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-11-25",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-11-27",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-11-28",
+    "comercio": "SHEIN",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 211.4
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-11-29",
+    "comercio": "SHEIN",
+    "giro_comercio": "BOUTIQUES ROPA - PARA TODA LA FAMILIA",
+    "tipo_venta": "digital",
+    "monto": 41.37
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-11-30",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 442.25
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-12-01",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 113.99
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-12-01",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 9.56
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-12-01",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 2.14
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-12-02",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-12-02",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 34.78
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-12-02",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 41.01
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-12-02",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 80.58
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-12-03",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 40.37
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-12-03",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 197.98
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-12-03",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 53.58
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-12-03",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 46.61
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-12-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 70.98
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-12-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 46.12
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-12-09",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 21.92
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-12-11",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 56.27
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-12-11",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-12-11",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-12-13",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "BIENES DIGITALES JUEGOS",
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-12-15",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 33.03
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-12-15",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 611.31
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-12-15",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 679.82
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-12-15",
+    "comercio": "SORIANA",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 93.39
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-12-17",
+    "comercio": "GOOGLE AMAZON MOBILE",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 11.62
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-12-20",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 152.68
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-12-21",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 31.95
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-12-22",
+    "comercio": "SORIANA",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 121.07
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-12-22",
+    "comercio": "WALMART",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 64.93
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-12-25",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-12-27",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "ABARROTES, CARNICERIAS, PESCADERIAS, MISCELANEAS,",
+    "tipo_venta": "fisica",
+    "monto": 8.51
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2022-12-28",
+    "comercio": "WALMART",
+    "giro_comercio": "4121",
+    "tipo_venta": "digital",
+    "monto": 100.07
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2023-01-09",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2023-01-10",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2023-01-12",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 111.99
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2023-01-17",
+    "comercio": "GOOGLE AMAZON MOBILE",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 11.62
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2023-01-18",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 46.43
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2023-01-18",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 551.96
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2023-01-18",
+    "comercio": "COSTCO",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 443.74
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2023-01-18",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 237.42
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2023-01-18",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 8.86
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2023-01-18",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 40.22
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2023-01-19",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "CINES, TEATROS",
+    "tipo_venta": "fisica",
+    "monto": 42.86
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2023-01-21",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 23.22
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2023-01-21",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "30a316c5b7ea8b5e738d46396bd50782e4622fbf",
+    "fecha": "2023-01-23",
+    "comercio": "MI ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  }
+]

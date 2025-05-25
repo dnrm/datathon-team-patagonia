@@ -1,0 +1,1634 @@
+[
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-01-03",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 13.8
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-01-05",
+    "comercio": "TOTAL PASS",
+    "giro_comercio": "CLUBS DEPORTIVOS MEMBRESIAS, CLUB CAMPESTRE",
+    "tipo_venta": "digital",
+    "monto": 49.53
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-01-07",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 86.84
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-01-15",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.89
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-01-19",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 45.27
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-01-20",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-01-21",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 70.75
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-01-22",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.36
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-01-23",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 75.83
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-01-26",
+    "comercio": "TOTAL PASS",
+    "giro_comercio": "CLUBS DEPORTIVOS MEMBRESIAS, CLUB CAMPESTRE",
+    "tipo_venta": "digital",
+    "monto": 49.53
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-02-05",
+    "comercio": "TOTAL PASS",
+    "giro_comercio": "CLUBS DEPORTIVOS MEMBRESIAS, CLUB CAMPESTRE",
+    "tipo_venta": "digital",
+    "monto": 49.53
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-02-13",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 7.02
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-02-13",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 90.24
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-02-13",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 49.25
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-02-13",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 13.47
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-02-13",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.43
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-02-19",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-02-22",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 75.95
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-02-26",
+    "comercio": "TOTAL PASS",
+    "giro_comercio": "CLUBS DEPORTIVOS MEMBRESIAS, CLUB CAMPESTRE",
+    "tipo_venta": "digital",
+    "monto": 49.53
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-02-27",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 45.33
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-02-28",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 58.63
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-03-04",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 205.31
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-03-05",
+    "comercio": "TOTAL PASS",
+    "giro_comercio": "CLUBS DEPORTIVOS MEMBRESIAS, CLUB CAMPESTRE",
+    "tipo_venta": "digital",
+    "monto": 49.53
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-03-08",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 13.91
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-03-08",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 54.1
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-03-10",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 52.85
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-03-16",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 51.38
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-03-18",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 43.85
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-03-20",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-03-21",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 75.83
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-03-26",
+    "comercio": "TOTAL PASS",
+    "giro_comercio": "CLUBS DEPORTIVOS MEMBRESIAS, CLUB CAMPESTRE",
+    "tipo_venta": "digital",
+    "monto": 49.53
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-04-05",
+    "comercio": "TOTAL PASS",
+    "giro_comercio": "CLUBS DEPORTIVOS MEMBRESIAS, CLUB CAMPESTRE",
+    "tipo_venta": "digital",
+    "monto": 49.53
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-04-06",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 68.77
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-04-11",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 22.01
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-04-14",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 107.11
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-04-17",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 165.67
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-04-19",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-04-19",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 72.31
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-04-19",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.34
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-04-19",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 27.12
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-04-19",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.34
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-04-19",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 298.82
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-04-20",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 75.83
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-04-24",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 56.21
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-04-26",
+    "comercio": "TOTAL PASS",
+    "giro_comercio": "CLUBS DEPORTIVOS MEMBRESIAS, CLUB CAMPESTRE",
+    "tipo_venta": "digital",
+    "monto": 49.53
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-04-30",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 7.48
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-05-04",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 44.51
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-05-04",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 57.97
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-05-05",
+    "comercio": "TOTAL PASS",
+    "giro_comercio": "CLUBS DEPORTIVOS MEMBRESIAS, CLUB CAMPESTRE",
+    "tipo_venta": "digital",
+    "monto": 71.35
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-05-05",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 22.76
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-05-05",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 91.23
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-05-06",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 48.06
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-05-08",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 12.19
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-05-14",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 87.88
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-05-15",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 31.55
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-05-19",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-05-21",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 11.86
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-05-21",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 41.13
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-05-23",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 75.83
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-05-26",
+    "comercio": "TOTAL PASS",
+    "giro_comercio": "CLUBS DEPORTIVOS MEMBRESIAS, CLUB CAMPESTRE",
+    "tipo_venta": "digital",
+    "monto": 71.35
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-05-28",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 198.49
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-05-29",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 27.05
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-06-05",
+    "comercio": "TOTAL PASS",
+    "giro_comercio": "CLUBS DEPORTIVOS MEMBRESIAS, CLUB CAMPESTRE",
+    "tipo_venta": "digital",
+    "monto": 71.35
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-06-06",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 205.31
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-06-11",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 115.12
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-06-12",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 17.23
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-06-17",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-06-18",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-06-19",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.57
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-06-19",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 113.78
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-06-21",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 63.31
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-06-21",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 12.65
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-06-22",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 158.32
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-06-26",
+    "comercio": "TOTAL PASS",
+    "giro_comercio": "CLUBS DEPORTIVOS MEMBRESIAS, CLUB CAMPESTRE",
+    "tipo_venta": "digital",
+    "monto": 71.35
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-06-26",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 41.8
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-06-29",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 27.75
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-06-29",
+    "comercio": "TEMU",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 70.64
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-07-02",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 63.43
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-07-04",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 50.22
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-07-04",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 41.78
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-07-05",
+    "comercio": "TOTAL PASS",
+    "giro_comercio": "CLUBS DEPORTIVOS MEMBRESIAS, CLUB CAMPESTRE",
+    "tipo_venta": "digital",
+    "monto": 71.35
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-07-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 47.56
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-07-09",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 34.96
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-07-10",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 32.3
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-07-12",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 8.95
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-07-15",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-07-16",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 208.7
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-07-17",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 146.02
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-07-18",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-07-18",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 232.79
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-07-21",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 44.82
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-07-23",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 63.31
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-07-24",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 137.26
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-07-26",
+    "comercio": "TOTAL PASS",
+    "giro_comercio": "CLUBS DEPORTIVOS MEMBRESIAS, CLUB CAMPESTRE",
+    "tipo_venta": "digital",
+    "monto": 71.35
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-07-26",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 119.72
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-07-28",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 50.87
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-07-31",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 25.05
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-08-01",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 73.87
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-08-05",
+    "comercio": "TOTAL PASS",
+    "giro_comercio": "CLUBS DEPORTIVOS MEMBRESIAS, CLUB CAMPESTRE",
+    "tipo_venta": "digital",
+    "monto": 71.35
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-08-05",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 261.88
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-08-05",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 367.87
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-08-07",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 55.76
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-08-08",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 205.31
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-08-12",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-08-12",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 54.94
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-08-12",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 127.1
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-08-17",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-08-18",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 62.62
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-08-21",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 74.57
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-08-21",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 18.85
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-08-21",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 16.78
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-08-24",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 329.38
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-08-26",
+    "comercio": "TOTAL PASS",
+    "giro_comercio": "CLUBS DEPORTIVOS MEMBRESIAS, CLUB CAMPESTRE",
+    "tipo_venta": "digital",
+    "monto": 71.35
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-08-26",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-08-27",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 22.48
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-08-28",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 19.82
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-08-29",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 26.78
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-08-30",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 31.35
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-09-02",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-09-02",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 20.64
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-09-02",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 19.89
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-09-03",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 119.02
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-09-08",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 12.42
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-09-08",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 66.28
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-09-10",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 64.58
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-09-11",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 153.33
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-09-12",
+    "comercio": "TOTAL PASS",
+    "giro_comercio": "CLUBS DEPORTIVOS MEMBRESIAS, CLUB CAMPESTRE",
+    "tipo_venta": "digital",
+    "monto": 71.35
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-09-16",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-09-19",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 110.07
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-09-21",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 74.68
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-09-23",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 12.57
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-09-25",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 244.87
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-09-26",
+    "comercio": "TOTAL PASS",
+    "giro_comercio": "CLUBS DEPORTIVOS MEMBRESIAS, CLUB CAMPESTRE",
+    "tipo_venta": "digital",
+    "monto": 71.35
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-10-04",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 172.65
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-10-04",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 6.73
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-10-08",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 60.7
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-10-13",
+    "comercio": "TOTAL PASS",
+    "giro_comercio": "CLUBS DEPORTIVOS MEMBRESIAS, CLUB CAMPESTRE",
+    "tipo_venta": "digital",
+    "monto": 71.35
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-10-14",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 157.04
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-10-15",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 43.78
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-10-16",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-10-19",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 24.83
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-10-19",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 47.33
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-10-22",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 74.68
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-10-22",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 30.48
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-10-23",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 37.76
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-10-24",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 67.56
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-10-26",
+    "comercio": "TOTAL PASS",
+    "giro_comercio": "CLUBS DEPORTIVOS MEMBRESIAS, CLUB CAMPESTRE",
+    "tipo_venta": "digital",
+    "monto": 71.35
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-10-27",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 38.2
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-10-29",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-10-29",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 165.16
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-10-30",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 205.97
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-11-02",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 73.52
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-11-04",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 36.89
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-11-06",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 96.28
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-11-11",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 142.34
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-11-12",
+    "comercio": "TOTAL PASS",
+    "giro_comercio": "CLUBS DEPORTIVOS MEMBRESIAS, CLUB CAMPESTRE",
+    "tipo_venta": "digital",
+    "monto": 71.35
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-11-12",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 124.33
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-11-15",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-11-16",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 7.35
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-11-21",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 167.15
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-11-23",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 74.68
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-11-25",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 6.09
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-11-26",
+    "comercio": "TOTAL PASS",
+    "giro_comercio": "CLUBS DEPORTIVOS MEMBRESIAS, CLUB CAMPESTRE",
+    "tipo_venta": "digital",
+    "monto": 71.35
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-11-27",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 48.15
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-11-28",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 67.6
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-12-01",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 25.47
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-12-01",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 59.43
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-12-02",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 25.43
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-12-03",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 157.41
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-12-04",
+    "comercio": "HEB",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 31.7
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-12-09",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "4121",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-12-10",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "4121",
+    "tipo_venta": "digital",
+    "monto": 76.75
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-12-12",
+    "comercio": "TOTAL PASS",
+    "giro_comercio": "CLUBS DEPORTIVOS MEMBRESIAS, CLUB CAMPESTRE",
+    "tipo_venta": "digital",
+    "monto": 71.35
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-12-13",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.43
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-12-14",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "4121",
+    "tipo_venta": "digital",
+    "monto": 28.83
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-12-15",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-12-18",
+    "comercio": "HEB",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 31.08
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-12-20",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "4121",
+    "tipo_venta": "digital",
+    "monto": 64.69
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-12-20",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "4121",
+    "tipo_venta": "digital",
+    "monto": 77.01
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-12-21",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 74.68
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-12-26",
+    "comercio": "TOTAL PASS",
+    "giro_comercio": "CLUBS DEPORTIVOS MEMBRESIAS, CLUB CAMPESTRE",
+    "tipo_venta": "digital",
+    "monto": 71.35
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-12-27",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 61.36
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2022-12-29",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "4121",
+    "tipo_venta": "digital",
+    "monto": 72.23
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2023-01-02",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "4121",
+    "tipo_venta": "digital",
+    "monto": 140.96
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2023-01-03",
+    "comercio": "HEB",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 25.72
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2023-01-05",
+    "comercio": "HEB",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 59.75
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2023-01-05",
+    "comercio": "HEB",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 23.22
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2023-01-09",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "4121",
+    "tipo_venta": "digital",
+    "monto": 18.33
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2023-01-12",
+    "comercio": "TOTAL PASS",
+    "giro_comercio": "CLUBS DEPORTIVOS MEMBRESIAS, CLUB CAMPESTRE",
+    "tipo_venta": "digital",
+    "monto": 71.35
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2023-01-12",
+    "comercio": "HEB",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 29.98
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2023-01-12",
+    "comercio": "HEB",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 9.43
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2023-01-13",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "4121",
+    "tipo_venta": "digital",
+    "monto": 33.73
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2023-01-14",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2023-01-16",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "4121",
+    "tipo_venta": "digital",
+    "monto": 150.38
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2023-01-20",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "4121",
+    "tipo_venta": "digital",
+    "monto": 5.41
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2023-01-22",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 74.68
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2023-01-23",
+    "comercio": "HEB",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 53.15
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2023-01-24",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 44.22
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2023-01-24",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 21.19
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2023-01-25",
+    "comercio": "HEB",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 49.62
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2023-01-25",
+    "comercio": "HEB",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 10.45
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2023-01-26",
+    "comercio": "TOTAL PASS",
+    "giro_comercio": "CLUBS DEPORTIVOS MEMBRESIAS, CLUB CAMPESTRE",
+    "tipo_venta": "digital",
+    "monto": 71.35
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2023-01-27",
+    "comercio": "CASHI ECOMMERCE",
+    "giro_comercio": "4121",
+    "tipo_venta": "digital",
+    "monto": 146.37
+  },
+  {
+    "id": "c77e1638401cf69ef9c46de6611929466b739b06",
+    "fecha": "2023-01-30",
+    "comercio": "HEB",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 27.6
+  }
+]

@@ -1,0 +1,2658 @@
+[
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-01-12",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 149.36
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-01-12",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 77.44
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-01-12",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 20.35
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-01-12",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 2.94
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-01-13",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 11.22
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-01-14",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 19.54
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-01-21",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 7.82
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-01-24",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 18.66
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-01-25",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 7.82
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-01-25",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 8.86
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-01-27",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 4.09
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-01-27",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 5.41
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-01-27",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 5.3
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-02-10",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 5.82
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-02-10",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 6.79
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-02-15",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 8.28
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-02-15",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 12.58
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-02-16",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 7.41
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-02-17",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 4.26
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-02-18",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 1.69
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-02-18",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 11.13
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-02-20",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 12.65
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-02-20",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 4.61
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-02-22",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 5.53
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-02-22",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 2.71
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-02-23",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 21.5
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-02-24",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 17.93
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-02-25",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 5.8
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-02-25",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 51.36
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-02-28",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 86.63
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-02-28",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 66.18
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-02-28",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-02-28",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-02-28",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 37.83
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-02-28",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 28.39
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-03-02",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 37.06
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-03-03",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 31.43
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-03-03",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.74
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-03-06",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 2.77
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-03-07",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 12.48
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-03-07",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 59.41
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-03-07",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.17
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-03-08",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 5.53
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-03-08",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 23.9
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-03-08",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 12.53
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-03-09",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 29.31
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-03-10",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 52.31
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-03-10",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.41
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-03-12",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 8.28
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-03-14",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 44.45
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-03-14",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 38.61
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-03-15",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 174.4
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-03-17",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 12.93
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-03-18",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 41.3
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-03-23",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 7.33
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-03-23",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 43.09
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-03-23",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 34.13
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-03-23",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.53
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-03-23",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 35.84
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-03-24",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 9.66
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-03-24",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 11.75
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-03-24",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 3.34
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-03-24",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 7.7
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-03-26",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 5.99
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-03-27",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 12.42
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-03-27",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 27.07
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-03-27",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 7.04
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-03-28",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 28.04
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-03-29",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 22.43
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-03-30",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 6.55
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-04-04",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 11.95
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-04-05",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 35.34
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-04-06",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 32.8
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-04-08",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 86.52
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-04-12",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 33.33
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-04-13",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 8.63
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-04-13",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 11.35
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-04-13",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.15
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-04-18",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 31.88
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-04-19",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 8.97
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-04-19",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.44
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-04-20",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 5.01
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-04-21",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.49
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-04-21",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 3.57
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-04-21",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 9.2
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-04-23",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.53
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-04-26",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-04-27",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 1.5
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-04-30",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 23.85
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-04-30",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 15.41
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-04-30",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 10.81
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-04-30",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 3.4
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-05-02",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 33.61
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-05-02",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 23.44
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-05-03",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 6.43
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-05-03",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 9.36
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-05-03",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 12.59
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-05-04",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.03
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-05-04",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 11.21
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-05-06",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 8.47
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-05-07",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 2.54
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-05-08",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 48.89
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-05-10",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 18.14
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-05-10",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 61.36
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-05-11",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 9.91
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-05-11",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 1.96
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-05-13",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.15
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-05-14",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 86.75
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-05-14",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 7.54
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-05-14",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.15
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-05-15",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 27.99
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-05-16",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 16.87
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-05-18",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.99
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-05-18",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.56
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-05-19",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 7.11
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-05-21",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 26.12
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-05-31",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 70.09
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-05-31",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 8.17
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-05-31",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 8.81
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-06-07",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 56.48
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-06-13",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.3
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-06-14",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.15
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-06-20",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 15.41
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-06-20",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 51.88
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-06-22",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 17.53
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-06-25",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 7.82
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-06-26",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 23.67
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-06-27",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 16.52
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-06-30",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 31.73
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-06-30",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-06-30",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 86.63
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-06-30",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 7.82
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-07-04",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 16.73
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-07-05",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 34.48
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-07-05",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 53.2
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-07-06",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 7.59
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-07-09",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 10.97
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-07-10",
+    "comercio": "MERCADOPAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 39.72
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-07-12",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 10.29
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-07-13",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 12.19
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-07-13",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 4.61
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-07-13",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 17.52
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-07-13",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.15
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-07-23",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.57
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-07-25",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 10.75
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-07-26",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 11.63
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-07-28",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 17.62
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-07-29",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 15.49
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-07-29",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 21.09
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-07-30",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 41.26
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-07-30",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 41.47
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-07-30",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-07-30",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 21.23
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-08-03",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 16.89
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-08-04",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 8.28
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-08-04",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 17.92
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-08-06",
+    "comercio": "BAIT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-08-07",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-08-07",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 71.32
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-08-08",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 16.88
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-08-08",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 86.86
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-08-08",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 19.75
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-08-09",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 39.45
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-08-10",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 26.65
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-08-11",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 2.19
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-08-13",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.15
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-08-14",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 6.67
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-08-14",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.15
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-08-14",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.15
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-08-15",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.15
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-08-16",
+    "comercio": "BAIT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-08-17",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 54.59
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-08-17",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 64.63
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-08-22",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 83.33
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-08-22",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 83.33
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-08-29",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 8.74
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-09-04",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 172.33
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-09-04",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 86.75
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-09-04",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 24.71
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-09-05",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 27.3
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-09-06",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 30.69
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-09-11",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 11.1
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-09-12",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 55.14
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-09-13",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 19.7
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-09-13",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 16.88
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-09-14",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 7.07
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-09-19",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.92
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-09-19",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-09-20",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 7.94
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-09-21",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 25.63
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-09-21",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.95
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-09-24",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.41
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-09-25",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 8.28
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-09-26",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 23.22
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-09-27",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.93
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-09-27",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.17
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-09-28",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 79.32
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-09-28",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 86.52
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-10-01",
+    "comercio": "BAIT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-10-02",
+    "comercio": "ALIEXPRESS",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 7.93
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-10-03",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 77.33
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-10-07",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 24.39
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-10-07",
+    "comercio": "ALIEXPRESS",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 36.27
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-10-08",
+    "comercio": "CARLS JR",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 79.74
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-10-08",
+    "comercio": "CARLS JR",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 15.29
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-10-12",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 4.84
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-10-12",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.17
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-10-12",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-10-13",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 2.74
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-10-13",
+    "comercio": "ALIEXPRESS",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 20.6
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-10-13",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-10-14",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-10-15",
+    "comercio": "ALIEXPRESS",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 31.15
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-10-15",
+    "comercio": "MERCADOPAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 22.27
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-10-15",
+    "comercio": "MERCADOPAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 7.84
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-10-15",
+    "comercio": "BAIT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-10-16",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 6.62
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-10-16",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 22.13
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-10-17",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 10.18
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-10-18",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 89.5
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-10-19",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 34.47
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-10-20",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 22.87
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-10-20",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 2.54
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-10-23",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 35.96
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-10-24",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.66
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-10-24",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 4.03
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-10-24",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 3.0
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-10-26",
+    "comercio": "BAIT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-10-30",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 28.45
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-10-30",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 71.75
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-10-30",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 43.55
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-10-30",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-10-30",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 43.55
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-10-31",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 18.45
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-10-31",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 157.4
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-10-31",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 86.63
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-10-31",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 18.52
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-10-31",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 28.67
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-11-02",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-11-02",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 59.44
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-11-02",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 31.15
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-11-02",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 27.81
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-11-04",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 166.07
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-11-07",
+    "comercio": "BAIT",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-11-07",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 18.45
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-11-08",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 12.42
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-11-09",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.11
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-11-09",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 5.65
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-11-12",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 17.36
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-11-12",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-11-13",
+    "comercio": "ALIEXPRESS",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 247.97
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-11-14",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 16.24
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-11-20",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 38.1
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-11-21",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 142.1
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-11-22",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 18.24
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-11-22",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 10.81
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-11-23",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 11.61
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-11-23",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 8.09
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-11-26",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 21.27
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-11-29",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 17.42
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-11-29",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 2.08
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-11-29",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 118.25
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-11-29",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 109.38
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-11-30",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 34.34
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-12-02",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 41.9
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-12-03",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 15.41
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-12-03",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 93.59
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-12-05",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 171.58
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-12-05",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 171.58
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-12-06",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 16.15
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-12-12",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 228.98
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-12-12",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 304.53
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-12-12",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "BIENES DIGITALES JUEGOS",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-12-13",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-12-13",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 72.5
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-12-13",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "BIENES DIGITALES JUEGOS",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-12-13",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 47.92
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-12-13",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 47.92
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-12-15",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 183.25
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-12-18",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 515.95
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-12-19",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 213.81
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-12-19",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 12.81
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-12-21",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-12-21",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-12-21",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-12-21",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-12-21",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.58
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-12-21",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 52.97
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-12-21",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 51.23
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-12-22",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 132.18
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-12-22",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 43.45
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-12-22",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 62.88
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-12-22",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 2.54
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-12-24",
+    "comercio": "ALIEXPRESS",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 54.24
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-12-24",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 126.96
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-12-24",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 50.16
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-12-25",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 31.37
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-12-26",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 241.99
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-12-28",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 26.34
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-12-31",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 77.44
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-12-31",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 57.37
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-12-31",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 6.59
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2022-12-31",
+    "comercio": "ALIEXPRESS",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 23.21
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2023-01-01",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 1.81
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2023-01-01",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 4.7
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2023-01-02",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 8.17
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2023-01-03",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 61.55
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2023-01-06",
+    "comercio": "ALIEXPRESS",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 4.09
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2023-01-07",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 7.36
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2023-01-09",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.89
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2023-01-09",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 28.04
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2023-01-11",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 11.79
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2023-01-11",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 249.45
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2023-01-12",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2023-01-13",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "BIENES DIGITALES JUEGOS",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2023-01-13",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "BIENES DIGITALES JUEGOS",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2023-01-14",
+    "comercio": "GOOGLE ONE",
+    "giro_comercio": "BIENES DIGITALES APLICACIONES",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2023-01-15",
+    "comercio": "ALIEXPRESS",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 63.77
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2023-01-16",
+    "comercio": "CARLS JR",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 50.79
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2023-01-18",
+    "comercio": "WALMART",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 198.09
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2023-01-18",
+    "comercio": "SUPERAMA",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 65.45
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2023-01-19",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 14.03
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2023-01-19",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 17.59
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2023-01-21",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 3.0
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2023-01-22",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 17.3
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2023-01-23",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 10.35
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2023-01-24",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 196.04
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2023-01-25",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 1.96
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2023-01-28",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 14.49
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2023-01-29",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2023-01-29",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 77.44
+  },
+  {
+    "id": "28a3eff389a45a7a97524442728afe0bd4e0fa79",
+    "fecha": "2023-01-29",
+    "comercio": "FARMACIAS SIMILARES",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 15.41
+  }
+]

@@ -1,0 +1,2938 @@
+[
+  {
+    "id": "acb2fee5aea2d73a88359d438aaedeea731554f8",
+    "fecha": "2022-05-31",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 39.34
+  },
+  {
+    "id": "acb2fee5aea2d73a88359d438aaedeea731554f8",
+    "fecha": "2022-06-30",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 42.17
+  },
+  {
+    "id": "acb2fee5aea2d73a88359d438aaedeea731554f8",
+    "fecha": "2022-08-02",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 44.0
+  },
+  {
+    "id": "acb2fee5aea2d73a88359d438aaedeea731554f8",
+    "fecha": "2022-08-17",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 10.94
+  },
+  {
+    "id": "acb2fee5aea2d73a88359d438aaedeea731554f8",
+    "fecha": "2022-09-02",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 45.73
+  },
+  {
+    "id": "acb2fee5aea2d73a88359d438aaedeea731554f8",
+    "fecha": "2022-10-02",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 44.79
+  },
+  {
+    "id": "acb2fee5aea2d73a88359d438aaedeea731554f8",
+    "fecha": "2022-11-02",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.4
+  },
+  {
+    "id": "acb2fee5aea2d73a88359d438aaedeea731554f8",
+    "fecha": "2022-11-02",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 23.09
+  },
+  {
+    "id": "acb2fee5aea2d73a88359d438aaedeea731554f8",
+    "fecha": "2022-12-02",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.2
+  },
+  {
+    "id": "acb2fee5aea2d73a88359d438aaedeea731554f8",
+    "fecha": "2023-01-02",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.78
+  },
+  {
+    "id": "3762a6dd45bab32812ba11c819d1b9cc19e0f30f",
+    "fecha": "2022-05-20",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 38.43
+  },
+  {
+    "id": "3762a6dd45bab32812ba11c819d1b9cc19e0f30f",
+    "fecha": "2022-06-20",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 42.57
+  },
+  {
+    "id": "3762a6dd45bab32812ba11c819d1b9cc19e0f30f",
+    "fecha": "2022-07-14",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 1216.86
+  },
+  {
+    "id": "35b952a27bd455afcd2546744cb6797729e37dc5",
+    "fecha": "2022-05-29",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 38.72
+  },
+  {
+    "id": "35b952a27bd455afcd2546744cb6797729e37dc5",
+    "fecha": "2022-06-29",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 42.17
+  },
+  {
+    "id": "35b952a27bd455afcd2546744cb6797729e37dc5",
+    "fecha": "2022-07-29",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 42.63
+  },
+  {
+    "id": "35b952a27bd455afcd2546744cb6797729e37dc5",
+    "fecha": "2022-08-29",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 45.28
+  },
+  {
+    "id": "35b952a27bd455afcd2546744cb6797729e37dc5",
+    "fecha": "2022-09-29",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 45.44
+  },
+  {
+    "id": "35b952a27bd455afcd2546744cb6797729e37dc5",
+    "fecha": "2022-10-29",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.2
+  },
+  {
+    "id": "35b952a27bd455afcd2546744cb6797729e37dc5",
+    "fecha": "2022-11-29",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.15
+  },
+  {
+    "id": "35b952a27bd455afcd2546744cb6797729e37dc5",
+    "fecha": "2022-12-29",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.81
+  },
+  {
+    "id": "35b952a27bd455afcd2546744cb6797729e37dc5",
+    "fecha": "2023-01-29",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.5
+  },
+  {
+    "id": "5dea7c86fd7d3f666ca9ca33c69f009c78a61f33",
+    "fecha": "2022-05-08",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 9.95
+  },
+  {
+    "id": "5dea7c86fd7d3f666ca9ca33c69f009c78a61f33",
+    "fecha": "2022-06-04",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 40.76
+  },
+  {
+    "id": "5dea7c86fd7d3f666ca9ca33c69f009c78a61f33",
+    "fecha": "2022-06-20",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 21.41
+  },
+  {
+    "id": "5dea7c86fd7d3f666ca9ca33c69f009c78a61f33",
+    "fecha": "2022-07-04",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 41.91
+  },
+  {
+    "id": "5dea7c86fd7d3f666ca9ca33c69f009c78a61f33",
+    "fecha": "2022-08-04",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 44.0
+  },
+  {
+    "id": "5dea7c86fd7d3f666ca9ca33c69f009c78a61f33",
+    "fecha": "2022-09-04",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 45.81
+  },
+  {
+    "id": "5dea7c86fd7d3f666ca9ca33c69f009c78a61f33",
+    "fecha": "2022-10-04",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 44.97
+  },
+  {
+    "id": "5dea7c86fd7d3f666ca9ca33c69f009c78a61f33",
+    "fecha": "2022-11-04",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.4
+  },
+  {
+    "id": "5dea7c86fd7d3f666ca9ca33c69f009c78a61f33",
+    "fecha": "2022-12-04",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.94
+  },
+  {
+    "id": "5dea7c86fd7d3f666ca9ca33c69f009c78a61f33",
+    "fecha": "2023-01-04",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.74
+  },
+  {
+    "id": "fa31f13707cdc920488dfa3c400ce9ad753795ba",
+    "fecha": "2022-07-06",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 41.82
+  },
+  {
+    "id": "fa31f13707cdc920488dfa3c400ce9ad753795ba",
+    "fecha": "2022-08-06",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 44.79
+  },
+  {
+    "id": "fa31f13707cdc920488dfa3c400ce9ad753795ba",
+    "fecha": "2022-09-06",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.2
+  },
+  {
+    "id": "fa31f13707cdc920488dfa3c400ce9ad753795ba",
+    "fecha": "2022-10-06",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 44.39
+  },
+  {
+    "id": "fa31f13707cdc920488dfa3c400ce9ad753795ba",
+    "fecha": "2022-11-06",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.81
+  },
+  {
+    "id": "fa31f13707cdc920488dfa3c400ce9ad753795ba",
+    "fecha": "2022-12-06",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.65
+  },
+  {
+    "id": "502c03007400c58500c3a69601353c86809602c4",
+    "fecha": "2022-06-12",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 42.62
+  },
+  {
+    "id": "502c03007400c58500c3a69601353c86809602c4",
+    "fecha": "2022-07-12",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 41.18
+  },
+  {
+    "id": "502c03007400c58500c3a69601353c86809602c4",
+    "fecha": "2022-08-12",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 43.52
+  },
+  {
+    "id": "502c03007400c58500c3a69601353c86809602c4",
+    "fecha": "2022-09-12",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 45.82
+  },
+  {
+    "id": "502c03007400c58500c3a69601353c86809602c4",
+    "fecha": "2022-10-12",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 44.81
+  },
+  {
+    "id": "502c03007400c58500c3a69601353c86809602c4",
+    "fecha": "2022-11-12",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.23
+  },
+  {
+    "id": "502c03007400c58500c3a69601353c86809602c4",
+    "fecha": "2022-12-12",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.57
+  },
+  {
+    "id": "3120175b663c09d1900a0d93ea425409e80d9065",
+    "fecha": "2022-06-05",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 41.28
+  },
+  {
+    "id": "3120175b663c09d1900a0d93ea425409e80d9065",
+    "fecha": "2022-07-05",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 41.82
+  },
+  {
+    "id": "3120175b663c09d1900a0d93ea425409e80d9065",
+    "fecha": "2022-08-05",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 44.0
+  },
+  {
+    "id": "3120175b663c09d1900a0d93ea425409e80d9065",
+    "fecha": "2022-09-05",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 45.84
+  },
+  {
+    "id": "3fe4f68c28036aa4b14033bcd4fd8d3b714248b2",
+    "fecha": "2022-10-08",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 44.71
+  },
+  {
+    "id": "3fe4f68c28036aa4b14033bcd4fd8d3b714248b2",
+    "fecha": "2022-11-08",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.5
+  },
+  {
+    "id": "3fe4f68c28036aa4b14033bcd4fd8d3b714248b2",
+    "fecha": "2022-12-08",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.72
+  },
+  {
+    "id": "d076b085d54d60953c594dd9bd372c0dc84222f1",
+    "fecha": "2022-06-05",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 40.59
+  },
+  {
+    "id": "492ff1bca04fd6a07159f051d755c80afc8aaf72",
+    "fecha": "2022-06-08",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 42.2
+  },
+  {
+    "id": "492ff1bca04fd6a07159f051d755c80afc8aaf72",
+    "fecha": "2022-07-08",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 41.82
+  },
+  {
+    "id": "492ff1bca04fd6a07159f051d755c80afc8aaf72",
+    "fecha": "2022-08-08",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 44.33
+  },
+  {
+    "id": "492ff1bca04fd6a07159f051d755c80afc8aaf72",
+    "fecha": "2022-09-08",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.23
+  },
+  {
+    "id": "492ff1bca04fd6a07159f051d755c80afc8aaf72",
+    "fecha": "2022-10-08",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 44.68
+  },
+  {
+    "id": "492ff1bca04fd6a07159f051d755c80afc8aaf72",
+    "fecha": "2022-11-17",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.09
+  },
+  {
+    "id": "492ff1bca04fd6a07159f051d755c80afc8aaf72",
+    "fecha": "2022-12-17",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.53
+  },
+  {
+    "id": "492ff1bca04fd6a07159f051d755c80afc8aaf72",
+    "fecha": "2023-01-17",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.97
+  },
+  {
+    "id": "8ff077cf5a0fcdc8a9e9c7be296db30c2330d9ed",
+    "fecha": "2022-06-21",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 42.52
+  },
+  {
+    "id": "8ff077cf5a0fcdc8a9e9c7be296db30c2330d9ed",
+    "fecha": "2022-07-21",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 41.59
+  },
+  {
+    "id": "8ff077cf5a0fcdc8a9e9c7be296db30c2330d9ed",
+    "fecha": "2022-08-21",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 43.77
+  },
+  {
+    "id": "8ff077cf5a0fcdc8a9e9c7be296db30c2330d9ed",
+    "fecha": "2022-09-21",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 44.75
+  },
+  {
+    "id": "8ff077cf5a0fcdc8a9e9c7be296db30c2330d9ed",
+    "fecha": "2022-10-21",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 45.81
+  },
+  {
+    "id": "8ff077cf5a0fcdc8a9e9c7be296db30c2330d9ed",
+    "fecha": "2022-11-21",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.86
+  },
+  {
+    "id": "8ff077cf5a0fcdc8a9e9c7be296db30c2330d9ed",
+    "fecha": "2022-12-21",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.43
+  },
+  {
+    "id": "8ff077cf5a0fcdc8a9e9c7be296db30c2330d9ed",
+    "fecha": "2023-01-21",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.44
+  },
+  {
+    "id": "24ab4d5471cd5dc3ea7c448f48d4af894996c9d6",
+    "fecha": "2022-07-20",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 41.59
+  },
+  {
+    "id": "24ab4d5471cd5dc3ea7c448f48d4af894996c9d6",
+    "fecha": "2022-08-20",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 43.77
+  },
+  {
+    "id": "24ab4d5471cd5dc3ea7c448f48d4af894996c9d6",
+    "fecha": "2022-09-20",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 44.75
+  },
+  {
+    "id": "24ab4d5471cd5dc3ea7c448f48d4af894996c9d6",
+    "fecha": "2022-10-20",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 45.81
+  },
+  {
+    "id": "24ab4d5471cd5dc3ea7c448f48d4af894996c9d6",
+    "fecha": "2022-11-20",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.86
+  },
+  {
+    "id": "a64e33ddde94fd25efcdc21806c24cf254bf7bb7",
+    "fecha": "2022-07-31",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 42.97
+  },
+  {
+    "id": "c5c8ad0ca3a10e1421c8ec4759ee438ce4f96ae3",
+    "fecha": "2022-09-11",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 138.5
+  },
+  {
+    "id": "c5c8ad0ca3a10e1421c8ec4759ee438ce4f96ae3",
+    "fecha": "2022-10-11",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 217.29
+  },
+  {
+    "id": "c5c8ad0ca3a10e1421c8ec4759ee438ce4f96ae3",
+    "fecha": "2022-11-11",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 208.41
+  },
+  {
+    "id": "c5c8ad0ca3a10e1421c8ec4759ee438ce4f96ae3",
+    "fecha": "2022-12-11",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 209.6
+  },
+  {
+    "id": "c5c8ad0ca3a10e1421c8ec4759ee438ce4f96ae3",
+    "fecha": "2023-01-11",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 214.31
+  },
+  {
+    "id": "1ab24287f57b19700bc8dcd3f051c8b61583f07c",
+    "fecha": "2022-05-18",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 38.43
+  },
+  {
+    "id": "1ab24287f57b19700bc8dcd3f051c8b61583f07c",
+    "fecha": "2022-06-18",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 42.81
+  },
+  {
+    "id": "1ab24287f57b19700bc8dcd3f051c8b61583f07c",
+    "fecha": "2022-07-18",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 41.01
+  },
+  {
+    "id": "1ab24287f57b19700bc8dcd3f051c8b61583f07c",
+    "fecha": "2022-08-18",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 43.03
+  },
+  {
+    "id": "1ab24287f57b19700bc8dcd3f051c8b61583f07c",
+    "fecha": "2022-09-18",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 44.51
+  },
+  {
+    "id": "1ab24287f57b19700bc8dcd3f051c8b61583f07c",
+    "fecha": "2022-10-18",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.04
+  },
+  {
+    "id": "1ab24287f57b19700bc8dcd3f051c8b61583f07c",
+    "fecha": "2022-11-18",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.09
+  },
+  {
+    "id": "1ab24287f57b19700bc8dcd3f051c8b61583f07c",
+    "fecha": "2022-12-18",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.74
+  },
+  {
+    "id": "1ab24287f57b19700bc8dcd3f051c8b61583f07c",
+    "fecha": "2022-12-20",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.21
+  },
+  {
+    "id": "1ab24287f57b19700bc8dcd3f051c8b61583f07c",
+    "fecha": "2023-01-20",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.84
+  },
+  {
+    "id": "10b8bcff4152f34cc185649489c19bb75acdd333",
+    "fecha": "2022-04-18",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 39.56
+  },
+  {
+    "id": "10b8bcff4152f34cc185649489c19bb75acdd333",
+    "fecha": "2022-05-16",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 38.56
+  },
+  {
+    "id": "10b8bcff4152f34cc185649489c19bb75acdd333",
+    "fecha": "2022-06-16",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 42.63
+  },
+  {
+    "id": "10b8bcff4152f34cc185649489c19bb75acdd333",
+    "fecha": "2022-07-16",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 41.1
+  },
+  {
+    "id": "10b8bcff4152f34cc185649489c19bb75acdd333",
+    "fecha": "2022-08-16",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 43.1
+  },
+  {
+    "id": "10b8bcff4152f34cc185649489c19bb75acdd333",
+    "fecha": "2022-09-16",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 44.47
+  },
+  {
+    "id": "10b8bcff4152f34cc185649489c19bb75acdd333",
+    "fecha": "2022-10-16",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 45.32
+  },
+  {
+    "id": "10b8bcff4152f34cc185649489c19bb75acdd333",
+    "fecha": "2022-11-16",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.09
+  },
+  {
+    "id": "10b8bcff4152f34cc185649489c19bb75acdd333",
+    "fecha": "2022-12-16",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.52
+  },
+  {
+    "id": "10b8bcff4152f34cc185649489c19bb75acdd333",
+    "fecha": "2023-01-16",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.31
+  },
+  {
+    "id": "69667e5374b357bb154f7e43301d9fe63d988377",
+    "fecha": "2022-09-09",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 46.23
+  },
+  {
+    "id": "69667e5374b357bb154f7e43301d9fe63d988377",
+    "fecha": "2022-10-09",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 44.71
+  },
+  {
+    "id": "ae89ee98920451694ef71179ad578a609c1f1849",
+    "fecha": "2022-09-06",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 46.2
+  },
+  {
+    "id": "ae89ee98920451694ef71179ad578a609c1f1849",
+    "fecha": "2022-10-06",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 44.39
+  },
+  {
+    "id": "ae89ee98920451694ef71179ad578a609c1f1849",
+    "fecha": "2022-11-06",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.81
+  },
+  {
+    "id": "ae89ee98920451694ef71179ad578a609c1f1849",
+    "fecha": "2022-12-06",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.65
+  },
+  {
+    "id": "ae89ee98920451694ef71179ad578a609c1f1849",
+    "fecha": "2023-01-06",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.74
+  },
+  {
+    "id": "ae54444147fa05e6ef18b8a6a05c01116941c879",
+    "fecha": "2022-05-17",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 38.59
+  },
+  {
+    "id": "ae54444147fa05e6ef18b8a6a05c01116941c879",
+    "fecha": "2022-06-17",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 42.63
+  },
+  {
+    "id": "ae54444147fa05e6ef18b8a6a05c01116941c879",
+    "fecha": "2022-07-17",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 40.86
+  },
+  {
+    "id": "ae54444147fa05e6ef18b8a6a05c01116941c879",
+    "fecha": "2022-07-17",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 40.86
+  },
+  {
+    "id": "ae54444147fa05e6ef18b8a6a05c01116941c879",
+    "fecha": "2022-07-24",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 41.83
+  },
+  {
+    "id": "ae54444147fa05e6ef18b8a6a05c01116941c879",
+    "fecha": "2022-08-24",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 44.06
+  },
+  {
+    "id": "ae54444147fa05e6ef18b8a6a05c01116941c879",
+    "fecha": "2022-09-24",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 44.85
+  },
+  {
+    "id": "ae54444147fa05e6ef18b8a6a05c01116941c879",
+    "fecha": "2022-10-24",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.04
+  },
+  {
+    "id": "ae54444147fa05e6ef18b8a6a05c01116941c879",
+    "fecha": "2022-11-24",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.31
+  },
+  {
+    "id": "ae54444147fa05e6ef18b8a6a05c01116941c879",
+    "fecha": "2022-12-24",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.64
+  },
+  {
+    "id": "ae54444147fa05e6ef18b8a6a05c01116941c879",
+    "fecha": "2023-01-24",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.1
+  },
+  {
+    "id": "58b29cd6b54a7c9599caab6f1b5e566a4739eeab",
+    "fecha": "2022-10-16",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 45.32
+  },
+  {
+    "id": "58b29cd6b54a7c9599caab6f1b5e566a4739eeab",
+    "fecha": "2022-11-16",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.09
+  },
+  {
+    "id": "58b29cd6b54a7c9599caab6f1b5e566a4739eeab",
+    "fecha": "2022-12-16",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.52
+  },
+  {
+    "id": "58b29cd6b54a7c9599caab6f1b5e566a4739eeab",
+    "fecha": "2023-01-16",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.31
+  },
+  {
+    "id": "a91abe00e64d64ea798dd6af5ba30b717c254143",
+    "fecha": "2022-06-22",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 21.13
+  },
+  {
+    "id": "a91abe00e64d64ea798dd6af5ba30b717c254143",
+    "fecha": "2022-08-19",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 21.64
+  },
+  {
+    "id": "a91abe00e64d64ea798dd6af5ba30b717c254143",
+    "fecha": "2022-12-10",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 25.71
+  },
+  {
+    "id": "a91abe00e64d64ea798dd6af5ba30b717c254143",
+    "fecha": "2023-01-10",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 14.54
+  },
+  {
+    "id": "3545165fbfb11219f2c13a61cbb49862e6d80b19",
+    "fecha": "2022-07-26",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 42.48
+  },
+  {
+    "id": "721fce1964f28c360910dc10b8a96ec596c229bd",
+    "fecha": "2022-12-10",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 46.76
+  },
+  {
+    "id": "721fce1964f28c360910dc10b8a96ec596c229bd",
+    "fecha": "2023-01-10",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.81
+  },
+  {
+    "id": "8edcd32e658f91a98ffced62ed33d2ef9e43d9a0",
+    "fecha": "2022-05-14",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 38.95
+  },
+  {
+    "id": "8edcd32e658f91a98ffced62ed33d2ef9e43d9a0",
+    "fecha": "2022-06-14",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 42.63
+  },
+  {
+    "id": "8edcd32e658f91a98ffced62ed33d2ef9e43d9a0",
+    "fecha": "2022-07-14",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 40.8
+  },
+  {
+    "id": "8edcd32e658f91a98ffced62ed33d2ef9e43d9a0",
+    "fecha": "2022-08-14",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 43.55
+  },
+  {
+    "id": "8edcd32e658f91a98ffced62ed33d2ef9e43d9a0",
+    "fecha": "2022-09-14",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 44.47
+  },
+  {
+    "id": "8edcd32e658f91a98ffced62ed33d2ef9e43d9a0",
+    "fecha": "2022-10-14",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 44.68
+  },
+  {
+    "id": "8edcd32e658f91a98ffced62ed33d2ef9e43d9a0",
+    "fecha": "2022-11-14",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.33
+  },
+  {
+    "id": "8edcd32e658f91a98ffced62ed33d2ef9e43d9a0",
+    "fecha": "2022-12-14",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.52
+  },
+  {
+    "id": "8edcd32e658f91a98ffced62ed33d2ef9e43d9a0",
+    "fecha": "2023-01-14",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.3
+  },
+  {
+    "id": "d9f21ad401c5b477060ba35bc2e701b5a147f25f",
+    "fecha": "2022-10-30",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 46.57
+  },
+  {
+    "id": "a94015eeb4f4affa02dffa1513c6300e5b986493",
+    "fecha": "2023-01-22",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 47.66
+  },
+  {
+    "id": "43413dd6f7abc3c23e31d06a5d098a50e5520367",
+    "fecha": "2022-05-22",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 38.42
+  },
+  {
+    "id": "43413dd6f7abc3c23e31d06a5d098a50e5520367",
+    "fecha": "2022-05-22",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 38.48
+  },
+  {
+    "id": "43413dd6f7abc3c23e31d06a5d098a50e5520367",
+    "fecha": "2022-06-22",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 42.02
+  },
+  {
+    "id": "43413dd6f7abc3c23e31d06a5d098a50e5520367",
+    "fecha": "2022-07-22",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 41.39
+  },
+  {
+    "id": "43413dd6f7abc3c23e31d06a5d098a50e5520367",
+    "fecha": "2022-08-22",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 44.87
+  },
+  {
+    "id": "43413dd6f7abc3c23e31d06a5d098a50e5520367",
+    "fecha": "2022-09-22",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 44.75
+  },
+  {
+    "id": "43413dd6f7abc3c23e31d06a5d098a50e5520367",
+    "fecha": "2022-10-22",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 45.96
+  },
+  {
+    "id": "43413dd6f7abc3c23e31d06a5d098a50e5520367",
+    "fecha": "2022-11-22",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.31
+  },
+  {
+    "id": "2fe5f13355786ebb78248c88693f8af1968b781f",
+    "fecha": "2022-10-26",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 46.03
+  },
+  {
+    "id": "2fe5f13355786ebb78248c88693f8af1968b781f",
+    "fecha": "2022-11-26",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.88
+  },
+  {
+    "id": "2fe5f13355786ebb78248c88693f8af1968b781f",
+    "fecha": "2022-12-26",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.55
+  },
+  {
+    "id": "2fe5f13355786ebb78248c88693f8af1968b781f",
+    "fecha": "2023-01-26",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.71
+  },
+  {
+    "id": "989412e818ab7ca242cdfdbd3fbba2acd00b0a1b",
+    "fecha": "2022-08-31",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 45.4
+  },
+  {
+    "id": "989412e818ab7ca242cdfdbd3fbba2acd00b0a1b",
+    "fecha": "2022-09-30",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 45.44
+  },
+  {
+    "id": "989412e818ab7ca242cdfdbd3fbba2acd00b0a1b",
+    "fecha": "2022-10-31",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.57
+  },
+  {
+    "id": "989412e818ab7ca242cdfdbd3fbba2acd00b0a1b",
+    "fecha": "2022-11-30",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.93
+  },
+  {
+    "id": "acdb27423ce7a1df705dfd9d18337fa9544774be",
+    "fecha": "2022-11-17",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 47.09
+  },
+  {
+    "id": "acdb27423ce7a1df705dfd9d18337fa9544774be",
+    "fecha": "2022-12-17",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.74
+  },
+  {
+    "id": "acdb27423ce7a1df705dfd9d18337fa9544774be",
+    "fecha": "2023-01-17",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.84
+  },
+  {
+    "id": "1cde06e09d2a9424bc7a0b65baaa91fef40f9c57",
+    "fecha": "2022-05-17",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 38.43
+  },
+  {
+    "id": "1cde06e09d2a9424bc7a0b65baaa91fef40f9c57",
+    "fecha": "2022-06-17",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 42.81
+  },
+  {
+    "id": "1cde06e09d2a9424bc7a0b65baaa91fef40f9c57",
+    "fecha": "2022-07-17",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 41.01
+  },
+  {
+    "id": "1cde06e09d2a9424bc7a0b65baaa91fef40f9c57",
+    "fecha": "2022-08-17",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 43.03
+  },
+  {
+    "id": "1cde06e09d2a9424bc7a0b65baaa91fef40f9c57",
+    "fecha": "2022-09-17",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 44.51
+  },
+  {
+    "id": "1cde06e09d2a9424bc7a0b65baaa91fef40f9c57",
+    "fecha": "2022-10-17",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.04
+  },
+  {
+    "id": "1cde06e09d2a9424bc7a0b65baaa91fef40f9c57",
+    "fecha": "2022-11-17",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.09
+  },
+  {
+    "id": "1cde06e09d2a9424bc7a0b65baaa91fef40f9c57",
+    "fecha": "2022-12-17",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.74
+  },
+  {
+    "id": "1cde06e09d2a9424bc7a0b65baaa91fef40f9c57",
+    "fecha": "2023-01-17",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.84
+  },
+  {
+    "id": "98402e530a02a209c437681b0aa1bd194bd848b4",
+    "fecha": "2022-01-10",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 29.42
+  },
+  {
+    "id": "70914dcfad50caea735fc18617bd8eaf8042e55e",
+    "fecha": "2022-09-25",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 44.71
+  },
+  {
+    "id": "70914dcfad50caea735fc18617bd8eaf8042e55e",
+    "fecha": "2022-10-25",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 45.82
+  },
+  {
+    "id": "70914dcfad50caea735fc18617bd8eaf8042e55e",
+    "fecha": "2022-11-25",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.31
+  },
+  {
+    "id": "70914dcfad50caea735fc18617bd8eaf8042e55e",
+    "fecha": "2022-12-25",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.55
+  },
+  {
+    "id": "70914dcfad50caea735fc18617bd8eaf8042e55e",
+    "fecha": "2023-01-25",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.71
+  },
+  {
+    "id": "19f23ae495f6fd4277519a2e6eb30f0b24d738fc",
+    "fecha": "2023-01-21",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 47.44
+  },
+  {
+    "id": "6faa3ee0e5a504273037aa40982fffe22257e9f3",
+    "fecha": "2022-06-14",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 42.84
+  },
+  {
+    "id": "6faa3ee0e5a504273037aa40982fffe22257e9f3",
+    "fecha": "2022-07-14",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 40.8
+  },
+  {
+    "id": "6faa3ee0e5a504273037aa40982fffe22257e9f3",
+    "fecha": "2022-08-14",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 43.99
+  },
+  {
+    "id": "6faa3ee0e5a504273037aa40982fffe22257e9f3",
+    "fecha": "2022-09-14",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 44.47
+  },
+  {
+    "id": "6faa3ee0e5a504273037aa40982fffe22257e9f3",
+    "fecha": "2022-10-14",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 44.81
+  },
+  {
+    "id": "6faa3ee0e5a504273037aa40982fffe22257e9f3",
+    "fecha": "2022-11-14",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.58
+  },
+  {
+    "id": "6faa3ee0e5a504273037aa40982fffe22257e9f3",
+    "fecha": "2022-12-14",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.52
+  },
+  {
+    "id": "6faa3ee0e5a504273037aa40982fffe22257e9f3",
+    "fecha": "2023-01-14",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 48.03
+  },
+  {
+    "id": "7edfa8fa9b186b5157dab56f166b04c7ba194cab",
+    "fecha": "2022-09-10",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 45.92
+  },
+  {
+    "id": "7edfa8fa9b186b5157dab56f166b04c7ba194cab",
+    "fecha": "2022-10-10",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 44.86
+  },
+  {
+    "id": "7edfa8fa9b186b5157dab56f166b04c7ba194cab",
+    "fecha": "2022-11-10",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.5
+  },
+  {
+    "id": "7edfa8fa9b186b5157dab56f166b04c7ba194cab",
+    "fecha": "2022-12-10",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.55
+  },
+  {
+    "id": "7edfa8fa9b186b5157dab56f166b04c7ba194cab",
+    "fecha": "2023-01-10",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.28
+  },
+  {
+    "id": "fd6cd385f6f3f8337361f399f4ed967da18030c9",
+    "fecha": "2022-06-11",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 42.62
+  },
+  {
+    "id": "fd6cd385f6f3f8337361f399f4ed967da18030c9",
+    "fecha": "2022-07-11",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 41.18
+  },
+  {
+    "id": "fd6cd385f6f3f8337361f399f4ed967da18030c9",
+    "fecha": "2022-08-11",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 43.52
+  },
+  {
+    "id": "fd6cd385f6f3f8337361f399f4ed967da18030c9",
+    "fecha": "2022-09-11",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 45.82
+  },
+  {
+    "id": "fd6cd385f6f3f8337361f399f4ed967da18030c9",
+    "fecha": "2022-10-11",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 44.81
+  },
+  {
+    "id": "fd6cd385f6f3f8337361f399f4ed967da18030c9",
+    "fecha": "2022-11-11",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.23
+  },
+  {
+    "id": "fd6cd385f6f3f8337361f399f4ed967da18030c9",
+    "fecha": "2022-12-11",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.57
+  },
+  {
+    "id": "fd6cd385f6f3f8337361f399f4ed967da18030c9",
+    "fecha": "2023-01-11",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.81
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-07-11",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 41.21
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-08-11",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 43.52
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-09-11",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.33
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-10-11",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 45.07
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-11-11",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.5
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2022-12-11",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.76
+  },
+  {
+    "id": "1d8f54cbb7b5e2f80343a025c1122019ecebb33f",
+    "fecha": "2023-01-11",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.81
+  },
+  {
+    "id": "a3b1d09c6bc2d8caf5cddea036c7da023345c6af",
+    "fecha": "2022-09-20",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 44.53
+  },
+  {
+    "id": "a3b1d09c6bc2d8caf5cddea036c7da023345c6af",
+    "fecha": "2022-10-20",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 45.81
+  },
+  {
+    "id": "a3b1d09c6bc2d8caf5cddea036c7da023345c6af",
+    "fecha": "2022-11-20",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.62
+  },
+  {
+    "id": "a3b1d09c6bc2d8caf5cddea036c7da023345c6af",
+    "fecha": "2022-12-20",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.21
+  },
+  {
+    "id": "a3b1d09c6bc2d8caf5cddea036c7da023345c6af",
+    "fecha": "2023-01-20",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.84
+  },
+  {
+    "id": "64a7a57c252f948951f82e3b89952e0f61f6d165",
+    "fecha": "2023-01-06",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 12.11
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-10-15",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 45.32
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-11-15",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.09
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-12-15",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.52
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2023-01-15",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.31
+  },
+  {
+    "id": "0686ef5970f3e3e29ba54c0e82c22364cb1ade90",
+    "fecha": "2022-06-02",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 39.34
+  },
+  {
+    "id": "0686ef5970f3e3e29ba54c0e82c22364cb1ade90",
+    "fecha": "2022-07-02",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 42.49
+  },
+  {
+    "id": "0686ef5970f3e3e29ba54c0e82c22364cb1ade90",
+    "fecha": "2022-08-02",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 43.22
+  },
+  {
+    "id": "0686ef5970f3e3e29ba54c0e82c22364cb1ade90",
+    "fecha": "2022-09-02",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 45.4
+  },
+  {
+    "id": "0686ef5970f3e3e29ba54c0e82c22364cb1ade90",
+    "fecha": "2022-10-02",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 45.38
+  },
+  {
+    "id": "0686ef5970f3e3e29ba54c0e82c22364cb1ade90",
+    "fecha": "2022-11-02",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.4
+  },
+  {
+    "id": "0686ef5970f3e3e29ba54c0e82c22364cb1ade90",
+    "fecha": "2022-11-02",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 46.4
+  },
+  {
+    "id": "0686ef5970f3e3e29ba54c0e82c22364cb1ade90",
+    "fecha": "2022-12-02",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.93
+  },
+  {
+    "id": "0686ef5970f3e3e29ba54c0e82c22364cb1ade90",
+    "fecha": "2023-01-02",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 48.0
+  },
+  {
+    "id": "c77b50cb2fc561b4153ccab731ea88bc0aeddce0",
+    "fecha": "2022-06-07",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 40.53
+  },
+  {
+    "id": "c77b50cb2fc561b4153ccab731ea88bc0aeddce0",
+    "fecha": "2022-07-07",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 41.82
+  },
+  {
+    "id": "c77b50cb2fc561b4153ccab731ea88bc0aeddce0",
+    "fecha": "2022-08-07",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 44.66
+  },
+  {
+    "id": "c77b50cb2fc561b4153ccab731ea88bc0aeddce0",
+    "fecha": "2022-09-07",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.23
+  },
+  {
+    "id": "c77b50cb2fc561b4153ccab731ea88bc0aeddce0",
+    "fecha": "2022-10-07",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 44.39
+  },
+  {
+    "id": "c77b50cb2fc561b4153ccab731ea88bc0aeddce0",
+    "fecha": "2022-12-07",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.72
+  },
+  {
+    "id": "c77b50cb2fc561b4153ccab731ea88bc0aeddce0",
+    "fecha": "2023-01-07",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.93
+  },
+  {
+    "id": "daf24442dd672100282d0b3995a637cf5e7b7960",
+    "fecha": "2022-05-15",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 38.56
+  },
+  {
+    "id": "daf24442dd672100282d0b3995a637cf5e7b7960",
+    "fecha": "2022-06-15",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 42.63
+  },
+  {
+    "id": "daf24442dd672100282d0b3995a637cf5e7b7960",
+    "fecha": "2022-07-15",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 41.1
+  },
+  {
+    "id": "daf24442dd672100282d0b3995a637cf5e7b7960",
+    "fecha": "2022-08-15",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 43.1
+  },
+  {
+    "id": "daf24442dd672100282d0b3995a637cf5e7b7960",
+    "fecha": "2022-09-15",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 44.47
+  },
+  {
+    "id": "daf24442dd672100282d0b3995a637cf5e7b7960",
+    "fecha": "2022-10-15",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 45.32
+  },
+  {
+    "id": "daf24442dd672100282d0b3995a637cf5e7b7960",
+    "fecha": "2022-11-15",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.09
+  },
+  {
+    "id": "daf24442dd672100282d0b3995a637cf5e7b7960",
+    "fecha": "2022-12-15",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.52
+  },
+  {
+    "id": "daf24442dd672100282d0b3995a637cf5e7b7960",
+    "fecha": "2023-01-15",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.31
+  },
+  {
+    "id": "d5ef307a89fc28160c77c08bb2ee23de60d298cb",
+    "fecha": "2022-08-09",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 44.1
+  },
+  {
+    "id": "d5ef307a89fc28160c77c08bb2ee23de60d298cb",
+    "fecha": "2022-09-09",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.23
+  },
+  {
+    "id": "d5ef307a89fc28160c77c08bb2ee23de60d298cb",
+    "fecha": "2022-10-09",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 44.71
+  },
+  {
+    "id": "d5ef307a89fc28160c77c08bb2ee23de60d298cb",
+    "fecha": "2022-11-09",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.5
+  },
+  {
+    "id": "d5ef307a89fc28160c77c08bb2ee23de60d298cb",
+    "fecha": "2022-12-09",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.72
+  },
+  {
+    "id": "d5ef307a89fc28160c77c08bb2ee23de60d298cb",
+    "fecha": "2023-01-09",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.07
+  },
+  {
+    "id": "e33dd5843e1cd1c3972ab90a65dc81848775bb53",
+    "fecha": "2022-05-19",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 38.43
+  },
+  {
+    "id": "e33dd5843e1cd1c3972ab90a65dc81848775bb53",
+    "fecha": "2022-06-19",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 42.57
+  },
+  {
+    "id": "e33dd5843e1cd1c3972ab90a65dc81848775bb53",
+    "fecha": "2022-07-19",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 41.59
+  },
+  {
+    "id": "e33dd5843e1cd1c3972ab90a65dc81848775bb53",
+    "fecha": "2022-08-19",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 43.29
+  },
+  {
+    "id": "e33dd5843e1cd1c3972ab90a65dc81848775bb53",
+    "fecha": "2022-09-19",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 44.53
+  },
+  {
+    "id": "e33dd5843e1cd1c3972ab90a65dc81848775bb53",
+    "fecha": "2022-10-19",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 45.81
+  },
+  {
+    "id": "e33dd5843e1cd1c3972ab90a65dc81848775bb53",
+    "fecha": "2022-11-19",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.62
+  },
+  {
+    "id": "e33dd5843e1cd1c3972ab90a65dc81848775bb53",
+    "fecha": "2022-12-19",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.21
+  },
+  {
+    "id": "e33dd5843e1cd1c3972ab90a65dc81848775bb53",
+    "fecha": "2023-01-19",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.84
+  },
+  {
+    "id": "86517617ba88a7a340b92fd5466c743e195a6381",
+    "fecha": "2023-01-17",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 47.84
+  },
+  {
+    "id": "94b8d1d74a7821c43c9ca0fde19a192e9bae76de",
+    "fecha": "2022-10-23",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 45.96
+  },
+  {
+    "id": "94b8d1d74a7821c43c9ca0fde19a192e9bae76de",
+    "fecha": "2022-11-23",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.31
+  },
+  {
+    "id": "94b8d1d74a7821c43c9ca0fde19a192e9bae76de",
+    "fecha": "2022-12-23",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.43
+  },
+  {
+    "id": "94b8d1d74a7821c43c9ca0fde19a192e9bae76de",
+    "fecha": "2023-01-23",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.43
+  },
+  {
+    "id": "dc7deeed7f0ee843df681db92043894bb1adfe81",
+    "fecha": "2022-09-07",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.23
+  },
+  {
+    "id": "dc7deeed7f0ee843df681db92043894bb1adfe81",
+    "fecha": "2022-10-07",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 44.68
+  },
+  {
+    "id": "dc7deeed7f0ee843df681db92043894bb1adfe81",
+    "fecha": "2022-12-07",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.72
+  },
+  {
+    "id": "dc7deeed7f0ee843df681db92043894bb1adfe81",
+    "fecha": "2023-01-07",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.98
+  },
+  {
+    "id": "acd31bc9020bf2f6ad27af7ef9371affa07834c4",
+    "fecha": "2022-05-24",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 38.6
+  },
+  {
+    "id": "acd31bc9020bf2f6ad27af7ef9371affa07834c4",
+    "fecha": "2022-10-02",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 45.38
+  },
+  {
+    "id": "acd31bc9020bf2f6ad27af7ef9371affa07834c4",
+    "fecha": "2022-11-02",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.4
+  },
+  {
+    "id": "acd31bc9020bf2f6ad27af7ef9371affa07834c4",
+    "fecha": "2022-12-02",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.93
+  },
+  {
+    "id": "acd31bc9020bf2f6ad27af7ef9371affa07834c4",
+    "fecha": "2023-01-02",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 48.0
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-06-13",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 43.4
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-07-13",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 40.8
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-08-13",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 43.97
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-09-13",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 45.25
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-10-13",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 44.81
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-11-13",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.5
+  },
+  {
+    "id": "e4155edfc18912f80557ee209d320bf57bca079d",
+    "fecha": "2022-12-13",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.57
+  },
+  {
+    "id": "b031d8137149cf687fb84be6198524356ad91483",
+    "fecha": "2022-02-22",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 19.91
+  },
+  {
+    "id": "b031d8137149cf687fb84be6198524356ad91483",
+    "fecha": "2022-05-21",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 38.31
+  },
+  {
+    "id": "b031d8137149cf687fb84be6198524356ad91483",
+    "fecha": "2022-06-21",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 42.52
+  },
+  {
+    "id": "b031d8137149cf687fb84be6198524356ad91483",
+    "fecha": "2022-07-21",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 41.59
+  },
+  {
+    "id": "b031d8137149cf687fb84be6198524356ad91483",
+    "fecha": "2022-08-21",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 43.77
+  },
+  {
+    "id": "b031d8137149cf687fb84be6198524356ad91483",
+    "fecha": "2022-09-21",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 44.75
+  },
+  {
+    "id": "b031d8137149cf687fb84be6198524356ad91483",
+    "fecha": "2022-10-21",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 45.81
+  },
+  {
+    "id": "b031d8137149cf687fb84be6198524356ad91483",
+    "fecha": "2022-11-21",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.86
+  },
+  {
+    "id": "b031d8137149cf687fb84be6198524356ad91483",
+    "fecha": "2022-12-21",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.43
+  },
+  {
+    "id": "4a2526b517380ba069219095d6b91416a88e6b33",
+    "fecha": "2023-01-15",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 47.3
+  },
+  {
+    "id": "cc2682506f47e28a3ea531bdbe3aea32fa44949c",
+    "fecha": "2022-07-25",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 42.48
+  },
+  {
+    "id": "cc2682506f47e28a3ea531bdbe3aea32fa44949c",
+    "fecha": "2022-08-25",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 44.06
+  },
+  {
+    "id": "cc2682506f47e28a3ea531bdbe3aea32fa44949c",
+    "fecha": "2022-09-25",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 45.25
+  },
+  {
+    "id": "cc2682506f47e28a3ea531bdbe3aea32fa44949c",
+    "fecha": "2022-10-25",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.03
+  },
+  {
+    "id": "cc2682506f47e28a3ea531bdbe3aea32fa44949c",
+    "fecha": "2022-10-28",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.2
+  },
+  {
+    "id": "cc2682506f47e28a3ea531bdbe3aea32fa44949c",
+    "fecha": "2022-11-28",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.15
+  },
+  {
+    "id": "cc2682506f47e28a3ea531bdbe3aea32fa44949c",
+    "fecha": "2022-12-28",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.81
+  },
+  {
+    "id": "cc2682506f47e28a3ea531bdbe3aea32fa44949c",
+    "fecha": "2023-01-28",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.5
+  },
+  {
+    "id": "7ad8823e130d5da2480a3d5971760ee30a6d2a2b",
+    "fecha": "2022-09-04",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 11.63
+  },
+  {
+    "id": "7ad8823e130d5da2480a3d5971760ee30a6d2a2b",
+    "fecha": "2022-09-04",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 23.03
+  },
+  {
+    "id": "1a1c25c15158fe5805fbfccda5f8181f0e2dbac5",
+    "fecha": "2022-09-13",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 45.25
+  },
+  {
+    "id": "1a1c25c15158fe5805fbfccda5f8181f0e2dbac5",
+    "fecha": "2022-10-13",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 44.81
+  },
+  {
+    "id": "1a1c25c15158fe5805fbfccda5f8181f0e2dbac5",
+    "fecha": "2022-11-13",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.5
+  },
+  {
+    "id": "1a1c25c15158fe5805fbfccda5f8181f0e2dbac5",
+    "fecha": "2022-12-13",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.57
+  },
+  {
+    "id": "1a1c25c15158fe5805fbfccda5f8181f0e2dbac5",
+    "fecha": "2023-01-13",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.81
+  },
+  {
+    "id": "175111c30e17b0c1751665678e3125c9d75d3d9b",
+    "fecha": "2022-06-14",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 42.84
+  },
+  {
+    "id": "a5351cc46afe17512d59c3c5aca1c5e3c7be98cb",
+    "fecha": "2022-11-10",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 46.5
+  },
+  {
+    "id": "a5351cc46afe17512d59c3c5aca1c5e3c7be98cb",
+    "fecha": "2022-12-10",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.76
+  },
+  {
+    "id": "a5351cc46afe17512d59c3c5aca1c5e3c7be98cb",
+    "fecha": "2023-01-10",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.81
+  },
+  {
+    "id": "9f2b3a2d400a06dd5701051619d2426d90772462",
+    "fecha": "2022-09-12",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 45.25
+  },
+  {
+    "id": "9f2b3a2d400a06dd5701051619d2426d90772462",
+    "fecha": "2022-10-12",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 44.81
+  },
+  {
+    "id": "9f2b3a2d400a06dd5701051619d2426d90772462",
+    "fecha": "2022-11-12",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.5
+  },
+  {
+    "id": "9f2b3a2d400a06dd5701051619d2426d90772462",
+    "fecha": "2022-12-12",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.57
+  },
+  {
+    "id": "9f2b3a2d400a06dd5701051619d2426d90772462",
+    "fecha": "2023-01-12",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.81
+  },
+  {
+    "id": "1eb4fd9176e9e8f30737349e329b421f7a0d138a",
+    "fecha": "2022-12-21",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 46.43
+  },
+  {
+    "id": "1eb4fd9176e9e8f30737349e329b421f7a0d138a",
+    "fecha": "2023-01-21",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.66
+  },
+  {
+    "id": "a9c97ba219836ca7816b05b83f86702fcf1ae6c0",
+    "fecha": "2022-09-19",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 44.53
+  },
+  {
+    "id": "a9c97ba219836ca7816b05b83f86702fcf1ae6c0",
+    "fecha": "2022-10-20",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 45.81
+  },
+  {
+    "id": "a9c97ba219836ca7816b05b83f86702fcf1ae6c0",
+    "fecha": "2022-11-20",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.62
+  },
+  {
+    "id": "a9c97ba219836ca7816b05b83f86702fcf1ae6c0",
+    "fecha": "2022-12-20",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.21
+  },
+  {
+    "id": "a9c97ba219836ca7816b05b83f86702fcf1ae6c0",
+    "fecha": "2023-01-20",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.84
+  },
+  {
+    "id": "095d37f69671480cb972a29a801f28b09791de7b",
+    "fecha": "2022-05-19",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 38.43
+  },
+  {
+    "id": "095d37f69671480cb972a29a801f28b09791de7b",
+    "fecha": "2022-06-20",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 42.57
+  },
+  {
+    "id": "095d37f69671480cb972a29a801f28b09791de7b",
+    "fecha": "2022-07-20",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 41.59
+  },
+  {
+    "id": "095d37f69671480cb972a29a801f28b09791de7b",
+    "fecha": "2022-08-20",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 43.29
+  },
+  {
+    "id": "095d37f69671480cb972a29a801f28b09791de7b",
+    "fecha": "2022-09-20",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 44.53
+  },
+  {
+    "id": "095d37f69671480cb972a29a801f28b09791de7b",
+    "fecha": "2022-10-20",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 45.81
+  },
+  {
+    "id": "095d37f69671480cb972a29a801f28b09791de7b",
+    "fecha": "2022-11-20",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.62
+  },
+  {
+    "id": "095d37f69671480cb972a29a801f28b09791de7b",
+    "fecha": "2022-12-20",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.21
+  },
+  {
+    "id": "095d37f69671480cb972a29a801f28b09791de7b",
+    "fecha": "2023-01-20",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.84
+  },
+  {
+    "id": "7d1781ca25c6b9193c63f0c31b48496f69ebafe7",
+    "fecha": "2022-12-05",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 46.65
+  },
+  {
+    "id": "7d1781ca25c6b9193c63f0c31b48496f69ebafe7",
+    "fecha": "2023-01-13",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 48.03
+  },
+  {
+    "id": "98b30663015f37ff8050863aba082c3128fbdd5d",
+    "fecha": "2022-06-01",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 39.34
+  },
+  {
+    "id": "298d41a93ab1b0da3975e94d3fe4fa179b147ac5",
+    "fecha": "2022-05-22",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 38.42
+  },
+  {
+    "id": "298d41a93ab1b0da3975e94d3fe4fa179b147ac5",
+    "fecha": "2022-06-22",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 42.02
+  },
+  {
+    "id": "298d41a93ab1b0da3975e94d3fe4fa179b147ac5",
+    "fecha": "2022-07-22",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 41.59
+  },
+  {
+    "id": "298d41a93ab1b0da3975e94d3fe4fa179b147ac5",
+    "fecha": "2022-08-22",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 44.48
+  },
+  {
+    "id": "298d41a93ab1b0da3975e94d3fe4fa179b147ac5",
+    "fecha": "2022-09-22",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 44.75
+  },
+  {
+    "id": "298d41a93ab1b0da3975e94d3fe4fa179b147ac5",
+    "fecha": "2022-10-22",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.21
+  },
+  {
+    "id": "298d41a93ab1b0da3975e94d3fe4fa179b147ac5",
+    "fecha": "2022-11-22",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.06
+  },
+  {
+    "id": "298d41a93ab1b0da3975e94d3fe4fa179b147ac5",
+    "fecha": "2022-11-22",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 47.06
+  },
+  {
+    "id": "298d41a93ab1b0da3975e94d3fe4fa179b147ac5",
+    "fecha": "2022-12-22",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.43
+  },
+  {
+    "id": "298d41a93ab1b0da3975e94d3fe4fa179b147ac5",
+    "fecha": "2023-01-22",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.66
+  },
+  {
+    "id": "879267f571ba345eac4c34dd7479a9b1fb860c16",
+    "fecha": "2022-05-29",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 38.72
+  },
+  {
+    "id": "879267f571ba345eac4c34dd7479a9b1fb860c16",
+    "fecha": "2022-06-29",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 42.17
+  },
+  {
+    "id": "879267f571ba345eac4c34dd7479a9b1fb860c16",
+    "fecha": "2022-07-29",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 42.63
+  },
+  {
+    "id": "879267f571ba345eac4c34dd7479a9b1fb860c16",
+    "fecha": "2022-08-29",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 45.28
+  },
+  {
+    "id": "879267f571ba345eac4c34dd7479a9b1fb860c16",
+    "fecha": "2022-09-29",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 45.44
+  },
+  {
+    "id": "879267f571ba345eac4c34dd7479a9b1fb860c16",
+    "fecha": "2022-10-29",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.2
+  },
+  {
+    "id": "879267f571ba345eac4c34dd7479a9b1fb860c16",
+    "fecha": "2022-11-29",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.15
+  },
+  {
+    "id": "879267f571ba345eac4c34dd7479a9b1fb860c16",
+    "fecha": "2022-12-29",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.81
+  },
+  {
+    "id": "879267f571ba345eac4c34dd7479a9b1fb860c16",
+    "fecha": "2023-01-29",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.5
+  },
+  {
+    "id": "71448aaee3d8a82dcfa33e43f819e4fe96661588",
+    "fecha": "2022-11-04",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 46.4
+  },
+  {
+    "id": "71448aaee3d8a82dcfa33e43f819e4fe96661588",
+    "fecha": "2022-12-04",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.94
+  },
+  {
+    "id": "71448aaee3d8a82dcfa33e43f819e4fe96661588",
+    "fecha": "2022-12-04",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.94
+  },
+  {
+    "id": "71448aaee3d8a82dcfa33e43f819e4fe96661588",
+    "fecha": "2022-12-05",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 46.85
+  },
+  {
+    "id": "71448aaee3d8a82dcfa33e43f819e4fe96661588",
+    "fecha": "2023-01-05",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.74
+  },
+  {
+    "id": "b122377cec8cde56ba3b037afc3564ee77594abb",
+    "fecha": "2022-06-09",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 42.2
+  },
+  {
+    "id": "b122377cec8cde56ba3b037afc3564ee77594abb",
+    "fecha": "2022-07-09",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 41.62
+  },
+  {
+    "id": "b122377cec8cde56ba3b037afc3564ee77594abb",
+    "fecha": "2022-07-10",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 41.47
+  },
+  {
+    "id": "b122377cec8cde56ba3b037afc3564ee77594abb",
+    "fecha": "2022-08-10",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 43.52
+  },
+  {
+    "id": "b122377cec8cde56ba3b037afc3564ee77594abb",
+    "fecha": "2022-08-29",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 11.5
+  },
+  {
+    "id": "b122377cec8cde56ba3b037afc3564ee77594abb",
+    "fecha": "2022-09-05",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "digital",
+    "monto": 11.64
+  },
+  {
+    "id": "b122377cec8cde56ba3b037afc3564ee77594abb",
+    "fecha": "2022-09-10",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 45.92
+  },
+  {
+    "id": "b122377cec8cde56ba3b037afc3564ee77594abb",
+    "fecha": "2022-10-10",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 44.86
+  },
+  {
+    "id": "b122377cec8cde56ba3b037afc3564ee77594abb",
+    "fecha": "2022-11-10",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.5
+  },
+  {
+    "id": "b122377cec8cde56ba3b037afc3564ee77594abb",
+    "fecha": "2022-12-10",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.55
+  },
+  {
+    "id": "b122377cec8cde56ba3b037afc3564ee77594abb",
+    "fecha": "2023-01-10",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.28
+  },
+  {
+    "id": "a657783ecfa4237031662b76c048df6a937c6148",
+    "fecha": "2022-08-07",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 44.33
+  },
+  {
+    "id": "a657783ecfa4237031662b76c048df6a937c6148",
+    "fecha": "2022-09-07",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.23
+  },
+  {
+    "id": "a657783ecfa4237031662b76c048df6a937c6148",
+    "fecha": "2022-10-07",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 44.68
+  },
+  {
+    "id": "a657783ecfa4237031662b76c048df6a937c6148",
+    "fecha": "2022-12-07",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.72
+  },
+  {
+    "id": "a657783ecfa4237031662b76c048df6a937c6148",
+    "fecha": "2023-01-07",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.98
+  }
+]

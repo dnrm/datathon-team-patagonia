@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-01-04",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 15.18
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-01-05",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 11.62
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-01-07",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 18.85
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-01-20",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 10.57
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-01-20",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 20.92
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-01-22",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 36.43
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-01-26",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 57.57
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-01-26",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 19.54
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-01-27",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 24.37
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-02-06",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 17.81
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-02-06",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.26
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-02-09",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 45.9
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-02-09",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 23.56
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-02-09",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 7.59
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-02-13",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 12.65
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-02-17",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 2.54
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-02-20",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 22.18
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-02-23",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 34.91
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-02-23",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 15.12
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-02-24",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.12
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-02-24",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-02-25",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 57.57
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-03-03",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-03-03",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.98
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-03-12",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 5.41
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-03-18",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.59
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-03-19",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 25.03
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-03-19",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 10.24
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-03-21",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 8.23
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-03-25",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 57.57
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-03-29",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 16.29
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-03-30",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-03-30",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.42
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-03-31",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-03-31",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.14
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-04-05",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-04-06",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-04-08",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 10.06
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-04-11",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 22.64
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-04-14",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 15.17
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-04-20",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 25.06
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-04-20",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 11.73
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-04-27",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 19.77
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-04-27",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 19.77
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-04-27",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-04-28",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 17.82
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-04-30",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 57.57
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-05-03",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "fisica",
+    "monto": 6.9
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-05-04",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 25.29
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-05-05",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 12.99
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-05-10",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 6.9
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-05-11",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 26.43
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-05-12",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 16.32
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-05-16",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 5.76
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-05-17",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-05-18",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-05-19",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-05-24",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 35.14
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-05-24",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-05-26",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 12.65
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-05-27",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 10.12
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-05-28",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.11
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-05-29",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 4.61
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-05-31",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-06-01",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-06-01",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-06-01",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 16.33
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-06-02",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 74.8
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-06-03",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 35.67
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-06-04",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.71
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-06-07",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 19.77
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-06-09",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-06-10",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 45.62
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-06-11",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.07
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-06-12",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.15
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-06-13",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 2.14
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-06-19",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 25.15
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-06-19",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 10.24
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-06-20",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-06-21",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-06-22",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-06-24",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 6.33
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-06-24",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-06-25",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-06-28",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 1.85
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-06-29",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-06-30",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-07-01",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 11.73
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-07-01",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 14.03
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-07-01",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.49
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-07-02",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 74.8
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-07-04",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.42
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-07-04",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-07-08",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 17.36
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-07-09",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-07-11",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-07-12",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.4
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-07-13",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 7.36
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-07-13",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 40.22
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-07-16",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 16.21
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-07-22",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 10.24
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-07-22",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 25.17
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-07-23",
+    "comercio": "PLAYSTATION NETWORK",
+    "giro_comercio": "BIENES DIGITALES JUEGOS",
+    "tipo_venta": "fisica",
+    "monto": 17.1
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-07-24",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 11.73
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-07-25",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 9.03
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-07-25",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-07-29",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 57.57
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-07-30",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 20.35
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-07-31",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 14.37
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-08-03",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.87
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-08-04",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.23
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-08-12",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 75.03
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-08-20",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 35.26
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-08-22",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 21.84
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-08-22",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 4.84
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-08-26",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 57.57
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-08-27",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 18.74
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-08-27",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 15.87
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-09-01",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 25.86
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-09-02",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 15.87
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-09-03",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 194.39
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-09-05",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 24.71
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-09-07",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.34
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-09-10",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 28.85
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-09-11",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 18.97
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-09-13",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 31.03
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-09-14",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-09-14",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.43
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-09-14",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-09-15",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 10.12
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-09-19",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 8.63
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-09-20",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.82
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-09-22",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 34.71
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-09-23",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 57.57
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-09-28",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-09-29",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.72
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-09-29",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.42
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-10-04",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 13.91
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-10-05",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 38.27
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-10-07",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 18.97
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-10-08",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 18.16
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-10-10",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 60.9
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-10-13",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 89.91
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-10-16",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 10.01
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-10-20",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 25.17
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-10-21",
+    "comercio": "PLAYSTATION NETWORK",
+    "giro_comercio": "BIENES DIGITALES JUEGOS",
+    "tipo_venta": "fisica",
+    "monto": 18.88
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-10-22",
+    "comercio": "PLAYSTATION NETWORK",
+    "giro_comercio": "BIENES DIGITALES JUEGOS",
+    "tipo_venta": "fisica",
+    "monto": 53.54
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-10-28",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 74.8
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-10-29",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 10.24
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-11-06",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.0
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-11-09",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.97
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-11-15",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 19.66
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-11-21",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 13.05
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-11-21",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 28.62
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-11-22",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 86.19
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-11-23",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 14.49
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-11-24",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.8
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-11-25",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 54.52
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-11-26",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 57.57
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-11-26",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 3.69
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-11-26",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 32.21
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-11-26",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.7
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-11-26",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.8
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-11-27",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.8
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-11-27",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 10.24
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-12-01",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 14.72
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-12-02",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 84.68
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-12-02",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 6.67
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-12-05",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.41
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-12-06",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 12.42
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-12-07",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 10.93
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-12-08",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.98
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-12-14",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 24.36
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-12-14",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 37.0
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-12-15",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 41.48
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-12-18",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-12-21",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 10.93
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-12-21",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 25.15
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-12-21",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 12.88
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-12-22",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 61.93
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-12-23",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.83
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-12-23",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.24
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-12-23",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 51.86
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-12-23",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.2
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-12-24",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 21.61
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-12-25",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 57.57
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-12-29",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 20.46
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-12-30",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 81.04
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2022-12-30",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 75.6
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2023-01-01",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 17.3
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2023-01-04",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.72
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2023-01-06",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 11.5
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2023-01-07",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 14.6
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2023-01-10",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 10.58
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2023-01-15",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2023-01-15",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 15.06
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2023-01-16",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 19.37
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2023-01-18",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2023-01-18",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 79.17
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2023-01-22",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2023-01-22",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 81.46
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2023-01-23",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 57.57
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2023-01-24",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 3.0
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2023-01-24",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 20.11
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2023-01-25",
+    "comercio": "PLAYSTATION NETWORK",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 21.78
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2023-01-25",
+    "comercio": "PLAYSTATION NETWORK",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 43.34
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2023-01-25",
+    "comercio": "PLAYSTATION NETWORK",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 21.78
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2023-01-25",
+    "comercio": "PLAYSTATION NETWORK",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 21.78
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2023-01-25",
+    "comercio": "PLAYSTATION NETWORK",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 27.17
+  },
+  {
+    "id": "4eddd025693d96ac3024e78a6c817343ee0a0872",
+    "fecha": "2023-01-27",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  }
+]

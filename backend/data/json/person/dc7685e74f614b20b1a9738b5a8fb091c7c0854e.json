@@ -1,0 +1,2362 @@
+[
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-01-01",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 18.22
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-01-02",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-01-05",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 27.86
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-01-08",
+    "comercio": "IZZI",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 81.81
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-01-10",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 46.77
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-01-11",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-01-14",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 44.93
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-01-15",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 30.11
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-01-18",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-01-19",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 230.79
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-01-23",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-01-23",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-01-23",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-01-23",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-01-23",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-01-24",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-02-01",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-02-02",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 30.05
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-02-03",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 284.57
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-02-06",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.8
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-02-11",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-02-13",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 24.25
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-02-14",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-02-14",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-02-15",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-02-15",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-02-15",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 44.93
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-02-17",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-02-18",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 12.42
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-02-18",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 235.64
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-02-20",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-02-22",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 2.42
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-02-22",
+    "comercio": "IZZI",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 81.81
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-02-27",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-02-28",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.2
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-02-28",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 20.4
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-03-01",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 6.22
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-03-02",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 193.74
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-03-06",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 31.32
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-03-10",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 29.36
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-03-10",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 27.52
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-03-11",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-03-13",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 20.35
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-03-19",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 44.93
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-03-19",
+    "comercio": "IZZI",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 81.81
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-03-21",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 15.75
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-03-22",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 18.28
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-03-25",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 8.74
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-03-26",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 10.35
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-03-28",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 15.98
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-03-28",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 19.05
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-03-29",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 44.93
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-04-01",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 8.74
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-04-03",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 8.74
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-04-03",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 13.57
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-04-07",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 16.38
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-04-08",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 8.17
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-04-09",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 45.18
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-04-09",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 45.18
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-04-09",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 45.18
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-04-10",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 57.57
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-04-10",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 32.29
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-04-10",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 57.57
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-04-10",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 57.57
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-04-10",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 32.29
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-04-11",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 32.29
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-04-11",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-04-11",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 8.74
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-04-11",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 23.07
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-04-12",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-04-12",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 23.3
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-04-14",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 255.24
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-04-15",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 27.7
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-04-15",
+    "comercio": "IZZI",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 81.81
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-04-18",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-04-20",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 12.65
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-04-23",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 6.85
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-04-26",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 13.68
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-04-29",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 44.93
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-04-29",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-05-05",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 13.45
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-05-05",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-05-08",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 11.19
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-05-09",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-05-09",
+    "comercio": "IZZI",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 81.81
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-05-11",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-05-13",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 8.74
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-05-15",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 161.42
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-05-17",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 25.3
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-05-18",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.58
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-05-19",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 228.93
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-05-19",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 24.53
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-05-23",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-05-29",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 44.93
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-05-30",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 20.46
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-06-04",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 20.47
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-06-05",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-06-07",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 8.74
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-06-10",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 2.54
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-06-11",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-06-12",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 9.89
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-06-13",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 30.23
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-06-14",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 8.74
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-06-16",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 13.68
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-06-17",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 9.89
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-06-17",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 2.08
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-06-19",
+    "comercio": "IZZI",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 81.81
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-06-21",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 4.26
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-06-23",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 247.11
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-07-02",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 10.47
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-07-03",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-07-10",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.72
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-07-11",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.08
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-07-11",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-07-11",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-07-12",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 30.34
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-07-13",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 44.93
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-07-13",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 24.83
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-07-13",
+    "comercio": "IZZI",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 81.81
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-07-13",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.47
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-07-19",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 6.39
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-07-23",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 10.47
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-07-23",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 19.43
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-07-25",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 25.52
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-07-25",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 14.2
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-07-28",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 11.67
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-07-28",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 32.29
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-07-29",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 44.93
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-07-29",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 9.89
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-07-29",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 16.99
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-08-02",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.96
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-08-03",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 148.05
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-08-04",
+    "comercio": "PARCO",
+    "giro_comercio": "ESTACIONAMIENTOS/PENSIONES",
+    "tipo_venta": "digital",
+    "monto": 9.33
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-08-05",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "fisica",
+    "monto": 18.62
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-08-05",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 49.18
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-08-08",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "fisica",
+    "monto": 16.32
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-08-08",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-08-08",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-08-08",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 32.02
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-08-11",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-08-14",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 27.01
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-08-14",
+    "comercio": "IZZI",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 81.81
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-08-15",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.82
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-08-21",
+    "comercio": "SMARTFIT",
+    "giro_comercio": "CLUBS DEPORTIVOS MEMBRESIAS, CLUB CAMPESTRE",
+    "tipo_venta": "digital",
+    "monto": 67.45
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-08-22",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-08-22",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.55
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-08-29",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.87
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-08-31",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.07
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-09-02",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 19.3
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-09-02",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 14.26
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-09-02",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 2.4
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-09-04",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.99
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-09-07",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 16.67
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-09-08",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 30.43
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-09-11",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-09-12",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 29.38
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-09-13",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-09-14",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 165.07
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-09-17",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-09-19",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 44.93
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-09-20",
+    "comercio": "SMARTFIT",
+    "giro_comercio": "CLUBS DEPORTIVOS MEMBRESIAS, CLUB CAMPESTRE",
+    "tipo_venta": "digital",
+    "monto": 67.45
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-09-21",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 21.84
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-09-23",
+    "comercio": "IZZI",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 81.81
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-09-23",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 23.91
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-09-23",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 33.44
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-09-23",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 68.15
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-09-29",
+    "comercio": "PARCO",
+    "giro_comercio": "ESTACIONAMIENTOS/PENSIONES",
+    "tipo_venta": "digital",
+    "monto": 9.33
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-09-29",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 216.61
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-10-02",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.28
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-10-02",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 265.62
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-10-02",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 333.28
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-10-02",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 275.84
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-10-08",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 30.43
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-10-09",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.81
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-10-10",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 41.88
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-10-11",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 44.93
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-10-11",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-10-14",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 32.3
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-10-14",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.92
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-10-16",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 14.02
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-10-19",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.27
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-10-20",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 43.79
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-10-20",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 18.66
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-10-22",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-10-23",
+    "comercio": "IZZI",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 96.74
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-10-23",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 44.93
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-10-23",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.72
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-10-24",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 51.02
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-10-25",
+    "comercio": "SMARTFIT",
+    "giro_comercio": "CLUBS DEPORTIVOS MEMBRESIAS, CLUB CAMPESTRE",
+    "tipo_venta": "digital",
+    "monto": 67.45
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-10-25",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 18.36
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-10-25",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 1.72
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-10-28",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 27.86
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-10-29",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 15.73
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-10-30",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 14.8
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-10-30",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 17.81
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-10-31",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 229.89
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-10-31",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 32.21
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-10-31",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 13.34
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-11-01",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.88
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-11-02",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.87
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-11-03",
+    "comercio": "PARCO",
+    "giro_comercio": "ESTACIONAMIENTOS/PENSIONES",
+    "tipo_venta": "digital",
+    "monto": 6.67
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-11-03",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 183.25
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-11-04",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 15.22
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-11-05",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 12.97
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-11-05",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 25.96
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-11-06",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 12.88
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-11-06",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 28.85
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-11-06",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.17
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-11-08",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 8.48
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-11-09",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-11-10",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 27.01
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-11-11",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-11-12",
+    "comercio": "IZZI",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 96.74
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-11-12",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 14.14
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-11-13",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 13.57
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-11-13",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 13.37
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-11-15",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 14.9
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-11-15",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 16.67
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-11-15",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.67
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-11-16",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.45
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-11-17",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 21.27
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-11-19",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 24.43
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-11-19",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 19.72
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-11-19",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 12.29
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-11-20",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 14.9
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-11-20",
+    "comercio": "SMARTFIT",
+    "giro_comercio": "CLUBS DEPORTIVOS MEMBRESIAS, CLUB CAMPESTRE",
+    "tipo_venta": "digital",
+    "monto": 67.45
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-11-25",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 13.89
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-11-27",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 21.6
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-11-27",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 17.59
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-11-27",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 14.9
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-11-28",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 21.6
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-11-29",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 44.93
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-11-30",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 8.17
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-12-02",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 25.13
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-12-02",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 18.85
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-12-03",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 13.53
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-12-04",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.57
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-12-04",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 14.22
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-12-04",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 7.69
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-12-06",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 17.59
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-12-06",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 13.53
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-12-07",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 46.19
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-12-07",
+    "comercio": "FARMACIAS DEL AHORRO",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 116.73
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-12-07",
+    "comercio": "PARCO",
+    "giro_comercio": "ESTACIONAMIENTOS/PENSIONES",
+    "tipo_venta": "digital",
+    "monto": 11.35
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-12-09",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 13.42
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-12-10",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 27.7
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-12-10",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.84
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-12-11",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-12-11",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 13.76
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-12-12",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.2
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-12-13",
+    "comercio": "WALMART",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 10.47
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-12-13",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 42.95
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-12-14",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 20.58
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-12-16",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 12.75
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-12-20",
+    "comercio": "SMARTFIT",
+    "giro_comercio": "CLUBS DEPORTIVOS MEMBRESIAS, CLUB CAMPESTRE",
+    "tipo_venta": "digital",
+    "monto": 67.45
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-12-22",
+    "comercio": "IZZI",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 85.25
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-12-26",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 11.82
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-12-26",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 48.62
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-12-26",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 103.52
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-12-27",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 13.76
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-12-28",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 85.02
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-12-29",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 44.93
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-12-29",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 51.71
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-12-30",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 11.28
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-12-30",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 48.62
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-12-30",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 16.65
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2022-12-31",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 8.17
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2023-01-02",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 9.49
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2023-01-03",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 13.2
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2023-01-06",
+    "comercio": "RAPPIPRO",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 1.6
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2023-01-07",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 26.43
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2023-01-07",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 13.35
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2023-01-10",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 26.66
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2023-01-10",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 12.75
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2023-01-11",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 19.66
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2023-01-11",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.32
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2023-01-13",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 13.77
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2023-01-13",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 42.55
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2023-01-13",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 19.45
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2023-01-17",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 43.51
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2023-01-17",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.17
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2023-01-18",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 43.38
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2023-01-18",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.16
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2023-01-19",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 38.04
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2023-01-20",
+    "comercio": "SMARTFIT",
+    "giro_comercio": "CLUBS DEPORTIVOS MEMBRESIAS, CLUB CAMPESTRE",
+    "tipo_venta": "digital",
+    "monto": 67.45
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2023-01-20",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 31.83
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2023-01-22",
+    "comercio": "RAPPI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 42.62
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2023-01-22",
+    "comercio": "RAPPI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 43.43
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2023-01-24",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 48.62
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2023-01-24",
+    "comercio": "IZZI",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 85.25
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2023-01-28",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 25.87
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2023-01-29",
+    "comercio": "WALMART",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 74.23
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2023-01-29",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 44.93
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2023-01-29",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 12.75
+  },
+  {
+    "id": "dc7685e74f614b20b1a9738b5a8fb091c7c0854e",
+    "fecha": "2023-01-30",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 8.17
+  }
+]

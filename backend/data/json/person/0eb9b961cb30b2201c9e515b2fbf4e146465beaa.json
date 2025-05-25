@@ -1,0 +1,5666 @@
+[
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-02",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 339.03
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-02",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 122.51
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-02",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-03",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 27.81
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-05",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 78.93
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-05",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 24.35
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-05",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 830.47
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-06",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 16.78
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-06",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "SERVICIOS PUBLICITARIOS",
+    "tipo_venta": "fisica",
+    "monto": 39.44
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-07",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-07",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-08",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 163.37
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-08",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 139.75
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-09",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 6.65
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-09",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.11
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-09",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.11
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-09",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.11
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-09",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.11
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-09",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.11
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-09",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.11
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-09",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "SERVICIOS PUBLICITARIOS",
+    "tipo_venta": "fisica",
+    "monto": 21.35
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-09",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-10",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.03
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-11",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.87
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-11",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.87
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-11",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 83.4
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-11",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 24.07
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-12",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.87
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-12",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 108.58
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-13",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.87
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-13",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.87
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-13",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "SERVICIOS PUBLICITARIOS",
+    "tipo_venta": "fisica",
+    "monto": 23.19
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-14",
+    "comercio": "TOTAL PLAY",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 55.27
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-14",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "SERVICIOS PUBLICITARIOS",
+    "tipo_venta": "fisica",
+    "monto": 46.19
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-15",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "SERVICIOS PUBLICITARIOS",
+    "tipo_venta": "fisica",
+    "monto": 20.46
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-15",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "SERVICIOS PUBLICITARIOS",
+    "tipo_venta": "fisica",
+    "monto": 7.9
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-15",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 82.29
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-16",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-16",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-16",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 137.74
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-16",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 63.71
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-17",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.87
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-17",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 92.36
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-17",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 10.35
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-18",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.87
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-18",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 181.3
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-18",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 138.69
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-19",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.87
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-20",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.87
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-20",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 64.58
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-20",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 21.5
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-20",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-20",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 51.59
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-20",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-23",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.03
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-23",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.03
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-23",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.03
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-23",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.03
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-23",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.03
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-23",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 171.02
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-24",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-24",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 217.37
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-24",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 51.47
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-24",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 182.9
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-25",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.87
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-25",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.87
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-25",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 95.59
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-25",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 51.82
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-25",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-25",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 70.67
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-26",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.87
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-26",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 55.38
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-27",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.87
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-29",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 17.47
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-29",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 23.93
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-29",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 24.0
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-29",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-29",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 1.96
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-30",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.03
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-30",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 52.47
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-30",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 250.91
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-31",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-31",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-31",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-31",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.49
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-31",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 127.63
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-31",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 123.57
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-01-31",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 12.76
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-01",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 16.78
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-01",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 182.9
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-01",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-02",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.87
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-02",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.87
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-02",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.87
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-02",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 203.92
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-02",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 142.34
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-03",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.87
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-03",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.87
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-03",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.87
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-03",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 182.9
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-03",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 182.9
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-06",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-06",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-06",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 119.42
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-07",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.11
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-07",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 272.97
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-08",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.87
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-08",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 8.0
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-09",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-09",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-09",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 106.4
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-09",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 37.59
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-09",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 134.65
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-09",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 32.87
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-10",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.87
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-10",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.87
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-10",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.87
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-10",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 46.98
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-10",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 11.56
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-12",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 69.17
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-13",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-13",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-13",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 137.75
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-14",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.03
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-14",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.03
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-14",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.03
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-14",
+    "comercio": "TOTAL PLAY",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 55.27
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-14",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 69.17
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-15",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 39.3
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-15",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.59
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-15",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.61
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-15",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.87
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-16",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.87
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-19",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 137.75
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-20",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.03
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-20",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.03
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-20",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 167.51
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-20",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-21",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.03
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-22",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 91.92
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-22",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 69.0
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-22",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 16.72
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-23",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.87
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-23",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.87
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-23",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 69.17
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-23",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 183.25
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-23",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 10.58
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-23",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 50.4
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-23",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 69.17
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-24",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-26",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 137.75
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-27",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-27",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-27",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-27",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 5.41
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-27",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-28",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-28",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-28",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 290.55
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-28",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 29.12
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-28",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 144.3
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-28",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 70.2
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-28",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 8.29
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-28",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-28",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 185.07
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-02-28",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 5.07
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-01",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-01",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-02",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.03
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-02",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-04",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 200.99
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-04",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 69.17
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-05",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.87
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-05",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.87
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-05",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 150.61
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-06",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 33.79
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-06",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 225.07
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-07",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.87
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-07",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.87
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-07",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 164.34
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-08",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-08",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 115.12
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-09",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.87
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-09",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 46.37
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-11",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 137.75
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-12",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-12",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-12",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-12",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.52
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-13",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-13",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-13",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-13",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 217.6
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-14",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-14",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-14",
+    "comercio": "TOTAL PLAY",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 55.27
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-14",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 115.12
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-15",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 30.13
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-15",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.67
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-15",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-15",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 68.71
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-16",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-16",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 142.58
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-19",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 6.44
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-19",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-19",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 165.71
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-20",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-20",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 156.25
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-20",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-21",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-22",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.11
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-22",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 55.63
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-23",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.03
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-23",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 141.83
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-24",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 24.36
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-24",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 19.76
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-25",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-26",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.11
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-26",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.11
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-26",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.11
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-27",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.11
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-27",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.11
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-27",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 158.43
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-27",
+    "comercio": "FARMACIAS GUADALAJARA",
+    "giro_comercio": "DROGUERIAS, (FARMACIAS)",
+    "tipo_venta": "fisica",
+    "monto": 96.44
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-28",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-28",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 208.29
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-28",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 16.32
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-29",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.03
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-03-29",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 37.17
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-01",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 137.75
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-01",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-02",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 172.57
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-02",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.11
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-02",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.11
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-02",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.11
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-02",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.11
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-02",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 63.18
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-03",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.11
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-03",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 157.96
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-04",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-04",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-04",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-05",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.11
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-05",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 91.92
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-06",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 20.35
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-06",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 20.35
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-06",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.11
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-06",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 12.87
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-08",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 276.41
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-08",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 86.29
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-09",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.03
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-09",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 51.29
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-09",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 105.66
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-09",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 34.36
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-10",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 9.8
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-10",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 9.8
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-10",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 137.07
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-11",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.87
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-11",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 71.25
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-11",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 114.43
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-12",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.03
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-13",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.03
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-13",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.03
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-13",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 100.19
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-14",
+    "comercio": "TOTAL PLAY",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 55.27
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-15",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 128.3
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-15",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 137.41
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-16",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.11
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-17",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.11
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-17",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.11
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-17",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.11
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-17",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 179.0
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-18",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.87
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-18",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 137.75
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-19",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-19",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-20",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.11
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-20",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.11
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-20",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.11
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-20",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.22
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-20",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-21",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-22",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 137.75
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-23",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 11.27
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-23",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 11.27
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-23",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 140.23
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-23",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 1.74
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-23",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 15.06
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-24",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.11
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-24",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.11
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-24",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 253.9
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-25",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.87
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-25",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 112.91
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-25",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-26",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 12.3
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-27",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 12.3
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-27",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 12.3
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-29",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 109.61
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-04-30",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 12.19
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-01",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.03
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-01",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 148.83
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-01",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-02",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.87
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-03",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-03",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 143.16
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-04",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.03
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-04",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 64.46
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-04",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 201.97
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-07",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.11
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-07",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 75.41
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-08",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.03
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-08",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 137.75
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-08",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 160.96
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-08",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 182.79
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-09",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.87
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-09",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 199.78
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-10",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.38
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-10",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 43.7
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-10",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.38
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-11",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.11
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-13",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 69.0
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-13",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 69.0
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-14",
+    "comercio": "TOTAL PLAY",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 55.27
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-14",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 17.36
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-14",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 171.19
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-15",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 71.24
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-15",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 111.54
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-15",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.05
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-15",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.11
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-16",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 16.78
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-16",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 88.25
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-16",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 156.25
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-17",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.53
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-17",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 15.12
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-17",
+    "comercio": "ATT",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-17",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 40.69
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-17",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 14.72
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-18",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-18",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 114.84
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-18",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.93
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-20",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 46.08
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-20",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 55.25
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-20",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-21",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 12.19
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-22",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 12.19
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-23",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 16.78
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-23",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 163.74
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-24",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.03
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-24",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 95.25
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-25",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-25",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 66.64
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-25",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-27",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 91.92
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-28",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 12.19
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-29",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.03
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-29",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 154.99
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-30",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 17.7
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-30",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 101.08
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-31",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-05-31",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-01",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.87
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-01",
+    "comercio": "UBER EATS",
+    "giro_comercio": "TRASLADOS - FLETES, (SERVICIOS DE MENSAJERIA)",
+    "tipo_venta": "digital",
+    "monto": 65.3
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-02",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-03",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 12.87
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-03",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 9.18
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-04",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 12.19
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-04",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 91.92
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-04",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.03
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-04",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-05",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.03
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-05",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 131.44
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-06",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 17.7
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-06",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 73.54
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-07",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.87
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-08",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-08",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 73.54
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-10",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 12.87
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-10",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.58
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-10",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.59
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-11",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 12.19
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-11",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 240.23
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-11",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 171.19
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-12",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.03
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-12",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 106.4
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-13",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 16.78
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-14",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 7.07
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-14",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-14",
+    "comercio": "TOTAL PLAY",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 57.57
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-14",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 50.66
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-15",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.26
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-15",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.11
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-17",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 246.37
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-18",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 18.97
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-18",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 54.99
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-19",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-20",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-20",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 124.85
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-20",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 3.92
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-20",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-21",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.87
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-21",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 172.94
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-21",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 6.56
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-22",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-22",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 110.25
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-23",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 115.12
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-23",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 418.45
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-25",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 12.19
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-25",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 27.43
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-25",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 76.52
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-25",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-26",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.03
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-26",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 176.39
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-26",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 27.17
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-27",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 16.78
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-27",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 156.34
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-27",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 225.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-28",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 21.93
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-28",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 133.05
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-29",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.03
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-30",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 21.15
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-06-30",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-01",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 177.33
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-02",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.11
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-02",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.11
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-02",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 183.39
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-03",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.03
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-04",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-06",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.87
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-06",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 40.22
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-08",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 317.09
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-08",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 107.16
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-09",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.11
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-10",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 18.09
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-11",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-12",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.37
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-12",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 114.84
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-13",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 24.17
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-13",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 5.76
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-14",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-14",
+    "comercio": "TOTAL PLAY",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 57.57
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-15",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 33.44
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-15",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 167.05
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-16",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 21.46
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-16",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 91.92
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-17",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 13.11
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-17",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 36.82
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-17",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 55.25
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-18",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 61.3
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-19",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 26.43
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-19",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 5.54
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-20",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 25.9
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-20",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 7.36
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-20",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-23",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 182.28
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-23",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 159.58
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-23",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 20.0
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-24",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 14.03
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-24",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 243.54
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-25",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 23.96
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-25",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 100.19
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-25",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 188.26
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-25",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-26",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 20.59
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-27",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 26.6
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-27",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 23.86
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-28",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 260.6
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-30",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 26.3
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-30",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 100.19
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-30",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-07-31",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 38.95
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-01",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 22.17
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-01",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 172.57
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-01",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 25.47
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-01",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 12.03
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-02",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 36.4
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-02",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 225.87
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-02",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 141.32
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-03",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.87
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-06",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 50.07
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-07",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 20.45
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-07",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 140.97
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-08",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 18.34
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-08",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 4.84
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-09",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 36.45
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-09",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 137.75
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-09",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 253.1
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-10",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 49.71
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-10",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.86
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-10",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 189.8
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-11",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 72.5
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-13",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 26.62
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-13",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 92.58
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-13",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 103.33
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-14",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 22.96
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-14",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 100.19
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-15",
+    "comercio": "FACEBOOK",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 54.03
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-15",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 27.55
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-16",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 29.32
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-16",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 176.81
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-16",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-17",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 56.88
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-17",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 23.04
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-17",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 100.19
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-18",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 37.13
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-20",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 17.02
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-20",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-21",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 22.06
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-21",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 62.45
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-21",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 118.8
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-22",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 28.14
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-22",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 137.75
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-23",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 24.2
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-23",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 222.07
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-24",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 29.68
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-24",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 28.47
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-24",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 105.47
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-24",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 28.04
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-24",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 150.99
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-25",
+    "comercio": "CABLEYCOMUN",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 25.4
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-25",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-27",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 7.29
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-28",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 37.8
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-29",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 2.63
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-29",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-30",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 23.31
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-30",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 156.86
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-08-31",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 23.63
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-09-01",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 260.6
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-09-02",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 98.81
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-09-03",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 53.82
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-09-03",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 165.9
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-09-04",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 16.12
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-09-04",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.57
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-09-04",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 54.96
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-09-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 8.0
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-09-05",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 16.78
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-09-05",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 16.58
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-09-06",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 27.15
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-09-07",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 23.33
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-09-07",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 23.51
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-09-08",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 39.3
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-09-08",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 78.25
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-09-09",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 18.62
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-09-10",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 12.19
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-09-11",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 15.51
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-09-11",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 178.7
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-09-12",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 21.01
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-09-12",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 70.21
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-09-13",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 21.76
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-09-14",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 22.79
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-09-17",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 86.24
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-09-18",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 18.13
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-09-18",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 194.65
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-09-19",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 33.61
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-09-20",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 28.07
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-09-20",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 158.84
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-09-20",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-09-21",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 93.97
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-09-21",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 115.12
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-09-22",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.43
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-09-22",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 102.26
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-09-24",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 125.26
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-09-25",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 11.49
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-09-25",
+    "comercio": "CABLEYCOMUN",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 36.89
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-09-25",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-09-26",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 49.58
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-09-26",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 220.38
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-09-27",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 26.31
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-09-28",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 50.87
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-09-28",
+    "comercio": "SUPERCENTER",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 88.64
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-09-28",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-09-29",
+    "comercio": "CINEPOLIS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 37.0
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-10-01",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 121.21
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-10-02",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 31.51
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-10-03",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 31.67
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-10-04",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 39.34
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-10-04",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 15.06
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-10-05",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 37.43
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-10-06",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 2.54
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-10-07",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 34.59
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-10-08",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 60.53
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-10-08",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 67.79
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-10-09",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 21.46
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-10-09",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 222.38
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-10-10",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 16.18
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-10-11",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 19.27
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-10-11",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 5.17
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-10-11",
+    "comercio": "MERCADOPAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 110.02
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-10-12",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 28.05
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-10-12",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 5.07
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-10-13",
+    "comercio": "RAPPI",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 40.77
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-10-15",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 33.96
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-10-15",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 45.21
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-10-15",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 45.32
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-10-16",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 28.84
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-10-17",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 36.1
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-10-17",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 340.88
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-10-18",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 20.1
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-10-18",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 108.58
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-10-19",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 23.09
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-10-19",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 3.21
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-10-20",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-10-21",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 57.45
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-10-22",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 44.97
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-10-22",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 126.04
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-10-23",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 27.89
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-10-24",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 34.15
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-10-25",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 24.52
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-10-25",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 174.63
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-10-25",
+    "comercio": "CABLEYCOMUN",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 36.89
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-10-25",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 22.61
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-10-25",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-10-26",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 37.03
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-10-28",
+    "comercio": "MELIMAS",
+    "giro_comercio": "MERCADEO DIRECTO - COMERCIANTES DE TELEMERCADEO",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-10-29",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 70.73
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-10-29",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 838.77
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-10-30",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 21.77
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-10-31",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 17.43
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-11-01",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 38.75
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-11-02",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 21.74
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-11-02",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 264.77
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-11-05",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 81.54
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-11-06",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 47.1
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-11-06",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 55.25
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-11-06",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 24.14
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-11-07",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 69.25
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-11-08",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 65.63
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-11-09",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 23.22
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-11-09",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 232.99
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-11-09",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 25.4
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-11-12",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 40.54
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-11-13",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 16.03
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-11-13",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 48.16
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-11-14",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 25.97
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-11-15",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 25.52
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-11-15",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 29.88
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-11-15",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 30.63
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-11-15",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.09
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-11-16",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 16.5
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-11-19",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 41.7
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-11-19",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 180.72
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-11-20",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 16.65
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-11-20",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-11-21",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 28.31
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-11-21",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 27.74
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-11-21",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 28.85
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-11-22",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 16.67
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-11-25",
+    "comercio": "CABLEYCOMUN",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 36.89
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-11-25",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-11-27",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 9.43
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-11-27",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-11-28",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 17.66
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-11-28",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 76.06
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-11-29",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 11.27
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-11-29",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 17.36
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-11-30",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 20.37
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-11-30",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 69.17
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-12-02",
+    "comercio": "SORIANA",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 41.6
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-12-04",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 11.27
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-12-04",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.14
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-12-05",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "fisica",
+    "monto": 21.9
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-12-05",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 20.36
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-12-05",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-12-07",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 20.0
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-12-07",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 8.86
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-12-09",
+    "comercio": "SORIANA",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 82.96
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-12-09",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 12.53
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-12-10",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 9.55
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-12-10",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 415.89
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-12-11",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 12.82
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-12-12",
+    "comercio": "SORIANA",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 93.07
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-12-15",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 46.52
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-12-16",
+    "comercio": "SORIANA",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 103.64
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-12-18",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 23.45
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-12-19",
+    "comercio": "SORIANA",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 73.58
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-12-20",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 24.94
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-12-20",
+    "comercio": "SORIANA",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 23.16
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-12-20",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-12-21",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 21.27
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-12-25",
+    "comercio": "CABLEYCOMUN",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 36.89
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-12-25",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-12-26",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 184.05
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2022-12-27",
+    "comercio": "MELIMAS",
+    "giro_comercio": "MERCADEO DIRECTO - COMERCIANTES DE TELEMERCADEO",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2023-01-05",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 187.73
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2023-01-06",
+    "comercio": "SORIANA",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 25.86
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2023-01-09",
+    "comercio": "SORIANA",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 91.92
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2023-01-09",
+    "comercio": "SORIANA",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 31.65
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2023-01-10",
+    "comercio": "SORIANA",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 53.32
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2023-01-10",
+    "comercio": "SORIANA",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 10.35
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2023-01-11",
+    "comercio": "SORIANA",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 76.32
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2023-01-13",
+    "comercio": "SORIANA",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 103.64
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2023-01-14",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 97.2
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2023-01-15",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 23.1
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2023-01-15",
+    "comercio": "OPENAI",
+    "giro_comercio": "VENTA DE SOFTWARE PARA COMPUTADORAS",
+    "tipo_venta": "fisica",
+    "monto": 47.31
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2023-01-16",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 135.92
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2023-01-20",
+    "comercio": "APPLE",
+    "giro_comercio": NaN,
+    "tipo_venta": "fisica",
+    "monto": 24.94
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2023-01-20",
+    "comercio": "SORIANA",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 24.71
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2023-01-20",
+    "comercio": "SPOTIFY",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 23.1
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2023-01-21",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 22.55
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2023-01-21",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 13.34
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2023-01-23",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 9.76
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2023-01-23",
+    "comercio": "CHEDRAUI",
+    "giro_comercio": "4121",
+    "tipo_venta": "fisica",
+    "monto": 103.59
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2023-01-23",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "fisica",
+    "monto": 179.23
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2023-01-25",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.17
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2023-01-25",
+    "comercio": "CABLEYCOMUN",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 56.53
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2023-01-25",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2023-01-25",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.68
+  },
+  {
+    "id": "0eb9b961cb30b2201c9e515b2fbf4e146465beaa",
+    "fecha": "2023-01-26",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  }
+]

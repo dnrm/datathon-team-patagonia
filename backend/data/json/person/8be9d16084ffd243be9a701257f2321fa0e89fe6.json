@@ -1,0 +1,2298 @@
+[
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-01-04",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-01-04",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 22.63
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-01-05",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.15
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-01-05",
+    "comercio": "TEMU",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 120.06
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-01-08",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 14.03
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-01-09",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 26.58
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-01-11",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 54.93
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-01-11",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 108.23
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-01-13",
+    "comercio": "CABLEYCOMUN",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 46.08
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-01-16",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 19.19
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-01-17",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 33.24
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-01-18",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 528.02
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-01-20",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-01-22",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-01-23",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-01-24",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 22.3
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-01-25",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-01-27",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 12.65
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-01-28",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 104.44
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-01-28",
+    "comercio": "TEMU",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 71.31
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-01-31",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 19.77
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-02-03",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 179.94
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-02-03",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "digital",
+    "monto": 318.42
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-02-03",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-02-03",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 1723.47
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-02-04",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-02-05",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.15
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-02-05",
+    "comercio": "TEMU",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 85.3
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-02-08",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 16.33
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-02-11",
+    "comercio": "RAPPI",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 41.69
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-02-13",
+    "comercio": "CABLEYCOMUN",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 56.42
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-02-14",
+    "comercio": "TEMU",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 82.16
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-02-16",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.15
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-02-17",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 18.99
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-02-18",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 68.68
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-02-18",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 47.8
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-02-19",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 4.49
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-02-20",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 4.38
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-02-21",
+    "comercio": "TEMU",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 78.31
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-02-21",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 4.49
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-02-22",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 5.87
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-02-23",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 55.04
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-02-24",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-02-28",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 26.55
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-03-01",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-03-03",
+    "comercio": "TEMU",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 56.77
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-03-03",
+    "comercio": "TEMU",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.53
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-03-04",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 371.17
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-03-05",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.15
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-03-08",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 16.33
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-03-09",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 22.3
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-03-10",
+    "comercio": "TEMU",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 68.14
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-03-10",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 67.33
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-03-10",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 80.56
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-03-13",
+    "comercio": "CABLEYCOMUN",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 56.42
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-03-15",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 142.48
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-03-16",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.15
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-03-16",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 30.23
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-03-17",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 52.36
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-03-22",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-03-22",
+    "comercio": "TEMU",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 75.72
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-03-25",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 12.3
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-03-25",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-03-28",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 10.89
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-03-28",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-03-29",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 32.7
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-03-30",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 4.26
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-04-01",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-04-05",
+    "comercio": "TEMU",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 71.64
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-04-05",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.15
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-04-07",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 24.14
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-04-08",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 16.33
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-04-11",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 11.38
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-04-13",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 18.62
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-04-13",
+    "comercio": "CABLEYCOMUN",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 56.42
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-04-14",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 32.29
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-04-16",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.15
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-04-20",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 72.27
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-04-22",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-04-23",
+    "comercio": "TEMU",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 62.72
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-04-23",
+    "comercio": "TEMU",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 11.41
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-04-23",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 26.12
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-04-24",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-04-25",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 12.6
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-04-25",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.93
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-04-26",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 49.24
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-04-27",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "digital",
+    "monto": 251.93
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-04-28",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-04-28",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 246.66
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-04-28",
+    "comercio": "WALMART",
+    "giro_comercio": "AUTOSERVICIOS Y SUPERMERCADOS",
+    "tipo_venta": "digital",
+    "monto": 6.1
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-04-29",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 27.46
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-05-01",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 21.84
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-05-01",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-05-04",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-05-04",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 22.96
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-05-05",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.15
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-05-06",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.83
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-05-07",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.04
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-05-08",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 133.96
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-05-08",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 49.64
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-05-08",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 16.33
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-05-10",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "fisica",
+    "monto": 20.43
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-05-10",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 29.78
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-05-10",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.57
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-05-12",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 31.72
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-05-13",
+    "comercio": "CABLEYCOMUN",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 70.32
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-05-16",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.15
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-05-18",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 17.04
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-05-21",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.13
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-05-23",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-05-24",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "fisica",
+    "monto": 24.36
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-05-24",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "fisica",
+    "monto": 23.36
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-05-24",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-05-25",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 48.72
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-05-31",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 41.83
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-05-31",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "fisica",
+    "monto": 18.74
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-06-01",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-06-01",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 111.45
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-06-02",
+    "comercio": "TEMU",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 93.71
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-06-02",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 63.24
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-06-05",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.15
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-06-07",
+    "comercio": "UBER",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 9.32
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-06-08",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 20.92
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-06-08",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 16.33
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-06-13",
+    "comercio": "CABLEYCOMUN",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 70.32
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-06-16",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.15
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-06-22",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 6.24
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-06-23",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-06-24",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 3.95
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-06-25",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.83
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-06-25",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 8.64
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-06-29",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 48.72
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-06-30",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 5.35
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-06-30",
+    "comercio": "TEMU",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 81.97
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-06-30",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 71.42
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-07-01",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-07-01",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.61
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-07-02",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.93
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-07-02",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 21.04
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-07-05",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.15
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-07-05",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 14.31
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-07-05",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.83
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-07-06",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 33.79
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-07-06",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "digital",
+    "monto": 124.64
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-07-07",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 61.44
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-07-07",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 45.96
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-07-08",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 16.33
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-07-10",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 12.57
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-07-11",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 14.83
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-07-13",
+    "comercio": "CABLEYCOMUN",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 70.32
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-07-13",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "fisica",
+    "monto": 17.25
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-07-15",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 20.81
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-07-16",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 21.72
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-07-16",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.15
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-07-23",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-07-24",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 49.3
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-07-25",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 30.0
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-07-26",
+    "comercio": "TELCEL",
+    "giro_comercio": "COMPUTADORAS EQUIPO PERIF DE COMPUTADORAS SOFTWARE",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-07-28",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 12.53
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-08-01",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-08-02",
+    "comercio": "TELCEL",
+    "giro_comercio": "SERVICIOS EMPRESARIALES - NO CLASIFICADOS",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-08-03",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.69
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-08-04",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 14.14
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-08-05",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.15
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-08-07",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 33.56
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-08-08",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 16.33
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-08-10",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.57
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-08-11",
+    "comercio": "DIDI FOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 95.71
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-08-11",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 6.56
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-08-12",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "fisica",
+    "monto": 12.31
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-08-12",
+    "comercio": "UBER",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "fisica",
+    "monto": 9.42
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-08-12",
+    "comercio": "DIDI",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.61
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-08-13",
+    "comercio": "CABLEYCOMUN",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 70.32
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-08-15",
+    "comercio": "TEMU",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 73.62
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-08-16",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.15
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-08-22",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-08-22",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-08-23",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 43.85
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-08-24",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 11.73
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-08-26",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-08-29",
+    "comercio": "TEMU",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 60.81
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-08-30",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 27.87
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-08-31",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 21.84
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-09-01",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-09-02",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-09-03",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.15
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-09-05",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.15
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-09-08",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 16.33
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-09-09",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-09-16",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-09-16",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.15
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-09-21",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-09-24",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-09-27",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 24.83
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-09-28",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 18.19
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-09-28",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 150.11
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-09-29",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 207.64
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-10-01",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-10-05",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.15
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-10-08",
+    "comercio": "TEMU",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 84.09
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-10-08",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 16.33
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-10-12",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 17.35
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-10-13",
+    "comercio": "CABLEYCOMUN",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 70.32
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-10-16",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.15
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-10-17",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 27.12
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-10-19",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 48.15
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-10-19",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 25.13
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-10-20",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 28.56
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-10-21",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-10-23",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 7.8
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-11-01",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-11-02",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 22.3
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-11-02",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 21.86
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-11-03",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 42.52
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-11-05",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.15
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-11-08",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 4.84
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-11-08",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 16.33
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-11-12",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 57.28
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-11-13",
+    "comercio": "CABLEYCOMUN",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 56.53
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-11-15",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 23.16
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-11-16",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.15
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-11-18",
+    "comercio": "TEMU",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 68.09
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-11-20",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-11-23",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 5.99
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-11-26",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-11-27",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 33.86
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-11-27",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 5.81
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-11-27",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 39.3
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-11-27",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 12.79
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-11-28",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 32.87
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-11-29",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.83
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-11-29",
+    "comercio": "7 ELEVEN",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 3.69
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-11-29",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "LIMOSINAS, (TAXIS)",
+    "tipo_venta": "digital",
+    "monto": 29.38
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-11-29",
+    "comercio": "TEMU",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 54.35
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-11-29",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 16.33
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-11-30",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 172.45
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-11-30",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "TIENDA DEPARTAMENTAL",
+    "tipo_venta": "fisica",
+    "monto": 31.52
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-11-30",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 20.98
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-11-30",
+    "comercio": "UBRPAGOSMEX",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 10.54
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-12-01",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 7.31
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-12-01",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.67
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-12-01",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 2.6
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-12-01",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-12-02",
+    "comercio": "OXXO",
+    "giro_comercio": "TIENDAS DE CONVENIENCIA, MINISUPER",
+    "tipo_venta": "fisica",
+    "monto": 4.09
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-12-02",
+    "comercio": "STARBUCKS",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "fisica",
+    "monto": 33.9
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-12-03",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 42.4
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-12-03",
+    "comercio": "DIDI RIDES",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.63
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-12-04",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 489.75
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-12-05",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.15
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-12-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 39.3
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-12-05",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 17.0
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-12-08",
+    "comercio": "WALMART",
+    "giro_comercio": "4121",
+    "tipo_venta": "digital",
+    "monto": 299.62
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-12-08",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 16.33
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-12-12",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 158.72
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-12-13",
+    "comercio": "CABLEYCOMUN",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 73.77
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-12-14",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 60.92
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-12-14",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 43.55
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-12-14",
+    "comercio": "SAMS CLUB",
+    "giro_comercio": "CLUBES DE MAYORISTA",
+    "tipo_venta": "digital",
+    "monto": 234.89
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-12-16",
+    "comercio": "AMAZON",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 92.93
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-12-16",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.15
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-12-16",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.15
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-12-20",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-12-26",
+    "comercio": "CFE",
+    "giro_comercio": "SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",
+    "tipo_venta": "digital",
+    "monto": 21.15
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-12-26",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-12-26",
+    "comercio": "TEMU",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 70.18
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-12-26",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-12-27",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 31.93
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-12-27",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 48.84
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-12-28",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 50.36
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2022-12-31",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 172.45
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2023-01-01",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 95.5
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2023-01-01",
+    "comercio": "AMAZON PRIME",
+    "giro_comercio": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "tipo_venta": "digital",
+    "monto": 11.62
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2023-01-03",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 42.91
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2023-01-03",
+    "comercio": "TEMU",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 62.03
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2023-01-03",
+    "comercio": "TEMU",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 62.24
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2023-01-04",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "COMERCIOS ELECTRONICOS (VTAS POR INTERNET)",
+    "tipo_venta": "digital",
+    "monto": 73.65
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2023-01-05",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.15
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2023-01-10",
+    "comercio": "DIDIFOOD",
+    "giro_comercio": "COMIDA RAPIDA",
+    "tipo_venta": "digital",
+    "monto": 32.98
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2023-01-13",
+    "comercio": "CABLEYCOMUN",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 73.77
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2023-01-13",
+    "comercio": "LIVERPOOL",
+    "giro_comercio": "MERCADEO DIRECTO - NO CLASIFICADO",
+    "tipo_venta": "digital",
+    "monto": 977.73
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2023-01-15",
+    "comercio": "TEMU",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 65.4
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2023-01-16",
+    "comercio": "GOOGLE",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 4.15
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2023-01-18",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2023-01-19",
+    "comercio": "MELIMAS",
+    "giro_comercio": "AGREGADOR",
+    "tipo_venta": "digital",
+    "monto": 15.16
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2023-01-25",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2023-01-25",
+    "comercio": "TELMEX",
+    "giro_comercio": "SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",
+    "tipo_venta": "digital",
+    "monto": 167.17
+  },
+  {
+    "id": "8be9d16084ffd243be9a701257f2321fa0e89fe6",
+    "fecha": "2023-01-27",
+    "comercio": "MERCADO PAGO",
+    "giro_comercio": "MERCADO DIRECTO - VENTAS POR CATALOGO",
+    "tipo_venta": "digital",
+    "monto": 23.22
+  }
+]
